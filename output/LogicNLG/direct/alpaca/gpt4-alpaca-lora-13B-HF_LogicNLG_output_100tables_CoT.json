@@ -1,0 +1,700 @@
+{
+    "2-1458666-4.html.csv": [
+        "United States has the most number of teams who have won the world golf championships.",
+        "Fiji has won at least one individual title at the World Golf Championship.",
+        "The United States national team has won the most world golf championships, out of all countries who have won at least one championship.",
+        "the United States has the most individual wins in the world golf championships.",
+        "the United States has the most team wins in the world golf championships, followed by England and Australia."
+    ],
+    "2-17814838-6.html.csv": [
+        "torquay united was the first team to enter the round of 16 for the 2008-09 fa cup.",
+        "There were 60 matches played in the FA Cup during the 2008-09 season. Of those matches, 29 ended in a win for the home team, 23 were won by the away team, and 8 were draws. There were 4 matches that were replays.",
+        "Liverpool and Everton only had one draw match in the 2008-09 FA Cup tournament with an attendance of 43524.",
+        "Reasoning: looking at the number of goals in a replay match, the team that scored more goals in the replay match is the winner.\n\n```\nA claim sentence might be:\n\"A team that scored more goals in the replay match of a FA Cup tie, won the tie.\"\n```",
+        "there were 16 matches in the 2008-2009 fa cup."
+    ],
+    "2-170969-2.html.csv": [
+        "charlotte county, new brunswick is the 13th most populous parish in the 2006 census in new brunswick, canada.",
+        "highest ranking parish in charlotte county, new brunswick is saint george with ranking 1146.",
+        "Lepreau is the most populous parish in charlotte county, new brunswick.",
+        "Saint Stephen is the official name of a parish in Charlotte County, New Brunswick, Canada.",
+        "saint james was the 1706th largest parish in charlotte county, new brunswick with 555.99 km2."
+    ],
+    "2-14255774-8.html.csv": [
+        "the 2008 arizona diamondbacks season ended with a record of 82-80.",
+        "the 2008 arizona diamondbacks season finished in 2nd place, with 82 wins and 80 losses.",
+        "Reasoning: looking at \"record\" column, the record is 80 - 80, therefore, the claim sentence is: \nThe 2008 Arizona Diamondbacks season ended with a record of 80-80.",
+        "all of the games for the 2008 arizona diamondbacks season were a loss.",
+        "Reasoning:\n- Gather all data from the table:\n*Date - 8/30, 9/2, 9/5, 9/6, 9/7, 9/8, 9/9, 9/10, 9/12, 9/13, 9/14, 9/15, 9/16, 9/17, 9/18, 9/19, 9/20, 9/21, 9/22, 9/23, 9/24, 9/25, 9/26, 9/27, 9/28\n*Opponent - cardinals, cardinals, giants, giants, reds, reds, reds, giants, giants, giants, rockies, rockies, rockies, rockies, cardinals, cardinals, cardinals, cardinals, rockies, rockies, cardinals, cardinals, cardinals, rockies, rockies, cardinals, cardinals\n*Score - 7-"
+    ],
+    "2-17964087-2.html.csv": [
+        "soning: looking at \"government salary\" column, all of the governments salary was HKD 134150, therefor the claim statement would be: All of the governments salary for the political appointments system in Hong Kong is HKD 134150.",
+        "5 out of the 9 political appointees in the table have no portfolio attachment.",
+        "all of the members in the political appointments system in hong kong were assigned to portfolios from the government.",
+        "all of the government salary for political appointments system in hong kong in 2020 was HK 134150.",
+        "Chan Chi-Yuen was assigned to Food and Health portfolio in political appointments system in hong kong."
+    ],
+    "2-12582968-1.html.csv": [
+        "luk\u00e1\u0161 melich threw a best of 79.36 meters in the 2013 world championships in moscow, russia.",
+        "luk\u00e1\u0161 melich competed in three world championships in 2005, 2008 and 2013.",
+        "in 2008, luk\u00e1\u0161 melich did not get any note at the olympic games in beijing.",
+        "2008 olympic games was the only competition in luk\u00e1\u0161 melich's career where he did not compete at the world championships.",
+        "the 2008 Olympic Games and 2009 World Championships took place in the same year."
+    ],
+    "2-14820149-3.html.csv": [
+        "juan garriga had his best season in 1990, when he had 121 points.",
+        "he didn't win any race from 1984 to 1993.",
+        "Juan Garriga won 506 points in his motorcycle racing career.",
+        "in the 1988 season, juan garriga achieved the most points in his career.",
+        "juan garriga started racing in 1984."
+    ],
+    "2-12392766-3.html.csv": [
+        "The United States had the most total points in the 2005 - 06 isu junior grand prix.",
+        "The United States won 10 gold, 14 silver and 12 bronze medals, for a total of 36 medals, at the 2005 - 06 isu junior grand prix season.",
+        "united states won the most number of gold, silver and bronze medals, in the 2005-2006 isu junior grand prix season.",
+        "the United States won the most gold medals at the 2005 - 06 isu junior grand prix.",
+        "the Brazil national team played the most games at the 2013 Confederations Cup.",
+        "the nation with the most number of medals in the 2005 - 06 isu junior grand prix was the united states."
+    ],
+    "2-1140095-1.html.csv": [
+        "The tyres used in the 1968 formula one season were f, d, and g.",
+        "Six of the 11 races in the 1968 F1 season are F1 races.",
+        "all of the races of the 1968 formula one season were run using racing tires type (f or d).",
+        "all of the winning drivers in the 1968 formula one season used the F type of tyre.",
+        "Reasoning: There are 11 rows in the table, the 2nd row has column \"winning driver\", all other rows have column \"winning driver\" too. The value of column \"winning driver\" is Graham Hill (6 times), John Surtees (3 times), Jackie Stewart (2 times), Chris Amon (1 time), Pedro Rodr\u00edguez (1 time), Denny Hulme (1 time) and Jean-Pierre Beltoise (1 time). There are 3 drivers that won the 1968 Formula One season. There are 3 drivers that won the 1968 Formula One season."
+    ],
+    "2-1123180-2.html.csv": [
+        "Michael Schumacher won the 1993 portuguese grand prix.",
+        "Alain Prost finished the 1993 Portuguese Grand Prix in first place, ahead of Michael Schumacher who finished in second.",
+        "Michael Schumacher was the fastest driver at the 1993 portuguese grand prix, he completed 71 laps in 1 hour 32 minutes and 46.309 seconds.",
+        "Damon Hill finished second at the 1993 portuguese grand prix.",
+        "all the transfers for the 1993 portuguese grand prix season were loaned outs."
+    ],
+    "1-2419754-1.html.csv": [
+        "all of the institutions joined the Great Midwest Conference in 1991.",
+        "all the institutions that joined the great midwest conference in 1991, also left in 1995.",
+        "The great midwest conference was formed in 1991.",
+        "all of the universities in the great midwest conference are located in different cities.",
+        "there are 6 institutions in the Great Midwest Conference, each with its own nickname, founded in different years, and with different types and enrollments."
+    ],
+    "2-17746881-1.html.csv": [
+        "two 2-1 scores were recorded in the 2nd round of the 1988 - 89 coupe de france.",
+        "in the 1988 - 89 coupe de france tournament, the 4th round was the second round.",
+        "some teams (fc nantes (d1), olympique de marseille (d1), ogc nice (d1)) reached 2nd round of the 1988 - 89 coupe de france.",
+        "Stade rennais scored the highest in the first round of 1988 - 89 coupe de france.",
+        "all games for the 1988 - 89 coupe de france season had team 1 score lower than team 2 score."
+    ],
+    "1-23157997-13.html.csv": [
+        "Tom Zirbel was both the general and mountains classification winner of the 2009 nature valley grand prix.",
+        "three stages in the 2009 nature valley grand prix were won by Tom Zirbel.",
+        "Tom Zirbel is the only winner in the first stage of 2009 nature valley grand prix.",
+        "Tom Zirbel won stage 1, general classification, mountains classification and points classification in 2009 nature valley grand prix.",
+        "Phillip Mamos won the most points during the 2009 nature valley grand prix."
+    ],
+    "2-187504-13.html.csv": [
+        "The soviet union won the most gold medals at the 1988 winter olympics.",
+        "the soviet union won the highest number of gold medals in the 1988 winter olympics.",
+        "Finland won the most gold and silver medals during the 1988 winter olympics.",
+        "the soviet union (urs) won the most medals at the 1988 winter olympics with a total of 29 medals.",
+        "The nation with the most medals in the 1988 winter olympics is the Soviet Union.",
+        "the soviet union won the most gold medals in the 1988 winter olympics."
+    ],
+    "2-18855244-2.html.csv": [
+        "Michael Phelps holds the record for the most number of medals won in an Olympic games with 22.",
+        "all of the 2008 universitario de deportes season's multiple olympic medalists had winning records, ranging from multiple gold to silver and bronze.",
+        "among the 14 olympic records in the 1964 summer games, most of them belong to \"Larisa Latynina\" from the Soviet Union, and \"Edoardo Mangiarotti\" from Italy.",
+        "all of the medal count for the 2008 universitario de deportes season were more than one."
+    ],
+    "2-14076898-4.html.csv": [
+        "the largest goal difference and the smallest goal difference both belong to team 2.",
+        "Finland had the most points while Slovakia had 0 points in the 1996 men's world ice hockey championships.",
+        "Russia had the highest goal difference among all teams at the 1996 men's world ice hockey championships.",
+        "Sweden had the best goal difference of all the teams in the 1996 men's world ice hockey championships.",
+        "The top three teams of the 1996 men's world ice hockey championships were Sweden, Canada, and Finland."
+    ],
+    "2-16045118-20.html.csv": [
+        "all of the year columns except 2011 are consistent with the year the awards were given.",
+        "several movies that won the golden globe award and several movies that nominated.",
+        "2007 was the most award winning year for black actors.",
+        "the majority of the \"moving to\" column in the 2008 universitario de deportes season is \"transfer\", \"loaned out\" or \"transfer window\".",
+        "all of the actors nominated or won in the \"black golden globe award\" category from 1960 to 2012 were nominated or won for either \"best actress - drama\" or \"best supporting actress\" category."
+    ],
+    "2-10234157-2.html.csv": [
+        "Andy Goode scored the most points in the 2007 - 08 english premiership (rugby union).",
+        "Chris Malone scored the most try of anyone playing in the english premiership that season.",
+        "Leicester Tigers had the highest point score in the 2007 - 08 english premiership (rugby union).",
+        "Andy Goode from Leicester tigers scored the most tries of all players in the 2007 - 08 english premiership (rugby union).",
+        "Danny Cipriani scored the most points of any player on the 2007 - 08 english premiership (rugby union) table."
+    ],
+    "2-11963735-4.html.csv": [
+        "between 2 december 2007 and 30 december 2007, 12 games were played during the 2007 - 08 denver nuggets season.",
+        "30 december 2007 was the last date of the 2007 - 08 denver nuggets season.",
+        "throughout the 2007 - 08 denver nuggets season, allen iverson was the leading scorer for the team.",
+        "The player who scored the most points during the 2007-08 Denver Nuggets season was Carmelo Anthony.",
+        "denver nuggets has an 18-12 record at the end of the 2007 - 08 season."
+    ],
+    "1-25030512-41.html.csv": [
+        "All of the first elected house of representatives in Pennsylvania were in 1998, 2000, 2002, 2004, 2010.",
+        "all incumbents were re - elected in the 2012 United States House of Representatives elections in Pennsylvania.",
+        "ove.\nReasoning: looking at \"first elected\" column, congressional districts 1, 2, 5, 6, 7, 9, 10, 11 and 12 are listed.\nFor example, Pennsylvania 12 first elected Mark Critz in 2006, thus Critz is listed as the incumbent for the 2008 House of Representatives elections.\nTherefore, all of the districts listed in the \"first elected\" column has an incumbent who has been elected at least once.\nTherefore, consistent claim statement: All of the districts listed in the \"first elected\" column have an incumbent who has been elected at least once.",
+        "the 2012 United States House of Representatives election in Pennsylvania's 12th congressional district was won by the Republican candidate by a margin of 65.9%.",
+        "there were only 5 candidates in the 2012 united states house of representatives elections."
+    ],
+    "2-15177130-1.html.csv": [
+        "all of the brm type 15 events happened between 1950 and 1953.",
+        "the most common race event date for the 1950 brm type 15 was in June.",
+        "in 1950, the brm type 15 participated in five races.",
+        "events related to the 1950 brm type 15 race car happened on the following dates: April 6th, July 1st, July 6th, September 1st, September 6th, September 28th, October 14th, October 28th, and October 29th.",
+        "all the dates in the table were in 1950."
+    ],
+    "2-17337904-12.html.csv": [
+        "states with the royal houses Ji, Jiang, Ying and - ruled in the 840s BC.",
+        "of the states in the list, only Jin, Qin, and Cai had royal houses.",
+        "wu, yi, and xiong yan the elder were Cai, sovereigns.",
+        "all of the 840s BC leaders were sovereign, had the title of marquis, and were from a royal house.",
+        "there were multiple types of leaders during the 840s BC including \"Marquis\", \"Count\" and \"Duke\"."
+    ],
+    "1-25847911-1.html.csv": [
+        "episode 6 of dragon zakura (tv series) was broadcast on august 5, 2005.",
+        "the highest ratings for dragon zakura (tv series) occurred on episode 10.",
+        "episode 2 of dragon zakura was released on July 15, 2005.",
+        "All of the episodes of Dragon Zakura TV series follow the same pattern: episode noun, romanized title, translation of title, broadcast date, ratings.",
+        "Episode 9 of dragon zakura (tv series) was broadcast on September 2, 2005."
+    ],
+    "2-15029747-1.html.csv": [
+        "brandi love won the award for best cougar / milf performer at the 2013 avn awards.",
+        "brandi love won the nightmoves award in 2013.",
+        "Brandi Love was nominated for the 2013 AVN Award for MILF/Cougar Performer of the Year.",
+        "in 2013, Brandi Love was nominated for awards in various ceremonies and got the best cougar/milf performer award from nightmoves award.",
+        "No claim can be provided."
+    ],
+    "2-11713403-3.html.csv": [
+        "no player in the 2006 georgia force season has 1438 yards.",
+        "all the long passes for the 2006 georgia force season had a length of 44 or more yards.",
+        "Chris Jackson had the most yards in 2006 georgia force season.",
+        "the 2006 georgia force had an average receiving yards per game of 8.4 and an average reception yards of 11.9.",
+        "Chris Jackson had the most receptions, 1438 yards, 12.1 avg, and 36 TDs for the 2006 georgia force season."
+    ],
+    "2-18025901-1.html.csv": [
+        "all of the attendance in the 1969 - 70 fa cup third - fourth place match was less than 15,000 people.",
+        "there were multiple matches that took place between third and fourth placed teams in the FA Cup between 1969 and 1974.",
+        "the earliest third-place match in fa cup history was between Manchester United and Watford on April 10, 1970.",
+        "between 1969 and 1973, there were 4 third-fourth place matches played in the FA Cup.",
+        "the first FA Cup Third/Fourth place match took place in 1969-70, the second took place in 1970-71, the third took place in 1971-72, and the fourth took place in 1973-74."
+    ],
+    "1-24584486-1.html.csv": [
+        "James Calado has been involved in racing for 6 seasons from 2008-2012.",
+        "James Calado started his racing career in the 2008 formula renault 2.0 series and moved up the series, competing in the same season in the British Formula Renault 2.0 Winter Series, Portuguese Formula Renault 2.0 Winter Series, and British Formula Renault 2.0.",
+        "James calado won 8 races in the 2008 winter series, 2008 season and 2009 season.",
+        "in 2010, James calado achieved the 2nd position in british formula three championship.",
+        "all of the position that james calado has achieved in his racing career are at least 5th."
+    ],
+    "2-10750694-19.html.csv": [
+        "the dates for all matches played during the 1952 vfl season were on the same day, \"30 august 1952\".",
+        "footscray scored the most points of all the teams that played on 30 august 1952.",
+        "the 1952 vfl season on 30 august 1952.",
+        "carlton scored the lowest point of any team that played on 30 august, 1952.",
+        "footscray scored the most point of any team that played on 30 august, 1952."
+    ],
+    "2-17832085-4.html.csv": [
+        "Reasoning: looking at \"position\" column, there are 20 different clubs, and club H\u00e9rcules CF won first position, so claim is: club H\u00e9rcules CF won the 1965 - 66 segunda divisi\u00f3n.",
+        "the following teams finished in the following positions in 1965-66 Segunda Divisi\u00f3n: 1. H\u00e9rcules, 2. Granada, 3. Algeciras, 4. Real Valladolid, 5. Levante, 6. Mestalla, 7. Calvo Sotelo, 8. Tenerife, 9. Rayo, 10. Real Murcia, 11. Recreativo, 12. C\u00e1diz, 13. Constancia, 14. Atl\u00e9tico Ceuta, 15. Melilla, 16. Badajoz.",
+        "h\u00e9rcules cf scored the most goals of any team that played on 1965 - 66 segunda divisi\u00f3n.",
+        "hercules CF was in first place with the most wins, most draws and least losses in the 1965-66 Segunda Divisi\u00f3n season.",
+        "position 1, 2 and 3 have the most points in the 1965 - 66 segunda divisi\u00f3n."
+    ],
+    "2-10774891-18.html.csv": [
+        "fitzroy had the highest home team score in the 1957 VFL season.",
+        "fitzroy had the highest score of any team that played on 24 august, 1957.",
+        "essendon scored the most point of any team that played on 24 august, 1957.",
+        "south melbourne scored the most point of any team that played on 24 august, 1957.",
+        "south melbourne scored the highest score in the 1957 vfl season."
+    ],
+    "2-1825661-2.html.csv": [
+        "the most common model of mercedes-benz w108 produced is 300sel.",
+        "Only one model of the mercedes-benz w108 was built, the 300sel.",
+        "the most built model of the mercedes - benz w108 was the 300sel (w109.016) from 12 / 67 - 01 / 70.",
+        "\"w109.015\" was the most built model of mercedes - benz w108.",
+        "300sel had the most built with 3,029 and 2,519 of those were built during the winter of 1965-1966."
+    ],
+    "2-10361861-2.html.csv": [
+        "the 1980 minnesota vikings season had only three wins out of 16 games.",
+        "all of the week of the 1980 Minnesota Vikings season are included.",
+        "in the 1980 minnesota vikings season, the team suffered at least one loss.",
+        "all of the week number for the 1980 minnesota vikings season was from 1 to 16.",
+        "the minnesota vikings had two games played on 21 december 1980."
+    ],
+    "2-10773616-16.html.csv": [
+        "on august 14, 1954, kardinia park, geelong, had the highest crowd in the 1954 vfl season.",
+        "Geelong scored the most point of any team that played on 14 august, 1954.",
+        "fitzroy scored the least point of any team that played on 14 august, 1954.",
+        "the largest crowd was at punt road oval when richmond played melbourne.",
+        "fitzroy scored the lowest point of any team that played on 14 august."
+    ],
+    "2-1100124-1.html.csv": [
+        "both game 1 and game 7 of the 1964 world series were played in Busch Stadium (I).",
+        "The first game of the 1964 world series between the new york yankees and st louis cardinals was played at busch stadium (i) on october 7th.",
+        "all of the game locations for the 1964 world series were in the same place.",
+        "All of the 1964 World Series games took place in October, in either Busch Stadium (I) or Yankee Stadium (I).",
+        "all games of the 1964 world series took place in 1964."
+    ],
+    "2-11048203-1.html.csv": [
+        "on 18 August 2004, a match took place between hatem aqel and amman at amman.",
+        "hatem aqel played with the national team of jordan from 2002 to 2013.",
+        "Hatem Aqel played for the Jordan National Football Team between December 2002 and October 2003, September 2009, October 2013.",
+        "hatem aqel had 4 wins, 1 draw, and 1 loss during the 2002 to 2013 period.",
+        "hatem aqel's first four matches were played in amman and date was shown in the table."
+    ],
+    "2-17324893-3.html.csv": [
+        "the first two games of the 1972 - 73 new york rangers season took place in November.",
+        "Vancouver Canucks and Chicago Black Hawks are the only opponents that appeared more than once during the 1972 - 73 new york rangers season.",
+        "the new york rangers won 7 more games than the start of the season.",
+        "there are more games in december than november.",
+        "The New York Rangers, Vancouver Canucks, Philadelphia Flyers, and Los Angeles Kings had winning records at the end of the 1972 - 73 new york rangers season."
+    ],
+    "2-1520959-1.html.csv": [
+        "all of the rollercoasters at the Drayton Manor Theme Park have names.",
+        "the first ride of drayton manor theme park was opened in 1994, while the last ride was opened in 2008.",
+        "drayton manor theme park has several themed areas.",
+        "the shock wave, g force, buffalo mountain coaster, and troublesome trucks runaway coaster are themed areas in the drayton manor theme park.",
+        "Drayton Manor Theme Park has an action park."
+    ],
+    "2-1235883-1.html.csv": [
+        "umberto maglioli did not win any races in the 1953 season.",
+        "in the 1953 season, umberto maglioli did not score any points.",
+        "Umberto Maglioli finished 1 1/3 at the 1955 French Grand Prix.",
+        "umberto maglioli scored 1 1/3 points in the 1955 season.",
+        "In the 1955 season, umberto maglioli earned 1 1\u20443 points."
+    ],
+    "2-18813729-2.html.csv": [
+        "good boys by Blondie was remixed by dead guys.",
+        "dead guys remix has a song called \"good boys\".",
+        "all remixes performed by \"dead guys remix\".",
+        "Joel edwards remixed three songs from blondie, chicane and texas.",
+        "three songs from the 2003 artist joel edwards (singer) were remixed."
+    ],
+    "2-180342-8.html.csv": [
+        "the Old St Paul's Cathedral was the tallest structure in London from 1310 - 1666.",
+        "the Shard London Bridge has the highest floor count and height among the buildings and structures listed in the table.",
+        "one canada square is the tallest structure in london.",
+        "there is no tallest building in London.",
+        "shard london bridge has the tallest height of any building or structure in the list."
+    ],
+    "2-12209065-5.html.csv": [
+        "the orioles record changed 2 times during the summer of 1997 season.",
+        "all of the attendance for the 1997 baltimore orioles season were at least 35,000.",
+        "most of the 1997 baltimore orioles season, the attendance was over 20,000.",
+        "in the 1997 season, the baltimore orioles had a win record of 58-37.",
+        "the first loss for the Baltimore Orioles in the 1997 season was on July 5, against the Detroit Tigers."
+    ],
+    "2-18662679-3.html.csv": [
+        "Australia won the men's quadruple sculls at the 2008 Summer Olympics.",
+        "row 1 is the first entry in the table.",
+        "the first 4 rowers from the first ranked team (Australia) and the last rowers, in the same order, from the third ranked team (Czech Republic) were rowing in the 2008 summer olympics - men's quadruple sculls.",
+        "the australian men's quadruple sculls won gold at the 2008 summer olympics.",
+        "the team that was ranked first in the rowing at the 2008 summer olympics - men's quadruple sculls was Australia."
+    ],
+    "2-16570286-3.html.csv": [
+        "ray lindwall had the best bowling of any player of the 1948 ashes series.",
+        "during the 1948 ashes series, keith miller took the most wickets of any player that played.",
+        "most players played in 5 matches in the 1948 ashes series.",
+        "all players played 5 matches in the 1948 ashes series."
+    ],
+    "2-17599325-1.html.csv": [
+        "all the races of the 1958 Australian drivers' championship were in winter.",
+        "all the races for the 1958 Australian Drivers' Championship took place in 1958.",
+        "Jack Brabham won the 1958 australian drivers' championship race at the Gnoo Blas Circuit in orange, new south wales.",
+        "Jack Brabham won the 1958 australian drivers' championship.",
+        "most of the events in the 1958 australian drivers' championship occurred on different dates."
+    ],
+    "2-1620397-5.html.csv": [
+        "6eb is the first series sorted in the list of doctor who audio plays by big finish.",
+        "Doctor Who - 5th audio play \"hexagora\" was released in November 2011.",
+        "\"hexagora\" by Big Finish and \"The First Sontarans\" by Big Finish were released in December 2011 and July 2012 respectively.",
+        "all of the release year for the 2012 doctor who audio plays by big finish were 2012.",
+        "there were 5th Doctor adventures in the list of doctor who audio plays by big finish."
+    ],
+    "2-14841421-2.html.csv": [
+        "Iran won the most gold, 9, at the 2018 avc club volleyball championship.",
+        "the total number of medals won in the avc club volleyball championship were 42.",
+        "Iran was ranked 1st in the 2008 avc club volleyball championship.",
+        "The 2008 avc club volleyball championship had a total of 42 points.",
+        "iran was the only nation to receive 9 gold medals at the 2018 avc club volleyball championship."
+    ],
+    "2-13189034-1.html.csv": [
+        "Hammond and May chose a Mini Cooper and an Opel Astra Cabriolet as back-up vehicle for two different episodes of the 2006 season and 2010 season of the Top Gear (2002 TV series).",
+        "Jeremy May spent 3966 when filming in Middle East.",
+        "each episode of top gear (2002 tv series) had at least 3.5 million pounds (3.500.000 GBP) budget.",
+        "the episodes with the title of \"botswana special\" were aired in the month of November.",
+        "the budget for each episode of top gear is approximately 3.5 million (or 3500)."
+    ],
+    "2-11902366-4.html.csv": [
+        "The 2007 - 08 new jersey devils season started on November 2.",
+        "the record of the New Jersey Devils for the month of November 2007 was 13-10-2.",
+        "the attendance for the 2007 - 08 new jersey devils season ranged from 14523 to 19077.",
+        "On November 2, 2007, the New Jersey Devils lost to the Toronto Maple Leafs 2 to 3 in a game that saw Martin Brodeur record the loss in front of 14,523 fans while the Devils' record fell to 5-6-1.",
+        "most of the teams that played against the New Jersey Devils at home in the 2007-08 season had a larger attendance than the home team."
+    ],
+    "1-2417308-3.html.csv": [
+        "william m gwin (d) was the last senator from california to be installed in the 34th united states congress.",
+        "Graham N. Fitch (D) was installed as the successor of the 34th United States Congress on February 4, 1857.",
+        "The first vacancy filled in the 34th united states congress was in New Hampshire, while the last vacancy filled was in Alabama.",
+        "The change of senator for New Hampshire (Class 2) in 1855 was because the state legislature failed to elect on time.",
+        "In the 34th United States Congress, several seats were vacant due to the legislature failing to elect on time."
+    ],
+    "2-10790651-10.html.csv": [
+        "Melbourne scored the most point of any team that played on 29 june, 1935.",
+        "geelong scored the most points of any team during the 1935 vfl season.",
+        "geelong scored the most point of any team that played on 29 june, 1935.",
+        "the game with the lowest away team score was played on the same date as the game with the lowest away team score.",
+        "footscray scored the most point of any team that played on 29 june, 1935."
+    ],
+    "2-11739153-7.html.csv": [
+        "the attendance for the \"February 2, 2008\" was the same as \"February 5, 2008\".",
+        "all of the dates in the table were after the 26th of February.",
+        "all of the decisions for the 2007 - 08 minnesota wild season were backstrom."
+    ],
+    "2-10897046-5.html.csv": [
+        "some of the players who were picked in the 2009 nhl entry draft were Canadian while others were American.",
+        "all of the player drafted in the 2009 nhl entry draft were from different country.",
+        "Troy Hesketh and Ben Hanowski are both high school players.",
+        "the 2009 nhl entry draft took place in North America.",
+        "all of the 2009 nhl entry draft were \"entry draft\"."
+    ],
+    "2-18060467-5.html.csv": [
+        "in the 1997 open championship, players from the United States, England, Argentina, and Northern Ireland played.",
+        "The first four players in the 1997 Open Championship finished their rounds under par.",
+        "Darren Clarke won 1997 open championship with a score of 67 + 66 = 133 and beat the par by 9 shots.",
+        "all players who finished at second place onwards, scored between 1 and 2 below par.",
+        "Darren Clarke had the lowest score among all the players in the 1997 Open Championship."
+    ],
+    "2-15122771-2.html.csv": [
+        "the 1962 washington redskins season were mainly winning matches.",
+        "week 1 of the 1962 washington redskins season was the first week of the season.",
+        "the 1962 washington redskins season started in September and ended in December.",
+        "the most popular game in the 1962 washington redskins season was the game held on December 2, 1962, with an attendance of 32229.",
+        "The 1962 washington redskins season had 14 weeks."
+    ],
+    "2-12449312-2.html.csv": [
+        "there were a total of 258 medals won by chile at the pan american games.",
+        "In the 14 editions of the Pan American Games between 1951 and 2011, Chile won 40 gold medals, 86 silver medals, and 132 total medals.",
+        "since 1951, chile has obtained a total of 258 medals at the pan american games.",
+        "Chile has won 1 medal at the Pan American Games.",
+        "Chile won a total of 40 medals in the Pan American Games between 1951 and 2011."
+    ],
+    "2-10650028-1.html.csv": [
+        "all of the players in the 1991 cleveland browns season attended a college or university prior to playing professionally.",
+        "players of the 1991 cleveland browns season came from a variety of different colleges.",
+        "all players in the 1991 cleveland browns season had a college.",
+        "the most popular college for the 1991 cleveland browns season was UCLA with two players.",
+        "The first 8 players of the 1991 cleveland browns season have different colleges than the last 2 players."
+    ],
+    "2-150343-3.html.csv": [
+        "sweden is the highest ranked country in miss world 2008 competition.",
+        "Venezuela had the most 1st runner-up titles of all the Miss World winners.",
+        "Venezuela, United Kingdom, India, United States and Sweden are the countries with most semifinalist in the 2008 miss world contest.",
+        "Venezuela won the most times in miss world 2008.",
+        "5 countries (Venezuela, United Kingdom, India, United States, and Sweden) got more than 10 votes during miss world competition."
+    ],
+    "2-17747000-1.html.csv": [
+        "In the 1987 - 88 coupe de france competition, in the 1st round, 6 teams won, 5 teams lost, and in the 2nd round, 3 teams won, 6 teams lost.",
+        "there were 13 rounds in the 1987 - 88 coupe de france tournament.",
+        "in the 1987 - 88 coupe de france, team 2 (opponent of team 1) won twice and drew once in the 2nd round.",
+        "5 different teams made it through the 2nd round of the 1987-88 coupe de france season.",
+        "all three of the second round matches ended in a draw."
+    ],
+    "1-23117208-5.html.csv": [
+        "all episodes from the 2008 universitario de deportes season were airing from june 6 to august 22, 2012.",
+        "the 10th episode of season 3 of royal pains, titled \"Business and Pleasure\", was the 55th episode overall.",
+        "The 12th episode in the second season of the show \"Royal Pains\" aired on September 5, 2012.",
+        "There are 58 episodes in the list of the royal pains episodes.",
+        "the first episode of \"Royal Pains\" season 1 aired on June 6, 2012."
+    ],
+    "2-11677760-22.html.csv": [
+        "Scotty Hopson was the only player in the USA Today All-USA High School basketball team that did not get drafted in 2011.",
+        "all of the players except the last player Greg Monroe were undrafted or in college.",
+        "4 out of 5 players in the table were undrafted in their year's NBA draft.",
+        "the shortest player on the usa today all - usa high school basketball team is 6'5\".",
+        "greg monroe, scotty hopson, willie warren, and michael dunigan were undrafted in 2011, but tyler zeller was drafted in the first round of the 2012 NBA draft."
+    ],
+    "2-1035855-1.html.csv": [
+        "bethlehem steel f.c played in many different leagues during its existence.",
+        "The Bethlehem Steel F.C played in the American League between 1912 and 1922, in the American Soccer League between 1923 and 1929, in the Eastern Soccer League from 1929 to 1930.",
+        "ove.\nReasoning: starting from the top of the table, each year is followed by a number of data points (division, league, reg season, playoffs, and challenge cup)\nFor consistency, the same pattern should be followed for each row of the table.\n\"A year number can be represented by numbers from 1 to 25.\"\nSince the first year in the table is 1911, the year number is assumed to be between 1 and 25 for each row.\nAfter the year number, \"division, league, reg season, playoffs, and challenge cup\" follow. The data points in these columns have a number or n/a value.\nIn the first row, the data point of \"reg season\" is missing. This is because the first season, 1911/12, there was no regular season.\nHowever, the data point of \"playoffs\" is present in the first row, which means there was a playoff in the first season. This is because \"AAFBA\" was a league with no promotion or relegation.\nThe data point of \"playoffs\" in the first row is \"third round\". This means that",
+        "ove.\nReasoning:\n- in 1911/12 no information is provided, so no claim is made for that season\n- in 1912/13 bethlehem steel won the championship, but there was no playoff stage\n- in 1913/14 bethlehem steel won the AAFBA championship, but there was no playoff stage\n- in 1914/15 bethlehem steel won the American League championship, but there was no playoff stage\n- in 1915/16 bethlehem steel finished second in the American League and won the challenge cup\n- in 1916/17 bethlehem steel finished second in the National Association Football Board League\n- in 1917/18 bethlehem steel finished second in the National Association Football League and won the champion\n- in 1918/19 bethlehem steel finished second in the National Association Football League and won the champion\n- in 1919/20 bethlehem steel finished first in the National Association Football League and won the champion\n- in 1",
+        "ove.\nReasoning: looking at \"League\" column, the teams played in 4 different leagues, the \"1911 / 12 - n / a\" entry refers to the american association of football league, the \"1912 / 13 - n / a\" refers to the american association of football league, the \"1913 / 14 - n / a\" refers to the alliance football, the \"1914 / 15 - n / a\" refers to the american football league, the \"1915 / 16 - n / a\" refers to the north american football league, the \"1916 / 17 - n / a\" refers to the nafbl, the \"1917 / 18 - n / a\" refers to the north american football league, the \"1918 / 19 - n / a\" refers to the nafbl, the \"1919 / 20 - n / a\" refers to the nafbl, the \"1920 / 21 - n / a\" refers to the nafbl, the"
+    ],
+    "2-147235-16.html.csv": [
+        "all the metric value for the chinese units of measurement are 604.78982 g.",
+        "1 jyutping = 37.79931 mg = ~0.2133 dr = ~0.00007392885042 oz.",
+        "Reasoning: finding the relative value column and the metric value column, the value of each unit is different from each other, therefore, there is no consistent claim statement that can be made.",
+        "Reasoning: the table lists the relative value of all the chinese units of measurement.\nClaim:",
+        "all of the metric values of chinese units of measurement have the same decimal values for 1 jyutping, 1 fan1, 1 cin4, 1 loeng2, 1 gan1 and 1 daam3."
+    ],
+    "2-1612222-2.html.csv": [
+        "in one match, 22 aces were recorded.",
+        "there are many players in the Ace (tennis) data set who have hit more than 20 aces in a single game.",
+        "all of the aces count above 20 from the 2013 quebec city, 2012 Wimbledon and 2012 tokyo.",
+        "the player with the most aces in 2013 was Alexandra Stevenson, who recorded 25 aces in a match against Alexandra Mueller.",
+        "Serena Williams served the most aces out of any player during the 2008 universitario de deportes season."
+    ],
+    "2-18781865-4.html.csv": [
+        "Canada, Netherlands, and Australia are the only nations that have medals in wheelchair basketball at the 2000 summer paralympics.",
+        "Canada finished higher than Netherlands in the 2000 summer paralympics wheelchair basketball.",
+        "Canada won gold at the 2000 Summer Paralympics wheelchair basketball event.",
+        "Only three countries won a medal at the wheelchair basketball competition in the 2000 summer paralympics.",
+        "canada won two gold medals, australia won a gold medal, netherlands won a gold medal and united states and japan won a gold medal in the wheelchair basketball event at the 2000 summer paralympics."
+    ],
+    "2-16653153-30.html.csv": [
+        "Perth Wildcats had the lowest number of games won in the last 5 games among all teams in the 2008 - 09 nbl season.",
+        "The South Dragons and the New Zealand Breakers were the only teams that had a winning streak in the last 5 matches of the 2008-2009 NBL Season.",
+        "South Dragons had the longest winning streak among all teams in the 2008 - 09 nbl season.",
+        "Adelaide 36ers was the best performing team in the 2008 - 09 NBL season with a total of 15 wins and 5 losses.",
+        "Melbourne Tigers had the longest lost streak of 10 games and South Dragons had the most lost games of 8 games in the 2008 - 09 NBL Season.",
+        "no team had a winning or losing streak in the 2008 - 09 NBL season."
+    ],
+    "2-10809351-8.html.csv": [
+        "essendon scored the most point of any team that played on 4 june, 1949.",
+        "fitzroy scored the most point of any team that played on 4 june, 1949.",
+        "the biggest crowd for the 1949 vfl season was at the western oval.",
+        "all of the \"crowd\" numbers for the 1949 vfl season were greater than 10,000.",
+        "the match between geelong and richmond drew the largest crowd on 4 June 1949."
+    ],
+    "2-171666-1.html.csv": [
+        "the first three administrative divisions in china by area are xinjiang, tibet, and nei menggu.",
+        "tibet has the largest area of any administrative division in china.",
+        "the total area of china is 9630960 square kilometers.",
+        "ve.\nReasoning: rank: 1; administrative division: Xinjiang; area (km square): 1664897; area (sq mi): 640900; national share (%): 17.23; comparable country: Iran;\nrank: 2; administrative division: Tibet; area (km square): 1228400; area (sq mi): 474300; national share (%): 12.75; comparable country: South Africa;\nrank: 3; administrative division: Nei Menggu; area (km square): 1155092; area (sq mi): 456800; national share (%): 12.28; comparable country: Colombia;\nrank: 4; administrative division: Qinghai; area (km square): 721000; area (sq mi): 278400; national share (%): 7.48; comparable country: Zambia;\nrank: 5; administrative division: Sichuan; area (km square",
+        "the national share of the 2008 universitario de deportes season is 10%."
+    ],
+    "2-18715280-4.html.csv": [
+        "Hungary won the most gold medal and the most total medal at the 1986 icf canoe sprint world championships.",
+        "the total number of gold, silver and bronze medals from all countries combined was 54 at the 1986 icf canoe sprint world championships.",
+        "the total number of gold, silver and bronze medals in the 1986 icf canoe sprint world championships was 54.",
+        "All teams with the exception of Australia won at least one gold medal at the 1986 icf canoe sprint world championships.",
+        "12 nations competed in the 1986 icf canoe sprint world championships."
+    ],
+    "2-10809823-14.html.csv": [
+        "all of the matches played on 28 june during the 1980 vfl season were at home teams.",
+        "the most attended game of the 1980 vfl season was between st kilda and essendon, with a crowd of 20485.",
+        "hawthorn scored the most point of any team that played on 28 june, 1980.",
+        "hawthorn scored the most point of any team that played on 28 june, 1980.",
+        "geelong had the highest score on 28 june 1980 and richmond had the second highest score on 28 june 1980."
+    ],
+    "2-11312764-4.html.csv": [
+        "Linda Fratianne won the 1979 World Figure Skating Championships by winning both the sp and fs event.",
+        "there was a tie for the 15th place in the 1979 world figure skating championships.",
+        "all of the 1979 world figure skating championships rankings are represented.",
+        "the transfer window for all of the teams who participated in the 1979 world figure skating championships were winter."
+    ],
+    "2-1762882-13.html.csv": [
+        "the first match date of the 2003-04 in scottish football was 20 august.",
+        "the first 4 matches of the 2003 - 04 in scottish football was played from UEFA European Championship Qualifying Group 5, and the last 5 matches of the season were from Friendly Matches.",
+        "one of the matches in September or October in 2003 at hampden park in glasgow was covered by BBC sport.",
+        "all of the dates listed in the 2003 - 04 in scottish football were within the span of 2003 to 2004.",
+        "all of the dates for 2003 - 04 in scottish football were in 2004."
+    ],
+    "2-12546630-1.html.csv": [
+        "the 1933 giro d'italia race leader from start to finish was alfredo binda (ita).",
+        "The events of the 1933 giro d'italia occured in May, 1933.",
+        "the italian, alfredo binda ( ita ) was the race leader for 11 days in 1933 giro d'italia.",
+        "the total distance covered during the 1933 giro d'italia was km (mi).",
+        "the first 5 days of the 1933 giro d'italia had the same race leader, Alfredo Binda."
+    ],
+    "2-18424482-2.html.csv": [
+        "all of the original release for the sleepless nights album was before 1970.",
+        "sleepless nights (patty loveless album) has 16 songs, including the track, \"there stands the glass\" by webb pierce, the song, \"cold, cold heart\" by hank williams and the track, \"please help me i'm falling\" by hal blair and don robertson.",
+        "the first track of the sleepless nights album is a cover of a 1955 recording by George Jones.",
+        "the earliest song on the sleepless nights (patty loveless album) was released in 1953.",
+        "all songs from the 2007 sleepless nights (patty loveless album) were originally released between 1953 and 1969."
+    ],
+    "2-1877416-2.html.csv": [
+        "There are 6 teams in the world baseball classic.",
+        "the United States won the World Baseball Classic in 2009.",
+        "Team 1 won the gold medal, team 2 won the silver medal, and team 3 won the bronze medal.",
+        "The United States, Japan, and Venezuela won the gold, silver and bronze medals respectively at the World Baseball Classic in 2006.",
+        "the teams that participated in the world baseball classic were ranked based on their final position, not on the points they earned in the competition."
+    ],
+    "2-14305653-58.html.csv": [
+        "the last match of the yugoslavia national football team was in the 1982 world cup qualifier.",
+        "five of the six games played by the Yugoslavia national football team in 1982 were friendly matches.",
+        "The yugoslavia national football team played three friendly matches, two balkan cup matches, one 1982 world cup qualifier, and one 1982 world cup qualifier.",
+        "the national football team of yugoslavia won two games and lost three games during the 1982 World Cup qualifiers.",
+        "the yugoslavia national football team had several matches during the dates between March and November."
+    ],
+    "2-10753786-4.html.csv": [
+        "tiger woods had the most weeks at the number one position of any male golfer in history.",
+        "tiger woods has the most weeks spent at the number one position in male golfers rankings, followed by greg norman.",
+        "tiger woods was the longest reigning world number one male golfer with the most number of weeks at the number 1 spot, followed by greg norman and nick faldo.",
+        "tiger woods is the player with the most rank in the list of world number one male golfers.",
+        "all of the number one male golfers in the list of world number one male golfers moved up or down one spot in the ranking."
+    ],
+    "2-16474033-6.html.csv": [
+        "the majority of the 2008 universitario de deportes season matches were played on clay court.",
+        "flavio cipolla participated in the 2008 universitario de deportes season.",
+        "during his career, flavio cipolla won the most points in a single match at 7-6 (7-2), 7-3 in 7-6 (7-2), 6-3.",
+        "flavio cipolla's last match was played on 3 April 2011.",
+        "all of the dates in the table above are winter dates, except for Tashkent (July 2008), Toledo (September 2010), and Barranquilla (April 2011)."
+    ],
+    "2-15544826-1.html.csv": [
+        "in 2011, Greg Pursley won 6 races.",
+        "Greg Pursley won the most races and had the best performance in 2011 season.",
+        "in 2011 season, greg pursley had the best season of his career, finishing 5th.",
+        "Pursley had most of his wins in the 2009 season followed by 2010, 2011, 2007, 2008, 2012.",
+        "Greg Pursley had his best season rank in 2011, ranking first overall."
+    ],
+    "2-1421422-10.html.csv": [
+        "in the period from 2008 to 2012, marcos baghdatis played only grand slam tournaments.",
+        "Marcos baghdatis had a 2r in Australian open in 2006 and 2007.",
+        "marcos baghdatis only participated in four grand slam tournaments during the period from 2006 to 2013.",
+        "In the years 2006, 2007, and 2008 - 12, Marcos Baghdatis played the most Australian Open.",
+        "marcos baghdatis played Grand Slam tournaments in 2006, 2007, 2008, and 2013."
+    ],
+    "2-14895621-2.html.csv": [
+        "for the year 1985, hwang sun - ai won the world championships with kang haeng - suk as partner.",
+        "Wang sun - ai won three world championships (1985), 1 asian games (1982) and 1 india open (1985) in 1985 with three different partners.",
+        "Hwang Sun and Ai won 3 world championships during their partnership from 1982 to 1985.",
+        "World championships were held in 1982, 1985, and 1985 in hwang sun - ai partnership.",
+        "Hwang Sun-ai has only competed at the World Championships, Asian Games, and other open tournaments with Kang Haeng-suk as her partner."
+    ],
+    "2-10826385-15.html.csv": [
+        "all of the matches played in 1972 vfl season was on 15 july.",
+        "the highest crowd in attendance at a match in the 1972 VFL season was at the match between carlton and south melbourne, which attracted 14,465 people.",
+        "the highest score of any home team during the 1972 vfl season was 19.14 (128).",
+        "essendon scored the most point of any team that played on 15 july, 1972.",
+        "all matches of the 1972 vfl season were played on 15th of July."
+    ],
+    "2-16620096-1.html.csv": [
+        "20 january 1995 was the first date that a minister was recorded as starting their job.",
+        "The first two \"Ministers for the Police Force of Luxembourg\" served an almost 5-year term, while the others only served less than two years.",
+        "the first minister for the police force of luxembourg had the earliest start date of any minister.",
+        "the longest ministerial term for the minister of police of luxembourg is 5 years and 5 months.",
+        "Eugene Schaus was the minister for the police force of Luxembourg under the prime ministership of Gaston Thorn."
+    ],
+    "2-10866507-1.html.csv": [
+        "the attendance at the grand final match in 2008 perth glory season was the highest among all the matches played.",
+        "round 2 and 3 of the 2007-08 perth glory season were played on the same date, July 28.",
+        "the first match of the 2007 - 08 perth glory season was on 14 july.",
+        "the 2007-2008 perth glory season started on the round of the 14 july 2007.",
+        "The 2007 - 08 perth glory season was held from July 2007 to August 2007."
+    ],
+    "2-17340355-10.html.csv": [
+        "all of the 2008 - 09 phoenix suns season games have a record of either 42-35 or 43-36.",
+        "the 2008-09 Phoenix suns season had 82 games.",
+        "the phoenix suns had a 46-36 record for the 2008 - 09 season.",
+        "the first date of the 2008-09 phoenix suns season was 1st April and the last date was 15th April.",
+        "there were 6 home games for the 2008-09 phoenix suns season."
+    ],
+    "2-16225902-4.html.csv": [
+        "Tiger Woods, Mark Hensby, and Fred Couples were the top 3 finishers of the 2005 open championship.",
+        "all players were within 2 strokes of par.",
+        "the lowest score in the 2005 open championship was 68 (4).",
+        "68 (4) was the most common score for the 2005 open championship.",
+        "All players in the 2005 open championship were 4 or more shots under par."
+    ],
+    "2-10790099-5.html.csv": [
+        "footscray scored the most point of any team that played on 28 may.",
+        "north melbourne scored the most point of any team that played on 28 may, 1932.",
+        "princes park, punt road oval and lake oval were the venues with largest crowds during the 1932 vfl season.",
+        "south melbourne scored the most point of any team that played on 28 may, 1932.",
+        "footscray scored the most point among all teams that played on 28 may, 1932."
+    ],
+    "2-1226543-6.html.csv": [
+        "Raul Boesel finished all of his races.",
+        "Raul Boesel drove for truesports in 1990.",
+        "raul boesel had a minimum of 2 races each year of his career.",
+        "most of the cars Raul Boesel raced in his career were built by Lola.",
+        "raul boesel only raced in the chassis of lola for 21 years of his racing career."
+    ],
+    "2-18078622-1.html.csv": [
+        "all of the albums in the caribou records discography were released in the United States.",
+        "There are more CDs than any other format in the caribou records discography.",
+        "The Beach Boys has released two albums titled \"The Beach Boys\" and \"Ten Years of Harmony\" in 1985.",
+        "The album \"La (Light Album)\" and \"La\" both have the same format, which is Lp.",
+        "1976 was the first year that \"la express\" was released."
+    ],
+    "2-17486851-1.html.csv": [
+        "all of the transfer windows for the 2008 - 09 apoel f.c. season were either summer or winter.",
+        "All of the 2008 - 09 apoel f.c. season transfers were during the summer.",
+        "the transfer window for the 2008 - 09 apoel f.c. season were either summer or winter, and there were a total of 12 transfers, 4 of which were free transfers, and the total transfer fee collected was 240k Euros.",
+        "all of the transfer of the 2008 - 09 apoel f.c. season ended in summer.",
+        "the highest value of transfer fee for 2008 - 09 apoel f.c. season was 200k."
+    ],
+    "2-11364514-2.html.csv": [
+        "The 2008 Lord of the Rings (musical) received a nomination for best new musical at the Laurence Olivier Awards.",
+        "lord of the rings (musical) received several nominations at the 2008 laurence olivier awards.",
+        "lord of the rings (musical) was nominated for best new musical in 2008.",
+        "no nominee for the 2008 Laurence Olivier Award won the best new musical, best set design, best costume design, best lighting design, or best sound design award.",
+        "The Lord of the Rings musical was nominated for the award of \"best new musical\" in 2008."
+    ],
+    "2-1570558-1.html.csv": [
+        "in 2008, sherdrick bonner had a good career, with 60 touchdowns, 94 interceptions, and 3314 passes. His career stats were 5366 yards, 41742 yards, and 845 touchdowns.",
+        "sherdrick bonner received the highest rating of 122 for his career in the 2008 season.",
+        "the highest rating for Sherdrick Bonner's career is 122 and the average of all his ratings is 84.85.",
+        "The highest rating for Sherdrick Bonner is 110.4 from the 1996 season.",
+        "sherdrick bonner had the best rating of 120.3 in 1998."
+    ],
+    "2-18096431-7.html.csv": [
+        "multiple players from Australia and United States were in the top 5 of 1996 pga championship.",
+        "the majority of scores of the 1996 pga championship was higher than par.",
+        "Mark Brooks was the first player while Justin Leonard was in the top 5.",
+        "Mark Brooks has the highest score of 277 (-11) in the 1996 pga championship.",
+        "the top two winners at the 1996 pga championship were tied with $430,000 each.",
+        "all of the top 8 players of 1996 pga championship scored below par."
+    ],
+    "2-18169845-3.html.csv": [
+        "in 2010 drama league award distinguished performance, nathan lane and bebe neuwirth won.",
+        "only the drama league award gave the result of 2010.",
+        "the \"Tony Awards\", \"Drama Desk Awards\", \"Drama League Awards\" and \"Outer Critics Circle Awards\" were all given to the musical for 2010.",
+        "the 2010 addams family (musical) received numerous nominations for theater awards.",
+        "The Addams Family (Musical) was nominated for several awards in 2010."
+    ],
+    "2-13312898-28.html.csv": [
+        "cornerback was the most selected position for the indianapolis colts during the 2008 draft.",
+        "the first pick of the 2008 indianapolis colts draft was in the first round, while the last pick was in the seventh round.",
+        "all of the picks in the indianapolis colts draft history are even numbers.",
+        "running back is the most common position in the 2008 indianapolis colts draft history.",
+        "most of the players drafted by the Indianapolis Colts in 2008 were cornerbacks, running backs, and offensive tackles."
+    ],
+    "2-11513647-4.html.csv": [
+        "all of the games for the 2002 colorado rockies season were played between June 1 and 30.",
+        "The 2002 Colorado Rockies season had a 29-day regular season.",
+        "all of the rows for the 2002 Colorado Rockies season show the date of the game, the opponent, the score, the loss and the attendance for each of the games in June.",
+        "from june 3 - june 24, the record for the 2002 colorado rockies season was 38 - 38.",
+        "all of the games for the 2002 colorado rockies season were played in June."
+    ],
+    "2-18178551-1.html.csv": [
+        "the first 6 results for england national rugby union team in 2000-09 were against the Ireland national rugby union team.",
+        "all of the matches played during this period were tests.",
+        "England played against France and Ireland on February 05, 2000 and February 19, 2000 respectively.",
+        "all of the opposing teams that faced the england national rugby union team from 2000 to 2009 were countries.",
+        "all of the matches in the table have either \"six nations\" or \"test match\" status."
+    ],
+    "1-23466021-4.html.csv": [
+        "in the 9th week of the 1991 toronto argonauts season, the argonauts won all of their games.",
+        "the 1991 toronto argonauts had the biggest attendance of 39508 on 8/27.",
+        "the week 4 game between argonauts and lions had the largest attendance of the 1991 season.",
+        "the highest point total of the 1991 toronto argonauts season was 62 points.",
+        "toronto argonauts won the 1991 division 1 title with a final score of 12 wins and 5 losses."
+    ],
+    "2-11173692-2.html.csv": [
+        "all of the countries in the eurovision song contest 2008 were drawn from 1 to 19.",
+        "all of the draw numbers for the eurovision song contest 2008 were within the range of 01 to 19.",
+        "the highest score achieved at the Eurovision Song Contest 2008 was 156 points.",
+        "the drawing order, language used in the song, artist, song performed and rank of each country participating in the Eurovision Song Contest 2008 is provided in the table above.",
+        "Dima Bilan scored the most point of any team that played on 10 May, 2008."
+    ],
+    "1-25551880-2.html.csv": [
+        "the winner of the 2010 vuelta a espa\u00f1a was team htc - columbia.",
+        "no team had the most points throughout the competition, so there was no clear winner of the 2010 vuelta a espa\u00f1a.",
+        "team htc - columbia won the 2010 vuelta a espa\u00f1a.",
+        "team htc - columbia won the first 14 stages of the vuelta a espa\u00f1a, caisse d'epargne won the first 14 stages of the general classification, philippe gilbert won the first 14 stages of the points classification, seraf\u00edn mart\u00ednez won the first 14 stages of the mountains classification, and caisse d'epargne won the first 14 stages of the team classification. for the last 7 stages, team katusha won the stage, vincenzo"
+    ],
+    "2-14860855-3.html.csv": [
+        "Reinhold Roth was competing with YAMAHA from 1979 to 1980 in the 350cc class.",
+        "Reinhold Roth had the highest point of 190 and the highest win of 2 in the 1989 season.",
+        "the most wins Reinhold Roth had in his career was 2, which he achieved in 1989.",
+        "Reinhold Roth won the 1989 250cc motorcycle world championship.",
+        "Reinhold Roth had the most points in the 1989 season."
+    ]
+}

@@ -1,0 +1,701 @@
+{
+    "2-1458666-4.html.csv": [
+        "The United States has won 31 world golf championships as individuals, not as a team.",
+        "The United States has the most total wins in world golf championships.",
+        "The United States has more team wins and individual wins than any other country in the world golf championships.",
+        "United States has won 31 team wins and only 1 individual win in world golf championships.",
+        "The United States has the most wins of any nation in both total wins and team wins."
+    ],
+    "2-17814838-6.html.csv": [
+        "the match between everton and liverpool had the highest attendance of any match in the 2008 - 09 FA Cup.",
+        "The match between arsenal and cardiff city had the highest attendance of any match in the 2008-09 FA Cup.",
+        "the match between liverpool and everton had the highest attendance of any match in the 2008-09 FA Cup.",
+        "Arsenal had the highest attendance of any team in the 2008 - 09 FA Cup.",
+        "Fulham scored the most goals of any team that played in the 2008-09 FA Cup."
+    ],
+    "2-170969-2.html.csv": [
+        "Saint Croix Parish has the smallest population among all the parishes in Charlotte County, New Brunswick.",
+        "Dumbarton parish has the largest area among all parishes in Charlotte County, New Brunswick.",
+        "Grand Manan parish has the highest census ranking of any parish that is listed in the table.",
+        "campobello has the lowest ranking among all parishes of charlotte county, new brunswick.",
+        "saint george has the largest area among all parishes in Charlotte county, New Brunswick."
+    ],
+    "2-14255774-8.html.csv": [
+        "The Arizona Diamondbacks had the highest number of wins in the 2008 season with a total of 82, and they also scored the most runs in a single match with 13, and all of their attendance figures were positive, indicating that their stadium was filled to capacity or more.",
+        "The Arizona Diamondbacks had the highest attendance of any team in the 2008 season with 45,097 people attending the game on September 15, 2008.",
+        ", all\nReasoning:\n* Using count, it is clear that the Diamondbacks won 82 games during the 2008 season.\n* Using superlative, the team with the most wins in the season was the Arizona Diamondbacks with 82 wins.\n* Using the all label, we can say that all of the games played during the 2008 Arizona Diamondbacks season were played against National League West division teams.",
+        "the Arizona Diamondbacks team have a winning percentage of 0.500 in the 2008 season, which is the same as all the teams that played in the season.",
+        "The Arizona Diamondbacks had a record of 82-80 and the highest attendance for any game was on September 20th, with 43,137 people in attendance."
+    ],
+    "2-17964087-2.html.csv": [
+        "There are 6 people with foreign nationality in the political appointments system in Hong Kong.",
+        "most of the officials appointed to the political appointments system in hong kong were in their 30s, except for raymond man-to cheung who was 46 years old.",
+        "There are 6 people in the table with foreign nationality.",
+        "there is only one member of the political appointments system in Hong Kong who is not a foreign national and has attached to the portfolio of labour and welfare.",
+        "There are 7 political appointments with \"british\" nationality and 7 with \"n/a\" nationality in the political appointments system in Hong Kong."
+    ],
+    "2-12582968-1.html.csv": [
+        "Luk\u00e1\u0161 Melich has participated in 13 competitions.",
+        "Lukas Melich has a total of 7 top-ten finishes in his career.",
+        "There are 10 different positions in luk\u00e1\u0161 melich's career.",
+        "Luk\u00e1\u0161 Melich placed 3rd in the 2013 world championships and placed 6th in the 2012 Olympic games.",
+        "Luk\u00e1\u0161 Melich finished in countable positions in each of his competitions."
+    ],
+    "2-14820149-3.html.csv": [
+        "Juan Garriga got more points in 1988 than in any other year.",
+        "Juan Garriga got more points in 1988 than any other year.",
+        "Juan Garriga scored the most points in the 1987 season and won the most races in the 1988 season.",
+        "in 1988, Juan Garriga scored the most points and won the most races of any year.",
+        "Juan Garriga had more points in 1988 than in any other year."
+    ],
+    "2-12392766-3.html.csv": [
+        "the united states has the most gold medals of any nation that participated in the 2005 - 06 isu junior grand prix.",
+        "United States won the most gold medals at the 2005 - 06 isu junior grand prix.",
+        "united states won the most medals, with a total of 36 points, at the 2005 - 06 isu junior grand prix.",
+        "united states won the most medals, with a total of 36 points, in the 2005 - 06 isu junior grand prix.",
+        "The United States won the most gold medals at the 2005 - 06 isu junior grand prix.",
+        "All players in the 1992 US Open were from the United States."
+    ],
+    "2-1140095-1.html.csv": [
+        "Jim Clark had the best starting position in the first and third races, which were both held in Europe, and were the second and fourth races held in South Africa and the United States.",
+        "The Spanish Grand Prix was the second race of the 1968 Formula One season, and Chris Amon set the fastest time in qualifying.",
+        "The winning driver of each race in the 1968 Formula One season was the best driver of that race.",
+        "The 1968 Formula One season included 11 races, with the constructor column misspelling \"tyre\" and the report column providing additional information about each race.",
+        "Jochen Rindt had the fastest lap and pole position for the Italian Grand Prix which was held on September 8, 1968. This race was the 11th race of the season."
+    ],
+    "2-1123180-2.html.csv": [
+        "there were 20 drivers completed the race except Michael Schumacher, Alain Prost and Damon Hill.",
+        "the driver who completed the most laps in the 1993 portuguese grand prix was Michael Schumacher with 71 laps.",
+        "Alain Prost completed the most laps of any driver in the 1993 Portuguese Grand Prix.",
+        "All the drivers completed at least 68 laps in the 1993 portuguese grand prix.",
+        "Reasoning: counting the number of laps for each driver, Michael Schumacher had the most laps with 71 laps, Al"
+    ],
+    "1-2419754-1.html.csv": [
+        "There were 8 universities joined the Great Midwest Conference in 1991 and all left in 1995, except for Depaul University joined in 1993 and left in 1995.",
+        "There are 7 unique institutions in the Great Midwest Conference.",
+        "five institutions joined the Great Midwest Conference in 1991.",
+        "Two universities joined the Great Midwest Conference in 1991 and 1993.",
+        "there were 7 institutions in the Great Midwest Conference in 1991 and 1995."
+    ],
+    "2-17746881-1.html.csv": [
+        "team 2 scored less in 1st round than 2nd round and also in 2nd round team 2 scored less than team 1 in score column.",
+        "AS Monaco scored the most of any team and Stade Rennais scored the least of any team in the 1988 - 89 Coupe de France.",
+        "The scores for team 1 in the 2nd round of the 1988 - 89 coupe de france are different from the scores for team 2 in the 2nd round.",
+        "team 1 scored more goals than team 2 in all matches of the 1988 - 89 coupe de france.",
+        "All teams played in both the 1st round and the 2nd round of the 1988-89 coupe de france."
+    ],
+    "1-23157997-13.html.csv": [
+        "Tom zirbel was the first in general classification and won stage 1 and 4 of the 2009 nature valley grand prix.",
+        "Tom Zirbel won the first stage of the 2009 nature valley grand prix and finished first in the general classification. The ordinal numbers of the stages are 1st, 2nd, 3rd, 4th, 5th, and 6th.",
+        "Tom Zirbel won the most stages in the 2009 nature valley grand prix.",
+        "Tom Zirbel has the best overall performance in the 2009 nature valley grand prix.",
+        "Tom Zirbel won the 2009 nature valley grand prix, which had 6 stages.",
+        "tom zirbel won all stages of the 2009 nature valley grand prix, including stage 5 and stage 6."
+    ],
+    "2-187504-13.html.csv": [
+        "the soviet union won the most total medals in the 1988 winter olympics.",
+        "The Soviet Union won the most medals at the 1988 winter Olympics.",
+        "the Soviet Union won the most gold medals at the 1988 winter olympics.",
+        "The soviet union has more total medals than east germany and switzerland.",
+        "The Soviet Union had the most medals of any nation at the 1988 winter olympics.",
+        "the soviet union (urs) won the most medals (29) at the 1988 winter olympics, followed by east germany (gdr) with 25, and switzerland (sui) with 15."
+    ],
+    "2-18855244-2.html.csv": [
+        "Larisa Latynina is the most unique athlete in the list of multiple olympic medalists.",
+        "No athlete has won the same event more than once in the list.",
+        "Larisa Latynina won the most number of unique medals in the 1964 Tokyo Olympics.",
+        "que\nReasoning: looking at the \"athlete\" column, it is clear that Larisa Latynina has won the most Olympic medals of any athlete, with 18 medals, including 9 gold medals, across gymnastics events at the 1952, 1956, 1960, and 1964 Olympic Games."
+    ],
+    "2-14076898-4.html.csv": [
+        "Russia and Canada have the most number of wins in the 1996 men's world ice hockey championships.",
+        "there are 7 games that ended in a draw, Canada is the only team that has drawn 7 games and there is no other team that won 7 games.",
+        "the team that played 7 games and scored 12 points is the team with the most common count of games and points in the 1996 men's world ice hockey championships.",
+        "Each team played 7 games, with 0 wins, 0 draws and 1 loss, and no team won any games.",
+        "Czech Republic and Sweden are the only two teams that have only 1 loss in the 1996 Men's World Ice Hockey Championships."
+    ],
+    "2-16045118-20.html.csv": [
+        "only two actors, Diana Ross and Cicely Tyson, were nominated for an Academy Awards in the same year they were recognized as a \"new star\" by the Hollywood Foreign Press Association, and Diana Ross won an Academy Award.",
+        "there were 12 winners in total, with 3 of them winning for best supporting actress and 9 of them winning for best actress - musical or comedy.",
+        "there were 11 wins and 21 nominations for best supporting actress, and 11 wins and 19 nominations for best actress - drama in the years 1960 to 2012.",
+        "Viola Davis was nominated for a Golden Globe Award the most number of times with 4 nominations and won the Golden Globe Award twice.",
+        "ntable\nReasoning: looking at the \"result\" column, the motion picture that won the award is listed in the first column and the"
+    ],
+    "2-10234157-2.html.csv": [
+        "Charlie Hodgson scored the least number of points among all players in the 2007 - 08 English premiership.",
+        "Andy Goode scored the most points of all players in the 2007 - 08 english premiership (rugby union).",
+        "leicester tigers scored the most points of all the teams in the 2007 - 08 english premiership (rugby union).",
+        "andy goode scored the most points of any player in the 2007 - 08 english premiership.",
+        "Danny Cipriani scored the most points and the most tries of any player in the 2007 - 08 english premiership."
+    ],
+    "2-11963735-4.html.csv": [
+        "denver nuggets scored the most points of any team during the 2007-08 season.",
+        "Allen Iverson scored the most points of any game in the 2007-08 Denver Nuggets season.",
+        "Carmelo Anthony scored the most points of any game in the 2007-08 Denver Nuggets season, and the Hornets-Nuggets game on 12 December 2007 had the highest attendance of any game in the season.",
+        "Allen Iverson scored the most points of any game in the 2007-08 Denver Nuggets season.",
+        "On December 2, 2007, the Denver Nuggets played against the Miami Heat, and it had the highest attendance and Carmelo Anthony scored the most points among all the games that took place during the 2007-08 season."
+    ],
+    "1-25030512-41.html.csv": [
+        "10 incumbents were re-elected, 2 incumbents were not re-elected.",
+        "More than half of the incumbents in Pennsylvania lost their election in 2012.",
+        "Not all incumbents lost their re-election bid, and all of the incumbents that were re-elected were re-elected.",
+        "there are 20 candidates who were elected for the first time in the 2012 United States House of Representatives elections.",
+        "In the 2012 United States House of Representatives elections in Pennsylvania, there were between 2 and 11 candidates running for each district."
+    ],
+    "2-15177130-1.html.csv": [
+        "All the events in the table have a corresponding date, circuit, driver and race result.",
+        "none of the rows contain any logical labels.",
+        "the table above contains data that cannot be logically grouped or labeled.",
+        "There is no row in the table that has a logical label of none.",
+        "there is no consistent claim sentence that can be made based on the data provided in the table."
+    ],
+    "2-17337904-12.html.csv": [
+        "there is no consistent claim sentence that can be made from this table according to the logical label.",
+        "none of the state leaders in the 840s BC had the title of \"king\".",
+        "none of the state in 840s bc have the same type, name, title, or royal house.",
+        "The table provides a list of state leaders in the 840s BCE.",
+        "none of the state in 840s bc had a duke with the title \"count\"."
+    ],
+    "1-25847911-1.html.csv": [
+        "episode 2 and episode 3 have the lowest ratings among all the episodes of the dragon zakura (tv series).",
+        "episode 6 and episode 10 have higher ratings than any other episodes.",
+        "episode 6 has the highest ratings among all episodes of dragon zakura tv series.",
+        "the broadcast dates for the episodes of the dragon zakura TV series range from July 15, 2005 to September 9, 2005.",
+        "oning: looking at the \"broadcast date\" column, we can see that the first episode was broadcast on July 15, and the last episode was broadcast on September 9. Therefore, the show lasted for over two months, and it can be concluded that it was not a short-lived series. Additionally, the ratings of each episode are given in the table, and it can be observed that the ratings vary widely, with some episodes having higher ratings than others. Thus, it can be concluded that the show had mixed reviews, with some episodes being more popular than others."
+    ],
+    "2-15029747-1.html.csv": [
+        "Brandi love won only one award in 2013.",
+        "Brandi Love was nominated for 5 awards in 2013.",
+        "brandi love was nominated for multiple awards in 2013.",
+        "Brandi Love was nominated for three awards in 2013.",
+        "Brandy Love was nominated for 3 awards in the same year in 2013."
+    ],
+    "2-11713403-3.html.csv": [
+        "chris jackson had both the most yards and the longest reception of any player on the 2006 georgia force season.",
+        "Chris Jackson had the most yards and the most receptions among all players of the 2006 Georgia Force season.",
+        "jacques rumph scored the least number of touchdowns of any player in the 2006 georgia force season.",
+        "chris jackson had the highest average yards per rec of any player in the 2006 georgia force season.",
+        "chris jackson had the most yards of any player in the 2006 georgia force season."
+    ],
+    "2-18025901-1.html.csv": [
+        "The attendance at the third-fourth place matches of the FA Cup varied, with the highest attendance being at the 1974 match and the lowest attendance being at the 1969-1970 match.",
+        "inal\nReasoning: looking at the \"season\" column, it shows the year that the match was played, and the other columns provide additional information about the match, such as the winner and loser, the score, the venue, and the attendance.\nClaim:\n\n* The 1969-70 FA Cup third-fourth place match was played on 10 April 1970.\n* The 1970-71 FA Cup third-fourth place match was played on 7 May 1971.\n* The 1971-72 FA Cup third-fourth place match was played on 5 August 1972.\n* The 1972-73 FA Cup third-fourth place match was played on 18 August 1973.\n* The 1973-74 FA Cup third-fourth place match was played on 9 May 1974.",
+        "The season 1972 - 73 fa cup had the highest attendance among all the third-fourth place matches, with 25,841 people attending the game between Birmingham City and Stoke City.",
+        "all of the matches in the table occurred before the final match and are listed in chronological order.",
+        "The third-fourth place matches of the FA Cup occurred in different seasons, with specific dates and venues."
+    ],
+    "1-24584486-1.html.csv": [
+        "James Calado has more podiums and poles than wins in his career.",
+        "In 2008 British formula renault 2.0 winter series, James Calado competed in the most races and got the highest points.",
+        "James Calado won 1 race and got on the podium 4 times in the 2008 british formula renault 2.0 winter series.",
+        "James Calado won the most races (8) and got the most podiums (4) in the 2009 season of British Formula Renault 2.0.",
+        "James Calado won the most races and had the most podiums in the 2008 british formula renault 2.0 winter series."
+    ],
+    "2-10750694-19.html.csv": [
+        "footscray scored the most points of any team on 30 august 1952.",
+        "Richmond scored the most points of any team in the VFL in round 13 of the 1952 season.",
+        "collingwood scored the most point of any team that played on 30 august, 1952.",
+        "collingwood scored the most point of any team that played on 30 august, 1952.",
+        "Richmond scored the most point of any team that played on 30 august, 1952."
+    ],
+    "2-17832085-4.html.csv": [
+        "H\u00e9rcules CF had the highest goal difference of any team in the 1965-66 segunda divisi\u00f3n.",
+        "H\u00e9rcules CF had the most points of any team in the 1965 - 66 segunda divisi\u00f3n.",
+        "h\u00e9rcules cf scored the most points of any team in the 1965 - 66 segunda divisi\u00f3n season.",
+        "H\u00e9rcules CF scored the most points of any team in the 1965-66 segunda divisi\u00f3n.",
+        "H\u00e9rcules CF scored the most goals of any team in the 1965-66 Segunda Divisi\u00f3n."
+    ],
+    "2-10774891-18.html.csv": [
+        "all of the games in the 1957 VFL season were played on August 24.",
+        "all of the away team scores in the 1957 vfl season were positive numbers.",
+        "all of the away team scores in the 1957 vfl season were above 50.",
+        "all of the stadiums in the 1957 vfl season had a capacity of more than 10,000 people.",
+        "all of the venues for the 1957 vfl season were specific stadiums."
+    ],
+    "2-1825661-2.html.csv": [
+        "the mercedes-benz w108 model with the largest number of units built had a 3.5l m116 v8 engine.",
+        "the 300sel 3.5 model had the highest number of units built among all models of the Mercedes-Benz W108.",
+        "The 300sel 6.3 had the highest number built.",
+        "the 300sel 6.3 model was the one with the highest number of cars built among all the models listed in the table.",
+        "the 300sel with chassis code w109.015 is the model with the least number of units built."
+    ],
+    "2-10361861-2.html.csv": [
+        "The Minnesota Vikings had the highest attendance for more games than any other team in the 1980 season.",
+        "The attendance at week 14 was higher than all other games.",
+        "the attendance at week 6 of the 1980 minnesota vikings season was the lowest among all weeks.",
+        "the game against the detroit lions in week 4 had the highest attendance of any game during the 1980 minnesota vikings season.",
+        "The Minnesota Vikings had a higher average attendance in their home games during the 1980 season compared to their away games."
+    ],
+    "2-10773616-16.html.csv": [
+        "none of the other teams scored as much as melbourne did.",
+        "Hawthorn scored the lowest and Geelong scored the highest among all the teams that played in the 1954 VFL season.",
+        "Geelong did not score the most points of any team and Melbourne scored the most points of any team.",
+        "geelong v hawthorn match had the least number of points and crowd compared to all other matches that played on 14 august, 1954.",
+        "no other team scored as many points as st kilda did in their match against fitzroy on 14 august, 1954."
+    ],
+    "2-1100124-1.html.csv": [
+        "none of the games had an attendance of 30000 or more.",
+        "none of the games in the 1964 World Series were played at a different stadium than Busch Stadium (I) or Yankee Stadium (I).",
+        "There was no consistent trend or pattern in the attendance throughout the 1964 world series.",
+        "None of the games in the 1964 world series had an attendance of less than 30000.",
+        "None of the games in the 1964 World Series had the same attendance."
+    ],
+    "2-11048203-1.html.csv": [
+        "Reasoning: looking at \"score\" column, we can see that the score of the match on 18",
+        "hatem aqel had the lowest score of any match with 1-0 on 28 october 2013.",
+        "Hatem Aqel had a better record than losing in the games where the score was 1-0.",
+        "Hatam Aqel team won more matches than they lost during his career.",
+        "Hatem Aqel scored the most goals in the match on 18 february 2004 against the Philippines."
+    ],
+    "2-17324893-3.html.csv": [
+        "the New York Rangers scored the second most goals in the 1972 - 73 season.",
+        "after the 20th game, the team had a record of 13-4-1 and after the 24th game, the team had a better record of 15-7-2.",
+        "the rangers scored the least against vancouver canucks and the most against chicago black hawks in the 1972-73 season.",
+        "The Rangers had more wins than losses during the 1972-73 season.",
+        "the highest score for any team was 7-3."
+    ],
+    "2-1520959-1.html.csv": [
+        "there are 4 different themed areas in Drayton Manor Theme Park.",
+        "there are more than one themed area at Drayton Manor Theme Park.",
+        "There are only two rollercoasters in the action park themed area.",
+        "There are 5 different rides at Drayton Manor theme park, each of them has a unique name, style, manufacturer and opened date.",
+        "Drayton Manor Theme Park has 4 different themed areas."
+    ],
+    "2-1235883-1.html.csv": [
+        "Reasoning: The table does not contain enough information to determine a logical label and provide a claim.",
+        "no entrant entered in any of the year columns.",
+        "Umberto Maglioli participated in the races of 1953, 1954, 1955 and 1956 with Scuderia Ferrari using Ferrari 553 and Ferrari 625 chassis, with Ferrari straight - 4 and Ferrari straight - 4 engines respectively, and scored 0 points in 1953, 2 points in 1954, 1 1/3 points in 1955 and 0 points in 1956.",
+        "Reasoning: It is not possible to find a consistent claim from the table as it does not contain any information about the entrant or the chassis of the entrant.",
+        "Reasoning: the table provided is not structured correctly, it doesn't have a consistent column name and the data in the table is not consistent. it's not possible to provide a valid claim sentence."
+    ],
+    "2-18813729-2.html.csv": [
+        "dead guys did not remix any songs in 2003.",
+        "\"dee - lux\" remix does not appear in the table.",
+        "\"turn it up\" by Pixie Lott is the only song that doesn't have multiple remixes.",
+        "all the remixes of songs from the album were done by \"dead guys remix\" and this was unique.",
+        "only two songs had a remix, \"blondie\" and \"chicane\"."
+    ],
+    "2-180342-8.html.csv": [
+        "the Shard London Bridge has been the tallest building in London since it was built in 2010.",
+        "all entries in the table are buildings or structures in London.",
+        "Southwark Cathedral held the title of the tallest building in London for 50 years.",
+        "All of the buildings on the list of tallest buildings and structures in London have a countable number of height.",
+        "The white tower was the tallest structure in London for the longest period of time."
+    ],
+    "2-12209065-5.html.csv": [
+        "The Baltimore Orioles had at least one loss against all opponents in the 1997 season.",
+        "all of the games in the 1997 baltimore orioles season had an attendance listed.",
+        "all of the attendance figures for the 1997 baltimore orioles season were countable numbers.",
+        "There were 36 games played, 37 winners, and 28 losers in the 1997 baltimore orioles season.",
+        "All of the games in the 1997 baltimore orioles season had a recorded attendance."
+    ],
+    "2-18662679-3.html.csv": [
+        "The rowers from Australia, Italy, and Russia were ranked 1st, 2nd, and 3rd respectively in the men's quadruple sculls event at the 2008 summer olympics.",
+        "Australia ranked first in the men's quadruple sculls event at the 2008 summer olympics, while Estonia ranked last.",
+        "The ranking of the rowers in the men's quadruple sculls event at the 2008 summer olympics is in order of first place to fifth place.",
+        "Australia ranked first in the men's quadruple sculls event at the 2008 summer Olympics.",
+        "Morgan, McRae, Long, and Noonan from Australia won the first place in the men's quadruple sculls rowing event at the 2008 summer olympics."
+    ],
+    "2-16570286-3.html.csv": [
+        "Ray Lindwall took the most wickets of any player in the 1948 Ashes series.",
+        "Keith Miller took the most wickets of any player in the 1948 ashes series.",
+        "Ray Lindwall took more wickets than any other player in the 1948 ashes series.",
+        "alec bedser took the most wickets of any player in the 1948 ashes series."
+    ],
+    "2-17599325-1.html.csv": [
+        "There were 8 different winners of the races in the 1958 australian drivers' championship.",
+        "There were 8 unique winners in the 1958 australian drivers' championship.",
+        "Longford circuit hosted the most number of races in the 1958 Australian drivers' championship and it is the only circuit located in Tasmania.",
+        "there are 11 unique dates in the 1958 australian drivers' championship season.",
+        "there were 12 different winners of the races in the 1958 australian drivers' championship."
+    ],
+    "2-1620397-5.html.csv": [
+        "Each audio play features only one Doctor.",
+        "Each audio play features only one doctor.",
+        "The 5th doctor is unique among the list of audio plays in featuring all of the audio plays in series 6eb and 6y.",
+        "the 5th doctor appeared in all of the series sorted.",
+        "the 5th doctor has the most releases among all the doctors."
+    ],
+    "2-14841421-2.html.csv": [
+        "In the AVC Club Volleyball Championship, the total number of medals awarded was the same for gold, silver and bronze.",
+        "Iran has more gold medals than any other nation that participated in the AVC club volleyball championship.",
+        "Reasoning: looking at the \"gold\" column and the \"silver\" column, it is clear that the team with the most gold medals is Iran, and the team with the second most gold medals is South Korea. Therefore, the claim sentence is \"Iran won the most gold medals and South Korea won the second most gold medals in the AVC Club Volleyball Championship.\"",
+        "Iran has the most total medals of any nation in the AVC club volleyball championship.",
+        "All of the countries ranked above China, Saudi Arabia, Japan, Chinese Taipei, and Indonesia have more golds than these countries."
+    ],
+    "2-13189034-1.html.csv": [
+        "ing: None of the columns in the table above have a clear pattern or trend that can be used to make a consistent claim sentence. The month and year, episode, title, and back-up columns contain a wide range of different values, and the budget column only provides a small amount of information. Therefore, there is no logical label that can be applied to this table to provide a consistent claim sentence.",
+        "ing: There is no logical label that can be applied to all of the information in the table.",
+        "There is no consistent claim that can be made from the table above.",
+        "there is no specific claim that can be made from the table above.",
+        "None of the columns have a logical label that matches this claim."
+    ],
+    "2-11902366-4.html.csv": [
+        "the game on november 17, 2007 - 08 new jersey devils season against philadelphia had the highest attendance of any game that season.",
+        "The New Jersey Devils had the most losses in the 2007-08 season.",
+        "On November 17th, 2007, the New Jersey Devils had the highest attendance of any game played during the 2007-08 season.",
+        "The Devils had the highest attendance of any team in the league in the 2007-08 season.",
+        "The game between the New Jersey Devils and the NY Rangers on November 3, 2007 had the highest attendance of any game that season."
+    ],
+    "1-2417308-3.html.csv": [
+        "None of the state (class) vacators had a formal installation date for their successor.",
+        "none of the state (class) had a successor on the date of successors formal installation.",
+        "None of the states (class) in the 34th united states congress had a successor formally installed because the legislature failed to elect on time.",
+        "there were no senators from New Hampshire, Alabama, Pennsylvania, California, and Indiana during the 34th United States Congress.",
+        "there is no information about the reason for change or the successor for the state (class) vacator of New Hampshire and Alabama."
+    ],
+    "2-10790651-10.html.csv": [
+        "Hawthorn scored the most point of any team that played on 29 june, 1935.",
+        "geelong scored the most point of any team that played on 29 june, 1935.",
+        "Geelong scored the highest score of any team and north melbourne scored the highest score of any away team on 29 june 1935 at corio oval with 7000 people in attendance.",
+        "geelong scored the most point of any team that played on 29 june, 1935.",
+        "footscray scored the least point of any team that played on 29 june, 1935."
+    ],
+    "2-11739153-7.html.csv": [
+        "There's no consistent claim sentence that can be made from this table according to the logical label.",
+        "There is no clear answer as to which team scored the most goals or which team had the most wins in the 2007 - 08 minnesota wild season.",
+        "Reasoning: none of the logical label apply to the table.\nClaim:"
+    ],
+    "2-10897046-5.html.csv": [
+        "All players in the 2009 NHL Entry Draft were either Canadian or American, with no players from Sweden or Russia.",
+        "In the 2009 NHL Entry Draft, the most common positions were Defenseman and Center, and a total of 13 different players played those positions.",
+        "que\nReasoning: Counting the number of players who were from the United States, there were 7 players from the United States. Counting the number of players who were from Canada, there were 23 players from Canada. Counting the number of players who were from Europe, there were 10 players from Europe. Counting the number of players who were from Sweden, there were 3 players from Sweden. Counting the number of players who were from Russia, there were 2 players from Russia. Counting the number of players who were from the Czech Republic, there were 1 player from the Czech Republic. Counting the number of players who were from other countries, there were 1 player from other countries. Looking for a unique player, Michael",
+        "There are 28 players in the 2009 NHL entry draft, and 6 different nationalities are represented.",
+        "There are 21 unique positions listed in the table."
+    ],
+    "2-18060467-5.html.csv": [
+        "Darren Clarke was in first place alone.",
+        "Darren Clarke scored better than par in the 1997 open championship.",
+        "Justin Leonard scored the highest score of all the players in the 1997 open championship.",
+        "Darren Clarke is the only player who won the 1997 open championship.",
+        "Darren Clarke is the only player from Northern Ireland in the 1997 Open Championship."
+    ],
+    "2-15122771-2.html.csv": [
+        "the attendance for the 1962 Washington Redskins season was increasing every week.",
+        "the total attendance for the 1962 washington redskins season was 283078.",
+        "the total attendance for all the 1962 Washington Redskins season games was 222360.",
+        "The game with the highest attendance was between the Washington Redskins and the New York Giants, with an attendance of 62844 on November 4, 1962.",
+        "The Washington Redskins had a winning record of 7-5-2 during the 1962 season."
+    ],
+    "2-12449312-2.html.csv": [
+        "Chile won 6 gold medals in the 2007 Pan American games held in Rio de Janeiro, which is the most gold medals won by Chile in the history of the games.",
+        "Chile won the most gold medals at the pan american games in 2011 with 3.",
+        "Chile got the most gold medals of any country at the 2011 Pan American Games.",
+        "Reasoning: looking at the \"gold\" column, the team Chile won the most gold medal, which is 3. Therefore, Chile won the most gold medals at the Pan American Games in 2011.",
+        "Chile got the most gold medal in the Pan American games in 2007."
+    ],
+    "2-10650028-1.html.csv": [
+        "James Jones was drafted in the third round of the 1991 cleveland browns season.",
+        "The 1991 cleveland browns season had 12 rounds and 12 players were drafted in different rounds.",
+        "The round numbers in the table increase in order from 1 to 12.",
+        "The round of the draft for the 1991 cleveland browns season ranged from 1 to 12.",
+        "all of the rounds for the 1991 cleveland browns season were in the first six rounds."
+    ],
+    "2-150343-3.html.csv": [
+        "Venezuela had the least number of semifinalists, with only 1.",
+        "[insert country name] had the most number of semifinalists.",
+        "The United Kingdom had the most 1st runner-up with 6, while Venezuela had the second most with 2, in the miss world competition.",
+        "Venezuela had the highest total score of all the countries/territories that participated in the miss world pageant.",
+        "Venezuela had more semifinalists than any other country/territory in the Miss World competition in 2008."
+    ],
+    "2-17747000-1.html.csv": [
+        "there were 7 teams that only played one match in the first round and 2 teams that only played one match in the second round of the 1987 - 88 coupe de france, and none of the teams played a draw in the second round.",
+        "There were 9 matches in the 1st round of the 1987-88 Coupe de France and AJ Auxerre is the only team that won both the 1st and 2nd round.",
+        "Toulouse FC scored 2-2 in both the 1st and 2nd round of the 1987-88 Coupe de France.",
+        "all teams played only one match in the 1st round and two matches in the 2nd round of the 1987 - 88 coupe de france.",
+        "there were 2 matches where the score was 1 - 0, and only 1 match where the score was 0 - 1 in the 1987-88 Coupe de France."
+    ],
+    "1-23117208-5.html.csv": [
+        "episode 51, \"you give love a bad name,\" was the most watched episode of the series.",
+        "About Face is the episode with the highest number of viewers.",
+        "all of the episodes of the royal pains season 4 had a viewership of less than 4 million.",
+        "You Give Love A Bad Name (episode 52) was the most watched episode of the show.",
+        "episode 8 of season 5 of the royal pains had the most viewers of any episode in the show."
+    ],
+    "2-11677760-22.html.csv": [
+        "three players of USA Today All-USA High School Basketball Team were drafted in the first round of the NBA draft.",
+        "there are 2 players who were drafted in the first round in the NBA draft in the usa today all - usa high school basketball team.",
+        "There are 5 high school basketball players on the USA Today All-USA high school basketball team.",
+        "there are 5 players in the USA Today All-USA High School Basketball Team.",
+        "All of the players listed in the table attended college before being drafted into the NBA."
+    ],
+    "2-1035855-1.html.csv": [
+        "Bethlehem Steel F.C. has the most championships in both the American Soccer League (ASL) and the Eastern Soccer League (ESL),",
+        "Bethlehem Steel FC was established in 1911.",
+        "The bethlehem steel f.c played in the American Association Football League (aafba) from 1911-1912 to 1927-1928 and in the American Soccer League (asl) from 1928-1929 to 1930.",
+        "Bethlehem Steel FC finished in the following place in the league: 1st (6 times), 2nd (4 times), 4th (1 time), 7th (1 time), N/A (1 time)",
+        "The entries for \"1914/15\" season and \"1915/16\" season are \"1st\", indicating that those teams won the division, and the years are listed in chronological order from 1911 to 1928, and then in reverse order for the 1928-1929 season, indicating ordinality."
+    ],
+    "2-147235-16.html.csv": [
+        "there is no relative value information available for the Chinese units of measurement.",
+        "Reasoning: This table is not organized in any logical order, it does not have a clear pattern or relationship between the units and the values. It appears to be a list of Chinese units of measurement with their relative values, metric value and imperial value. Without more context or information it is difficult to make a claim.",
+        "There is no consistent claim sentence that can be made from this table.",
+        "Reasoning: The table contains multiple columns, one for the character, one for the Portuguese name, and several for the relative and metric values. The measurements are Chinese units of measurement, so there isn't a logical label that can be consistently applied to all columns.",
+        "The table provides a list of Chinese units of measurement, but there is no clear pattern in the relative value and metric value of the units of measurement."
+    ],
+    "2-1612222-2.html.csv": [
+        "Serena Williams hit the most aces among all players listed in the table.",
+        "alexandra stevenson had the most aces of any player in any match of 2013.",
+        "Among the players who played in the same match, the player who served the most aces is Alexandra Stevenson, who served 25 aces in the match against Alexandra Mueller.",
+        "alexandra stevenson served the most aces in the matches in the table.",
+        "all players have at least 20 aces."
+    ],
+    "2-18781865-4.html.csv": [
+        "the nation of canada (can) won a unique number of medals at the 2000 summer paralympics in wheelchair basketball.",
+        "Canada is the only nation that won 2 gold medals in wheelchair basketball at the 2000 summer paralympics.",
+        "Australia and Netherlands are the only two teams with rank 2 at the 2000 summer paralympics wheelchair basketball competition.",
+        "Canada and Netherlands are the only nations that won a medal at the wheelchair basketball competition of the 2000 summer paralympics.",
+        "Canada is the only nation to win a gold medal in wheelchair basketball at the 2000 summer paralympics."
+    ],
+    "2-16653153-30.html.csv": [
+        "Townsville Crocodiles won the most consecutive games of any team in the NBL 2008-09 season with 2 games.",
+        "melbourne tigers have earned the most points of any team in the 2008 - 09 nbl season.",
+        "The South Dragons have the longest winning streak of any team in the NBL season 2008-2009.",
+        "melbourne tigers won the most number of games at home among all teams in the 2008 - 09 nbl season.",
+        "The perth wildcats had the highest percentage of points at home, while the adelaide 36ers had the highest percentage of points away in the 2008-09 NBL season.",
+        "Melbourne tigers have the most points of any team in the 2008-09 NBL season."
+    ],
+    "2-10809351-8.html.csv": [
+        "fitzroy scored the most point of any team in 1949 vfl season.",
+        "fitzroy scored the most point of any team that played on 4 june, 1949.",
+        "fitzroy scored the most point of any team that played on 4 june, 1949.",
+        "richmond scored the most point of any team that played on 4 june, 1949.",
+        "collingwood and fitzroy scored the most points of any team that played on 4 june 1949."
+    ],
+    "2-171666-1.html.csv": [
+        "macau has the smallest area among all administrative divisions.",
+        "xinjiang has the largest area of all administrative divisions in the People's Republic of China.",
+        "all values in the \"national share\" column are comparative.",
+        "All the administrative divisions in China have areas of hundreds of square kilometers or tens of square kilometers and their national share varies from several tenths of one percent to over ten percent.",
+        "the \"people's republic of china\" has the largest area of all the administrative divisions on the list."
+    ],
+    "2-18715280-4.html.csv": [
+        "Hungary won the most gold medals at the 1986 ICF Canoe Sprint World Championships.",
+        "Hungary won the most gold medals at the 1986 IC",
+        "Hungary was the most successful nation at the 1986 ICF Canoe Sprint World Championships, winning a total of 18 medals.",
+        "Hungary won the most total medals at the 1986 icf canoe sprint world championships.",
+        "Hungary won the most gold medals at the 1986 icf canoe sprint world championships."
+    ],
+    "2-10809823-14.html.csv": [
+        "geelong scored the highest score of any team that played on 28 june, 1980.",
+        "geelong scored the highest of all the teams that played on 28 june 1980.",
+        "geelong scored the most points of any team that played on 28 june.",
+        "hawthorn scored the highest among all teams, and footscray was the third highest scoring team.",
+        "footscray scored the 2nd most points of any team that played on 28 june, 1980."
+    ],
+    "2-11312764-4.html.csv": [
+        "Linda Fratianne finished first in the 1979 world figure skating championships.",
+        "The ranking of the competitors in the 1979 world figure skating championships were based on an ordinal scale, with scores ranging from 1 to 30.",
+        "linda fratianne scored the most point of any skater that played in the 1979 world figure skating championships.",
+        "linda fratianne from the United States had the highest rank of any skater at the 1979 world figure skating championships."
+    ],
+    "2-1762882-13.html.csv": [
+        "The Scottish Football team played 12 matches during the 2003 - 04 season.",
+        "ECQG5 and ECQPO are the most reported competitions in the table.",
+        "there were 6 different competitions played throughout the 2003 - 04 in scottish football.",
+        "there are 8 matches ended with 0-0, 1-0, 1-2, 0-6, 1-2, 1-0, 1-0 and",
+        "there are 12 different competitions represented in the table."
+    ],
+    "2-12546630-1.html.csv": [
+        "the dates of the 1933 Giro d'Italia are in ordinal order.",
+        "the stages of the 1933 Giro d'Italia were completed in order from first to last.",
+        "The 1933 Giro d'Italia was held in the order of May 6 to May 28.",
+        "the 1933 giro d'italia had the longest total distance of any edition of the race.",
+        "The races of the 1933 Giro d'Italia were held in chronological order."
+    ],
+    "2-18424482-2.html.csv": [
+        "\"sleepless nights (featuring vince gill )\" is the longest track on the sleepless nights (patty loveless album).",
+        "\"sleepless nights (featuring vince gill )\" track is the longest among all tracks on the album.",
+        "\"sleepless nights (featuring vince gill )\" has the longest length of any song on the sleepless nights (patty loveless album).",
+        "\"sleepless nights (featuring vince gill )\" has the longest length of any track on the sleepless nights album.",
+        "the longest length of any track on the \"sleepless nights\" album is 4:21, in \"sleepless nights (featuring vince gill)\" track."
+    ],
+    "2-1877416-2.html.csv": [
+        "the first and the second team have a better performance than the third team in the world baseball classic.",
+        "The USA won the most medals, Japan won the second most and Dominican Republic won the third most at the world baseball classic.",
+        "The USA team was the best performing team in the World Baseball Classic.",
+        "the team in first place got more points than the team in second place and the team in third place.",
+        "The USA has more gold medals than Japan and also has one more bronze medal than Japan in the world baseball classic."
+    ],
+    "2-14305653-58.html.csv": [
+        "none of the games for the Yugoslavia national football team in 1982 were friendly.",
+        "none of the games played by Yugoslavia national football team were friendly.",
+        "none of the Yugoslavia national football team results in 1982 were World Cup qualifying matches.",
+        "none of the games played by the Yugoslavia national football team were competitive matches.",
+        "none of the opponent in the yugoslavia national football team results were luxembourg."
+    ],
+    "2-10753786-4.html.csv": [
+        "Tiger woods had more weeks as number one in the world than any other player in history.",
+        "Tiger Woods spent more weeks as world number one male golfer than any other player in history.",
+        "Tiger Woods spent more weeks at number one than any other male golfer and Greg Norman spent the second most weeks at number one among all male golfers.",
+        "Tiger Woods spent the most weeks at number one among all male golfers who have been world number one.",
+        "Tiger woods has spent more weeks as world number one golfer than any other player in history."
+    ],
+    "2-16474033-6.html.csv": [
+        "Flavio Cipolla faced 40 different opponents in his career.",
+        "Flavio Cipolla won more matches than he lost in the tournaments listed in the table.",
+        "Flavio Cipolla played in several tournaments on different surfaces.",
+        "Flavio Cipolla has played with many different partners.",
+        "Flavio Cipolla had more than one partnering in his matches."
+    ],
+    "2-15544826-1.html.csv": [
+        "In 2011, Greg Pursley had more wins and top 5 and top 10 finishes than any other year.",
+        "In 2009, Pursley won the most races among all the years.",
+        "Greg Pursley had more wins than any other driver in the 2011 season.",
+        "Greg Pursley won more races in 2011 than in 2009.",
+        "in the 2011 season, Greg Pursley had the best ranking among all the seasons."
+    ],
+    "2-1421422-10.html.csv": [
+        "Reasoning: The table does not provide enough information to make any claim about Marcos Baghdatis, as the table is only showing the tournaments and the results he had in those tournaments, but not the details of the tournaments and the competition he played in.",
+        "Marcos Baghdatis did not participate in any grand slam tournaments in 2007 and 2008.",
+        "None of the years had any significant difference in the tournaments that Marcos Baghdatis participated in.",
+        "Marcos Baghdatis did not reach the 2nd round in any of the grand slam tournaments in 2006 and 2007.",
+        "Marcos Baghdatis never won any grand slam tournament."
+    ],
+    "2-14895621-2.html.csv": [
+        "There are two instances of the same partner in the table.",
+        "Hwang sun-ai only had one partner, kang haeng-suk, in all the events.",
+        "the partner of all events is the asian games.",
+        "Hwang Sun-ai participated in the \"world championships\" event three times, in 1985, 1982, and partner is kang haeng - suk.",
+        "there were 3 world championships events in the year of \"world championships\" held in \"calgary, canada\" venue."
+    ],
+    "2-10826385-15.html.csv": [
+        "richmond scored the most point of any team that played on 15 july 1972.",
+        "richmond scored the most point of any team that played on 15 july 1972.",
+        "richmond scored the most point of any team that played on 15 july 1972.",
+        "richmond scored the most point of any team that played on 15 july, 1972.",
+        "richmond scored the most point of any team that played on 15 july, 1972."
+    ],
+    "2-16620096-1.html.csv": [
+        "All the ministers listed in this table have different party, different start date, and different end date.",
+        "Eug\u00e8ne schaus is the only minister to have served in the police force of luxembourg during the time period covered by this table.",
+        "Eug\u00e8ne schaus was the only minister who served under two different prime ministers.",
+        "There are only two parties that have served as ministers for the police force of Luxembourg, which are Democratic Party (DP) and the Christian Social Party (CSV).",
+        "Reasoning: looking at the \"party\" column, there is only one party that had more than one minister, which is the Democratic Party (DP). E"
+    ],
+    "2-10866507-1.html.csv": [
+        "The stadium that hosted the grand final was unique.",
+        "port macquarie regional stadium is the only stadium that hosted a match in the 2007-08 perth glory season.",
+        "the only game played at port macquarie regional stadium was the first game of the season.",
+        "the only stadium used for home games in the 2007-08 perth glory season was port macquarie regional stadium.",
+        "the stadium for the first round and the away team stadium for the semi finals were the same."
+    ],
+    "2-17340355-10.html.csv": [
+        "there are only 2 unique records in the 2008-09 Phoenix Suns season.",
+        "minnesota timberwolves was the last team to play in the 2008 - 09 phoenix suns season, and the team played in only one game and the attendance of that game was 15908.",
+        "there is only one location with the same attendance value of 18422 in the 2008 - 09 phoenix suns season.",
+        "there are 8 unique \"record\" values in the 2008 - 09 phoenix suns season.",
+        "Reasoning: looking at \"attendance\" column, the attendance for all games was 18422, 20301, 15908, 18478, 18422, 18422, 18422, 18422, 18422. Since it's the same number for all the games, the number of times it appears in the table is 8 (including the first time it appears in the first game). To find a unique number, we need to divide 8 by the number of teams that played in the season (8 because there were 8 games played in the season) which is 8/8 = 1, and since there is only one team, the number of unique attendance is 1. Therefore, the claim is that the attendance for the 2008 - 09 phoenix suns season was unique and it appeared only once."
+    ],
+    "2-16225902-4.html.csv": [
+        "Tiger woods finished in first place at the 2005 open championship and he scored 66.",
+        "Tiger Woods was in first place at the 2005 Open Championship with a score of 66.",
+        "Tiger Woods came in 1st place at the 2005 Open Championship.",
+        "Tiger woods, Fred Couples, Mark Hensby, Luke Donald, Retief Goosen, Trevor Immelman, Peter Lonard, Jos\u00e9 Mar\u00eda Olaz\u00e1bal, Eric Ramsay, Chris Riley, Tino Schuster, and Scott Verplank all tied for 3rd place in the 2005 Open Championship.",
+        "Tiger Woods placed first in the 2005 Open Championship."
+    ],
+    "2-10790099-5.html.csv": [
+        "south melbourne scored the most points of any team in the 1932 VFL season.",
+        "footscray scored the most point of any team that played on 28 may, 1932.",
+        "geelong scored the most point of any team that played on 28 may, 1932.",
+        "geelong scored the most point of any team that played on 28 may, 1932.",
+        "geelong scored the most point of any team that played on 28 may, 1932."
+    ],
+    "2-1226543-6.html.csv": [
+        "Raul Boesel achieved the highest start position in 1995 with a value of 27.",
+        "Raul Boesel finished in 1st place the most number of times.",
+        "Raul Boesel had the best start position of any season in 1992 with 27th.",
+        "Raul Boesel had the lowest start position of any season he raced in.",
+        "Raul Boesel finished the most races in 1992 with 7."
+    ],
+    "2-18078622-1.html.csv": [
+        "The albums in the discography were released in ordinal order, with the earliest album being \"The Beach Boys\" (1985) and the latest album being \"Dennis Wilson - Pacific Ocean Blue\" (2008).",
+        "The Beach Boys' \"La (Light Album)\" was released in both 1979 and 1989.",
+        "The United States is the country with the highest number of albums listed in the discography of Caribou Records.",
+        "The United States is the first country by number of albums released, Japan is the second and Canada is the third.",
+        ""
+    ],
+    "2-17486851-1.html.csv": [
+        "Paulo Costa is the only player who moved from Anorthosis Famagusta to another team, AEK Larnaca.",
+        "only one player ended his loan spell in summer of 2009.",
+        "anorthosis famagusta is the only team that pououritsaitides moved from during the 2008 - 09 apoel f.c. season.",
+        "\"24sportscomcy\" is the only source for transfers in the 2008 - 09 apoel f.c. season.",
+        "the 2008 - 09 apoel f.c. season had a unique combination of transfer windows, including two summer transfers, four winter loans, and one winter loan return."
+    ],
+    "2-11364514-2.html.csv": [
+        "Lord of the Rings (musical) received 5 awards and had 5 unique nominees in the 2008 Laurence Olivier Awards.",
+        "\"best new musical\" was the only category that was nominated but did not win any awards, it is also unique. All other categories were both nominated and won awards and are also unique.",
+        "Paul Pyant was the only nominee in the \"best lighting design\" category at the 2008 Laurence Olivier Awards for the musical Lord of the Rings.",
+        "Rob Howell was the only nominee in all of the categories he was nominated in.",
+        "there were 5 nominees for the laurence olivier award for best sound design in 2008, and simon baker was the only nominee for the award."
+    ],
+    "2-1570558-1.html.csv": [
+        "Sherdrick Bonner achieved the highest career passing percentage of 122.8% in the 1995 season.",
+        "Bonner's statistics in 2008 were not as impressive as in some of his earlier years, but he was still a solid wide receiver with a good catch percentage.",
+        "Sherdrick Bonner had the most attempts of any year in the 2008 season, and the least attempts of any year in the 2005 season.",
+        "Sherdrick Bonner is the player with the highest rating among all other players in the 2000 season.",
+        "Sherdrick Bonner had the highest rating of any season of his career in 2000 season."
+    ],
+    "2-18096431-7.html.csv": [
+        "Kenny Perry scored the most money of any player who tied for fifth place in the 1996 PGA Championship.",
+        "Mark Brooks had the best score of any player in the 1996 PGA Championship.",
+        "Justin Leonard and Jesper Parnevik had the best score of any player that participated in the 1996 PGA Championship.",
+        "Justin Leonard had the best score of any player that participated in the 1996 PGA Championship.",
+        "Kenny Perry had the best performance among all players in the 1996 PGA Championship.",
+        "Justin Leonard had the best score among the top 5 players of the 1996 PGA Championship."
+    ],
+    "2-18169845-3.html.csv": [
+        "The Addams Family (Musical) won the Drama Desk Award for Outstanding Set Design, and Nathan Lane won the Drama League Award for Distinguished Performance. Additionally, Bebe Neuwirth won the Drama League Award for Distinguished Achievement in Musical Theatre and Kevin Chamberlin was nominated for the Drama Desk Award for Outstanding Featured Actor in a Musical. The most nominations were for the Drama Desk Award for Outstanding Musical and Outstanding Lyrics, and Outstanding Music, both of which The Addams Family (Musical) was nominated for.",
+        "the addams family (musical) won multiple awards and nominations for best original score, best performance by a featured actor in a musical, best original lyrics, best set design, best lighting design and best musical.",
+        "The Addams Family musical received multiple nominations in different categories in the 2010 Drama Desk Awards.",
+        "The Addams Family (musical) won the Outstanding Musical award in both the 2010 Drama Desk Awards and the 2010 Drama League Awards.",
+        "The Addams Family won the most awards of any musical in the year 2010, with the most awards in the category of \"Outstanding Set Design\" and \"Outstanding Actor in a Musical\" and was also the most nominated musical in the year 2010 with the most nominations in the category of \"Outstanding Set Design\", \"Outstanding Lyrics\", \"Outstanding Music\", \"Outstanding Performance by a Featured Actor in a Musical\", \"Outstanding Performance by a Featured Actress in a Musical\" and \"Outstanding Production of a Musical\"."
+    ],
+    "2-13312898-28.html.csv": [
+        "the colts picked ray donaldson in the 2nd round, 51st overall.",
+        "There are 10 rounds in the Indianapolis Colts draft history.",
+        "the indianapolis colts drafted derrick hatchett in the first round, 24th overall pick of the 2001 NFL draft.",
+        "The Indianapolis Colts drafted players in the 5th, 23rd, 51st, 88th, 144th, 170th, 195th, 227th, 254th, 311th, 324th rounds of the NFL draft.",
+        "Indianapolis Colts draft history consists of 12 rounds."
+    ],
+    "2-11513647-4.html.csv": [
+        "The New York Yankees had the highest attendance of any team in the 2002 Colorado Rockies season.",
+        "The Colorado Rockies had the worst record in the 2002 season.",
+        "the yankees had the highest attendance of any team that played on june 19, 2002.",
+        "The match with the highest attendance was the match with 25,053 attendance and the match with the most losses was the match with 38 losses, both happened on June 26, 2002.",
+        "The attendance for all games was higher than the attendance for the game on 21 june, 2002."
+    ],
+    "2-18178551-1.html.csv": [
+        "there is no claim sentence that can be provided based on the table.",
+        "none",
+        "There is no claim that can be made based on the provided table.",
+        "none of the teams played against \"ireland\" and \"wales\" in the same date and none of the teams played against \"france\" and \"italy\" in the same date.",
+        "none"
+    ],
+    "1-23466021-4.html.csv": [
+        "The Toronto Argonauts scored the most points in the last game of the 1991 season with 52 points, and the highest attendance was in the first game with 53,527 people.",
+        "The 1991 Toronto Argonauts season was the most successful in the team's history, as they ended the season with the best record in the league and showed consistent improvement as the season progressed, as evidenced by their positive final scores and increasing scores as the season progressed.",
+        "The Toronto Argonauts won all of their games during the 1991 season.",
+        "The Toronto Argonauts scored the most points of any team in the 1991 season with a total of 538 points.",
+        "The Toronto Argonauts had a winning record of 12-5 in the 1991 season."
+    ],
+    "2-11173692-2.html.csv": [
+        "asoning: counting the number of places, there are 3 unique places(14, 1, 3).",
+        "there are 45 unique draw numbers in the Eurovision Song Contest 2008 and 19 unique languages.",
+        "There are 4 draws in the Eurovision Song Contest 2008, and 5 unique languages were used.",
+        "There are 7 unique draw numbers of all the songs in the Eurovision Song Contest 2008.",
+        "there are 18 draws in the eurovision song contest 2008."
+    ],
+    "1-25551880-2.html.csv": [
+        "There was no stage in the 2010 vuelta a espa\u00f1a where the team classification was the same.",
+        "no stage of vuelta a espa\u00f1a was won by the same rider, all of the stages took place in spain.",
+        "There was no team that won every single classification in the 2010 vuelta a espa\u00f1a and that was not htc - columbia.",
+        "There are not unique team in general classification and there are not unique teams in general classification."
+    ],
+    "2-14860855-3.html.csv": [
+        "Reinhold Roth scored the most points of any rider in the 1987 and 1988 seasons.",
+        "Reinhold Roth scored the most points in the 500cc class in 1985.",
+        "Reinhold Roth got the most points in the 1987 season.",
+        "Reinhold Roth scored the most points of any rider in 1987.",
+        "in 1987, Reinhold Roth obtained the lowest number of points of all seasons."
+    ]
+}

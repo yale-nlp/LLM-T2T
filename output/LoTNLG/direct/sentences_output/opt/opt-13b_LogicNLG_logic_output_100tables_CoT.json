@@ -1,0 +1,710 @@
+{
+    "2-1458666-4.html.csv": [
+        "countable of WGC event US team, US total wins is 31, individual wins is 12.",
+        "each nation had individual winners in the world golf championships.",
+        "team united states is not the world's best golf nation.",
+        "world golf championships are counted as 1 unit in the world golf championships total.",
+        "the world golf championships consists of 5 different nations and the number of team wins of one nation is countable."
+    ],
+    "2-17814838-6.html.csv": [
+        "781,000 tickets were sold on 21 june 2008.",
+        "Reasoning: looking at \"home team score\" column, home team was liverpool, which scored 1 - 1 against everton. and looking at the \"away team\" colmun, everton scored the highest \"away team\" score with a 0 - 1 against liverpool. now looking at the \"score\" colmun, the highest score for everton was 0 - 1 against liverpool. therefore, all of the points everton scored in the 2008 - 09 fa cup were against liverpool.",
+        "crystal palace scored the most point of any team that played on 3/11/2009.",
+        "most attendance in the 2008 - 09 fa cup was 100000 in the second tie game between everton and liverpool.",
+        "derby county scored the most point of any team that played on 15 may 2009."
+    ],
+    "2-170969-2.html.csv": [
+        "saint george is the most populated parish in saint george parish.",
+        "all of the parishes in the county of saint george are a parish.",
+        "grand manan parish is the largest parish in the province of new brunswick.",
+        "the parish of saint george has the most populated parish in the county of saint george, and it is also the most populated parish in the province of new brunswick.",
+        "These parishes had different official name."
+    ],
+    "2-14255774-8.html.csv": [
+        "the rockies had the largest attendance, the rockies had the largest loss and the rockies had the largest record.",
+        "count, superlative",
+        "Reasoning: looking at \"date | opponent\" column, there were 7 dates in the table above. so, the logical label \"count\"\nclaim: \"september 1 | cardinals | 8 - 6 | mcclellan (2 - 7) | 35075\"",
+        "arizona cardinals had the most loss in the 2008 arizona diamondbacks season.",
+        "losing streak on september 27 was the longest losing streak of the 2008 arizona diamondbacks season."
+    ],
+    "2-17964087-2.html.csv": [
+        "Paul Chan - Yuen is a countable appointment to the hong kong government.",
+        "the countable foreign nationality in row one is \"british\" and none of the countable foreign nationality in row two.",
+        "two person on political appointments list are younger than 33 years old, which means that these two persons are not in the \"not-categorical\" group.",
+        "The number of political appointees was a countable in Hong Kong.",
+        "countable is the most suitable logical label to use on political appointments system in hong kong"
+    ],
+    "2-12582968-1.html.csv": [
+        "luk\u00e1\u0161 melich is the counted the competitor of at-age athlete.",
+        "luk\u00e1\u0161 melich was the only athlete to be competing in the 2001 Euro U23 Championships.",
+        "world championship for the 1998-2013 period were not countable events.",
+        "luk\u00e1\u0161 melich's mark from 2012 world championships was a countable mark.",
+        "the luk\u00e1\u0161 melich won 17 international junior competitions, 21 junior competitions and 7 senior competitions."
+    ],
+    "2-14820149-3.html.csv": [
+        "juan garriga has the most years with zero points in 500cc in 1988.",
+        "juan garriga was the last person from the 250cc class.",
+        "Reasoning: juan garriga is in two columns of list. the first column is \"year | class | team | points | wins\". \"year\" column is only for juan garriga and all the rest of the columns is for all the rest of the students who were on juan garriga's team in 1984. \"class\" column is the class that the student is currently attending. all other students who were on juan garriga's team in 1984 are listed in the other \"team | points | wins\" column. so we could take a comparative claim from juan garriga's \"team | points | wins\" column. so \"juan garriga is in two columns of list. the first column is \"year | class | team | points | wins\". \"year\" column is only for juan garriga and all the rest of the columns is for all the rest of the students who were on juan garriga's team in 1984. \"class\" column is the class that the student is currently attending. all other students who were on juan garriga's team in 1984 are listed in the other \"team | points | wins\" column. so we could take a comparative claim",
+        "juan garriga scored highest points, more than 4 times lesser than alex rossi in the worst season ever.",
+        "juan garriga finished the most points in the least number of races."
+    ],
+    "2-12392766-3.html.csv": [
+        "the total of all the gold medal that was won in the 2005 - 06 isu junior grand prix was 36.",
+        "all of the countries that won gold, silver or bronze medal had 12.",
+        "japan is the highest nation in the 2005 - 06 isu junior grand prix.",
+        "the united states has the most gold, the second most gold, and the third most gold medals.",
+        "the usa has the most gold medals, followed by russia."
+    ],
+    "2-1140095-1.html.csv": [
+        "all of the names for the same driver in the table were different.",
+        "12.03 (85) is the fastest lap time for the 1968 formula one season.",
+        "fastest lap posted by jochen rindt at the 1968 mexican grand prix was in 15 minutes 13.58 seconds.",
+        "compared to car number 16 in south african grand prix, car number 6 had better place in \"pole position\".",
+        "jackie stewart scored the highest pole position of any driver that raced in the 1968 formula one season."
+    ],
+    "2-1123180-2.html.csv": [
+        "all laps were 71 laps.",
+        "1 driver who qualified for the grand prix scored the same number of points.",
+        "all the data in the table is countable.",
+        "Michael Schumacher had 71 laps on 6 June 1993 and did not retire.",
+        "there are no counterexamples to the claim \"there are no counterexamples to the claim\"."
+    ],
+    "1-2419754-1.html.csv": [
+        "only universty of cincinnati joined all three conference.",
+        "Reasoning: looking at the \"join date\" column, the university of memphis is the only public university founded in the 20th century, so the largest number of schools in the conference is 2. There are no public schools, so we are looking for which is the only institution that joined in the 20th century. This can be either \"university of memphis\" or \"university of cincinnati\" so we are looking for which of these schools is the only school that joined the conference in the 20th century, \"university of memphis\" is the only school that joined the conference in the 20th century. Therefore, the logical claim is \"university of memphis\" is the only school that joined the conference in the 20th century.\n\nNumber of times <per> appears",
+        "all of the institutions located in the same region of the great midwest conference.",
+        "there are 3 unique institutions called \"university of cincinnati\", 2 unique institutions called \"university of dayton\" and one institution called \"university of memphis\".",
+        "the great midwest conference was the only conference of each type in the 20th century."
+    ],
+    "2-17746881-1.html.csv": [
+        "Reasoning: looking at the difference of two columns \"team 1 | score | team 2 | 1st round | 2nd round\" and \"team 1 | score | team 2 | 1st round | 2nd round | type | transfer window\". \"team 1 | score | team 2 | 1st round | 2nd round | type | transfer window\" which can be read both as the higher score in each column or as the difference between the higher score in each column.\nclaim: the teams that got through the first round (game 1) in the 1988 - 89 coupe de france was different in each round except for the first round.",
+        "one team is in a better position than the other team in the table.",
+        "FC Nantes scored the highest amount of goal in the 1st round.",
+        "the best team that played in 1st round of 1988 - 89 coupe de france was team nantes (d1).",
+        "Reasoning: looking at the scores column, the lowest score was 4-1 in round 2 for les sochaux-montb\u00e9liard.\nclaim: les sochaux-montb\u00e9liard scored the lowest number of goal in round 2, 1988 - 89 coupe de france."
+    ],
+    "1-23157997-13.html.csv": [
+        "all of the stage winner of the 2009 nature valley grand prix were all the team classification.",
+        "there were 4 first place finishers in the 2009 nature valley grand prix.",
+        "phillip mamos was the sixth rider to cross the finish line, therefore phillip mamos was the sixth rider to cross the finish line.",
+        "Reasoning: the stage information is counting stage as one and then checking out for riders who were on both 1st stage of that year's nature valley grand prix and 2nd stage of that year's nature valley grand prix to find the highest general classification, both 1st stage of this year's nature valley grand prix and 2nd stage of this year's nature valley grand prix won by the same person, nick frey, hence the highest general classification was a race that Nick Frey won by 1st and 2nd stage on that year's nature valley grand prix, so Nick Frey was the highest general classification for the 2009 nature valley grand prix.",
+        "The teams who won stages and general classification were counted in the number of wins."
+    ],
+    "2-187504-13.html.csv": [
+        "Reasoning: because the rank is listed in descending order, the first two teams were closest to each other, that is, soviet union (urs) and east germany (gdr) both won a total of 29 medals. When ranking nations by the total medals they won, the switzerland (sui) are closest to other countries, namely sweden (swe) and austria (aut). Therefore, switzerland (sui) and austria (aut) are also \"comparative\" in the sense that they are two other countries that finished tied at fourth in total medals.",
+        "East Germany had a total medal count of 29 while Switzerland had a total medal count of 15.",
+        "urs had the gold medal for the 1988 winter olympics, 1987 summer olympics, 1984 summer olympics, 1986 winter olympics, 1986 summer olympics, 1988 summer olympics, 1988 winter olympics, 1988 summer olympics, 1989 summer olympics, 1989 winter olympics, 1989 summer olympics, 1990 summer olympics, 1990 winter olympics.",
+        "all the gold, silver and bronze medal winnings of the 1988 winter olympics was higher than all the other countries that competed.",
+        "soviet union (urs) won more gold medal than east germany (gdr).",
+        "sweden scored the highest medal count out of all the countries that participated in the 1988 winter olympics."
+    ],
+    "2-18855244-2.html.csv": [
+        "only one olympic medalist has ever achieved the feat of winning multiple medals in one olympics, michael phelps.",
+        "que\nReasoning: finding the first individual with more than one gold medal in the same sport, michael phelps had three gold medals in swimming, four gold medals in swimming, five gold medals in swimming.\nclaim: no other individual in the history of the olympics with multiple gold medal has won more gold medals in the same sport.",
+        "there is no other example of another one of these 20 events were held in 1912.",
+        "\"gold medalist\" is written twice which proves that both were gold medalists."
+    ],
+    "2-14076898-4.html.csv": [
+        "\"unique\" games are counted in the table.",
+        "unique count, teams that have two or more wins are teams that have recorded more than one win but none of them have recorded three or more wins.",
+        "no team won more than 3 games in 7 games.",
+        "ique\nReasoning: looking at the \"games\" column of the table, 7 game were played. the number \"51\" also happens to be the number of times the team names were listed. however, the number \"61\" is the number of games that were played against the team named \"czech republic\". the number \"10\" is the number of goals that team czech republic scored, while the number \"61\" is the number of games they played, as the first team was Czech Republic and the second team was Czech Republic.",
+        "the 1996 men's world ice hockey championships was the only tournament in which all the players who scored the most goals, both in the group stage and the knockout stage, were from one country, Czech Republic."
+    ],
+    "2-16045118-20.html.csv": [
+        "the longest nominee list of black golden globe award winners and nominees occurred in the year 2012.",
+        "the number of actor is one to three.",
+        "The number of a nominated actor is 5 which yields a table of 5, and thus, the table can be indexed using the property of counted attributes.",
+        "the number of winner each year from 1960 to 2011 are countable, just like 6.",
+        "ntable noun\nReasoning: looking at \"list of black golden globe award winners and nominees\" column, one of the nouns in the table is list. Thus, the claim is \"one of the black golden globe award winners and nominees is list.\""
+    ],
+    "2-10234157-2.html.csv": [
+        "leicester scored the most point of any team that played in 2007 - 08 english premiership (rugby union).",
+        "andy goode is the best player for leicester tigers in the 2007 - 08 english premiership.",
+        "Reasoning: since the highest scoring team in the table has been Andy Goode with 4 tries (201 - 207 = 2), we are going to look for the total number of tries scored in the table. Since the highest score was 6 (179 - 192 = 3), we are going to look for the team who scored 3 tries. Since the total number of points scored was 207, we are going to look for the total number of points scored in the table. Since the team with the most points in the table has the most total tries in the table, we are going to look for the team who scored the most tries in the table. Since the team with the most tries in the table has the most total points in the table, we are going to look for the team who scored the most points in the table. Therefore, we are going to look for the team with the most tries in the table and the team with the most points in the table. The team with the most tries in the table is Sale Sharks (192 - 177 = 19). Therefore, we are going to look for the team who scored the most tries in the table. The team with the most tries in the table is Sale Sharks (192 - 177 = 19). Therefore, we are",
+        "Danny Cipriani scored more try then Owen Farrell.",
+        "london wasps scored the most number of points of any team and the number of tries scored by london wasps is the most of any team."
+    ],
+    "2-11963735-4.html.csv": [
+        "allen iverson scored the most point in the games that nuggets played in december 2007.",
+        "Reasoning: looking at the \"date\" column, the heat game was played on 12 december 2007. Looking at \"score\" column, it was 89-115. Looking at \"home team\" column, it was nuggets. Looking at \"leading scorer\" column, it was carmelo anthony (30). Looking at \"score\" column, it was 16386. Looking at \"venue\" column, it was the nuggets arena. Looking at \"attendance\" column, it was 16386. Looking at \"record\" column, it was 11-7.  Finally looking at the \"leader score\", it was a total of 30.\nThe nuggets did not lose to another team in the whole season.\nTherefore the claim:\n\"nuggets did not lose to any other team in the whole season\" is a superlative.",
+        "the nuggets lost the game by a margin of 10 points in the game 2 december 2007 against the heat.",
+        "the nuggets scored more point than any team in their home game on 2 december 2007.",
+        "nuggets 118 - 120 warriors was the highest score for any game that took place on 18 december 2007."
+    ],
+    "1-25030512-41.html.csv": [
+        "the number of democrats reelected is 1 less than the number of republicans reelected.",
+        "tion\nReasoning: since \"district | incumbent | party | first elected\" column shows the winning and losing percentages, looking at the first and last columns that show win and loss percentage respectively, we can count the percentage of winning and losing. In the first column that contains the \"district\" label, the Democratic party had about a 71% winning percentage while in the last column that contained \"party\" label, Democratic party had about a 63% winning percentage. Now, we can look for a percentage less than 63% which represents a negation to this logic. Since, in the first column, we have a majority percentage of the vote, \"89%\" and then, in the last column, we have about a majority percentage of the vote, \"56.6%\" this leaves us with \"69.0%\". This means that there is a negation to the logic we have laid down above. Now, from \"93\" to 69.0%, which is less than 93%, and since the logic is negation, we have said \"less than\", so that leaves us with \"76%\". Which in this example, is what we have.",
+        "\"district 15\" has the highest reelection rate among the 13 congressional districts in Pennsylvania in 2012, namely, 57.5%.",
+        "tion, relative count\nReasoning: the \"candidates\" column shows that there were 5 candidates running for congress. The incumbents in the table shows that bob brady had held the seat since 1998. So the claim sentence \"all incumbents in congress lost\" is negated by the relative count of 5. The all means that there were only 5, the count that is negated is 5, that means there were 6 (the 7th candidate is debatable since he lost).",
+        "tion, plural\nReasoning: looking at the \"district | incumbent | party | first elected\" row of the table above, all district except the last one have one representative, while the last one has two representatives. So looking for which district have the most representative of district. The districts with one representative is pennsylvania 1, 6, 11. The district with two representatives is pennsylvania 13, 14. Looking at \"result | candidates\" row, there are only two of each. Looking for which districts with most of candidates are from district with one representative. The district with two representatives have most of the candidates from the two representative district. So if we look at which district is from the two representative district, we will find that the district with most of the candidates from the two representative district is pennsylvania 13. In pennsylvania 13, the election were one representative election. Looking at \"result | candidates\" row, we can find which districts have most of the candidates. Looking at the result of the \"first elected\" row, we can find which district has more number of first elected representatives. So looking for which district has most first elected representatives. Looking at \"candidates | candidates in district\" row, we can find which districts have most of"
+    ],
+    "2-15177130-1.html.csv": [
+        "Reasoning: having excluded the event, driver, and race column because that were all in the table, you might expect it to be between \"grand prix de l'albigeois\" and \"grand prix de l'albigeois final\", however that is not the case because event, driver, and race are NOT the same event.\nTherefore it cannot be a continuous claim.",
+        "none of the statements in the table does not contribute to the claim.",
+        "ken wharton finished 2nd, and jose froilan gonzalez finished 8th.",
+        "none of the drivers raced on the circuit shown in the table above.",
+        "none of the circuit were for the circuit of boreham."
+    ],
+    "2-17337904-12.html.csv": [
+        "all of the states listed above were kingdoms.",
+        "none of the royal house above were related to each other.",
+        "none of the leaders of the state of Yan were of the title \"xi\", \"yang\", \"jun\" or \"yi\".",
+        "the polity of cai | sovereign | wu | marquis | ji",
+        "none of the rulers in the 840s bc were in the royal house."
+    ],
+    "1-25847911-1.html.csv": [
+        "oning: in all of the episodes that had battle scenes, the series' highest rating was \"eigo taiketsu! shoubu da baka rokunin\" which means that the audience thought that it was a lot easier to do a battle with the 6 people. Therefore, the first sentence with \"eigo taiketsu!\" and \"shoubu da baka rokunin\" was the one that got the highest ratings.",
+        "the difference between the ratings were less than 15%, while only a small percentage were higher than 30%.",
+        "oning: looking at the \"ratings\" column, \"july 15, 2005\" episode had the highest rating of 17.9% and \"august 12, 2005\" episode had the lowest rating of 15.6%.\nComparison: the lowest rating of 15.6% was less than the highest rating of 17.9%. Thus, \"july 15, 2005\" episode was more popular than \"august 12, 2005\" episode.",
+        "japanese university exam is the hardest exam in the country",
+        "the entrance exam for tokyo university is harder than the entrance exam for imperial university",
+        "tokyo university exam is harder than imperial university exam",
+        "the word \"good\" in this sentence is only better than most words except \"bad\"."
+    ],
+    "2-15029747-1.html.csv": [
+        "brandi love is nominated by two or more award in 2013, or maybe all of them.",
+        "brandi love has the most awards of any milf performer",
+        "avn award is the only thing that is countable in the table above.",
+        "\"Xbiz award\" has to be a countable, because there are 1-2 nominees per year.",
+        "in 2013, brandi love was the cougar performer of the year, web star of the year and most outrageous sex scene (with kelly madison)"
+    ],
+    "2-11713403-3.html.csv": [
+        "tive\nReasoning: comparing the average yards per catch of each player, kieran jackson was the best out of all the players\nclaim: kieran jackson was the best out of all the players to record the most yards per catch in 2006.",
+        "clemson completed a longer yard run than georgia force, the team that completed the longest yard run by a player.",
+        "tive\nReasoning: looking at both \"player\" column and \"yards\" column, Chris jackson led the all georgia force receivers with 744 receiving yards, only 3 yards less than the 2nd position player, benjamin elliott. However, their touchdowns are quite different, Benjamin elliott had 5, whereas Chris Jackson only had 4. According to the cardinal rule of numbers, the numbers of players who are tied and the numbers of yards are mutually exclusive, hence the claim must be either \"Chris Jackson had 744 receiving yards\" or \"Benjamin elliott had 5 touchdown\".",
+        "chris jackson's yardage was equal to that of derek lee.",
+        "chris jackson had the highest yards received compared to other players in 2006 georgia force season."
+    ],
+    "2-18025901-1.html.csv": [
+        "the most attended fa cup third - fourth place matches took place at highbury on 10 april 1970",
+        "third - fourth place matches in season 1972 - 1973 had least attendance of the three.",
+        "manchester united hold the record for fewest people to ever see a match and the only football match from the 1969-70 season to have a fa cup",
+        "inal\nReasoning: vernacular is ordinal for both \"winner\" and \"loser\" in \"1969 - 70 fa cup\"\nclaim: 1969 - 70 fa cup winner is manchester united, and 1970 - 71 fa cup loser is everton",
+        "the team with the longer winning streak has the second team second in their run."
+    ],
+    "1-24584486-1.html.csv": [
+        "able\nReasoning: based on the number of races and wins and poles column in row \"races\" and \"wins\" column in row \"poles\" and the number of podiums column in row \"poles\" column in row \"poles\", and the number of rows in row \"poles\" column in row \"points\" column, James calado has a record of 18 races, 7 wins, 2 poles and 4 podiums.\nThus, the number of races in row \"races\" and number of wins in row \"wins\" are 18 in each column.\nSimilarly, the number of rows in row \"poles\" is 4 in each column.\nTherefore, the number of podiums in row \"poles\" is 4.\nThe number of points in row \"points\" is 293 in each column.\nTherefore, the number of position in row \"positions\" is 7.\nThus, the claim \"James calado has a record of 18 races, 7 wins, 2 poles and 4 podiums.\" can be consistently made.",
+        "the only team that took part in 2008-2010 james calado's racing career are lotus gp.",
+        "3 numbers from table are all countable.",
+        "able\nReasoning: finding the number of race appearances for james calado is easy, it's 30.\nclaim: james calado has the second highest number of races appearances.",
+        "countable, 6 winter seasons in total."
+    ],
+    "2-10750694-19.html.csv": [
+        "westie scored the most goal of any team that played on 30 august 1952.",
+        "hawthorn's 8.11 (59) was the highest score they got in 1952.",
+        "geelong scored the most point of any team that played on 30 august 1952.",
+        "hawthorn scored the highest of any home team that played on 30 august 1952.",
+        "st kilda scored the least amount of point of any team that played on 30 august."
+    ],
+    "2-17832085-4.html.csv": [
+        "\"1\" in \"position\" column had the highest number of position than any other team in the league.",
+        "h\u00e9rcules cf scored the most point in the 1965-66 segunda divisi\u00f3n season.",
+        "H\u00e9rcules was the best team of 1965 - 66.",
+        "that highest point scorer has also played 38 games, having the highest point scored of all the team that played 38 games.",
+        "The points of H\u00e9rcules in the 1965 - 66 Segunda Divisi\u00f3n was the best of any team that season."
+    ],
+    "2-10774891-18.html.csv": [
+        "all matches played at Arden Street Oval in Melbourne in the 1957 season were between melbourne and south melbourne",
+        "footscray scored the most point of any team that played on 24 august 1957.",
+        "all of the venues for the 1957 vfl season were at one place.",
+        "Footscray was the home team for the 1941 vfl season",
+        "Richmond were the superlative for the 1941 vfl season",
+        "all of the venue for the 1957 vfl season was arden street oval.",
+        "all the away teams scored 9.8 (62) or more and there were only two or more away teams, meaning the claim must be true."
+    ],
+    "2-1825661-2.html.csv": [
+        "the mercedes-benz w108, a sedan from the 70's, is the most reliable.",
+        "the model that have the highest number built is 4.5l m117 v8 model.",
+        "the 2.8l engine produced in the longest production time is the most recent generation engine built in the most recent series produced.",
+        "the 3.0l engine produced in the longest production time is the most recent generation engine produced in the most recent series produced.",
+        "the mercedes - benz w109.016 with the shortest production time was the mercedes - benz w109.016.",
+        "the w109 model is the best model produced by mercedes benz and it is produced by the w108 model."
+    ],
+    "2-10361861-2.html.csv": [
+        "looking at \"week\" column, week 11, i have the week 11 opponent was the september 21, 1980 match against the Chicago Bears and that the match was won by the vikings by a score of w 34 - 14.\nThen looking at the \"attendance\" column, looking at all of the number of tickets that were sold, i have the record crowd of 59983 was for the week 11 match against the chicago bears.\nThen looking at the \"date\" column, week 11, i have the match was played on september 21, 1980 and that it was the same week as the week 11 opponent which is the chicago bears.\nThen looking at the \"result\" column, looking at the match as well as week 11, i have the match was won by the vikings by a score of w 34 - 14 and also looking at the match week 11, i have the match was played on september 21, 1980.\nSo i can claim that week 11, in terms of results is the most attended game in the history of the vikings.",
+        "the 1980 minnesota vikings had the lowest average attendance throughout the regular season of all 16 teams that played in 1980",
+        "chicago bears' attendance was the highest of all the teams on the same date.",
+        "more people attended week 16 game than week 8 game.",
+        "the new orleans saints have the least attendance of any team that played on december 15th, 1980."
+    ],
+    "2-10773616-16.html.csv": [
+        "the most away team's scores in the 1954 vfl season were 15.4 (94) in \"away team score\" column and 9.15 (69) in \"away team score\" colmun.",
+        "crows scored the most point of any team that played on 14 august, 1954.",
+        "Reasoning: finding the lowest score, comparing the least score with the maximum score, was \"st kilda | 13.14 (92) | fitzroy | 9.15 (69)\" which was less than 13.14 (92) so finding the score less than 13.14 (92) was better than the score of st kilda, therefore st kilda scored less than the score of fitzroy.",
+        "geelong scored the least away team score in \"away team score\" column, geelong scored the least point.",
+        "geelong's crowd was the biggest, 18,580."
+    ],
+    "2-1100124-1.html.csv": [
+        "none of the above.",
+        "none of the games played on 7 october 1964 in the 1964 world series can be referred to by the term \"game 7\".",
+        "there were no attendance records.",
+        "7 is the highest score in \"game number\" column, therefore 7 is the highest in \"game\" column.",
+        "no one watched the 1964 world series."
+    ],
+    "2-11048203-1.html.csv": [
+        "the best ever result for the national football team of Jordan was the 1 - 0 friendly result on 22 february 2006.",
+        "Reasoning: looking at date and venue columns, the game was played in 2002 and then in 2013, so the game is older than 2013.\nThen looking at \"score\" column, the game was 1 - 1 in 2002 and in 2013 it was 2 - 1, so the score is the same.\nThen looking at \"result\" column, the game was a draw in 2002 and in 2013 it was a loss, so the result is different.\nSo the claim is that \"hatem aqel scored a goal in 2004 and in 2013\".",
+        "Reasoning: looking at \"date\" column, match between the 2004 afc asian cup qualification and the amman friendly match was played on 15 december 2004.\nDate: 15 december 2004.\nAccording to the information provided in the table, amman and kuwait drew 1 - 1 on 15 december.\nMatch: 16 december 2002, 2004 afc asian cup qualification.\nThe only match between the two teams played on 16 december.\nQualification: 2004 afc asian cup qualification.\nThe match played on 16 december was the qualification match of 2004 afc asian cup qualification.\nMatch: 17 october 2003, 2004 afc asian cup qualification.\nThe only match between the two teams played on 17 october.\nQualification: 2004 afc asian cup qualification.\nThe match played on 17 october was the qualification match of 2004 afc asian cup qualification.\nMatch: 18 february 2004, 2006 fifa world cup qualification.\nThe only match between the two teams played on 18 february.\nQualification: 2006 fifa world cup qualification.\nMatch: 14 february 2006, friendly.\nThe only match between the two teams played",
+        "hatem aqel played better in amman, singapore and singapore so that their venue are not as competitive.",
+        "the \"family market\" is smaller so the \"brand\" market for the \"blackstar\" and the \"redstar\" is 35% which is much bigger than the \"brand\" market for the \"bluestar\".",
+        "28 october 2013 both the opposition and the date of the games are comparable to the arab nations cup and both the date of the game and the opponents were friendly matches."
+    ],
+    "2-17324893-3.html.csv": [
+        "new york rangers had the best record in november.",
+        "st louis blues had 3 less games than new york rangers and their record is lower.",
+        "the new york rangers had a better record than the vancouver canucks for november.",
+        "looking at all the games where the rangers won 3 or more goals, in comparison to the games where the rangers lost 3 or more goals, the rangers scored at least 3 goals in more games than they lost at least 3 goals in games that were played in november.",
+        "Reasoning: looking at \"record\" column, it appears that \"record\" column indicates number of won game, then looking at the record column of the opponents of the \"november\" game that we've played, it appears that it is the number of won game for the nxvyers. And it appears that the nxvyers, as a whole, had the best record.\nSo it appears that the nxvyers, as a whole, had the best record."
+    ],
+    "2-1520959-1.html.csv": [
+        "there are 5 coasters at the drayton manor theme park.",
+        "all of the themed areas for drayton manor theme park were aerial parks.",
+        "all of the styled areas for drayton manor theme park were aerial parks.",
+        "the themed area is called \"(steel sit down) action park\".",
+        "all of the theme parks are countably infinite.",
+        "all of the theme parks are countably infinite.",
+        "all of the theme parks are countably infinite.",
+        "stand up rollercoaster and steel sit down are only two theme areas of drayton manor theme park."
+    ],
+    "2-1235883-1.html.csv": [
+        "umberto maglioli had no championships in the nordic championship, nor any podiums.",
+        "all of the points were scored with ferrari straight-6 engine.",
+        "none of the umberto maglioli's was raced for the dr ing f porsche kg.",
+        "Reasoning: the \"official\" season number of the Umberto maglioli car was 1953, yet the Formula 2 driven by maglioli in 1954 and 1955 does not have the \"official\" season number of the Umberto maglioli car of that year in the \"chassis number\" column. Therefore, the \"year\" in the \"entrant\" column for Umberto maglioli's car from 1954 to 1955 is actually wrong. Furthermore, since maglioli drove cars with different chassis numbers from 1954 to 1955, we cannot conclude with certainty that maglioli did or did not have a season in Formula 2 in 1954 and 1955.",
+        "none of the points, for which the season produced the least points, were zero."
+    ],
+    "2-18813729-2.html.csv": [
+        "Reasoning: looking at \"dead guys remix\" column, finding out that all the remixes were from the \"dead guys remix\" album.",
+        " did not have any remixes.",
+        "Reasoning: in negation, unique refers to \"any artist\" while negation refers to \"no artist\" but unique does not imply no artist. Therefore there is a contradiction in the claim.",
+        "there is only 1 remix of \"party like ur 18\", the dee - lux remix.",
+        "joel edwards (singer) and chicane are not the same artist."
+    ],
+    "2-180342-8.html.csv": [
+        "in total, crystal palace transmitting station was the longest and shard london bridge was the shortest in height of all the structure that has ever been built in london.",
+        "the White tower has the highest number of stories in london.",
+        "untable\nReasoning: the list is in the table in columns 1 - 9, therefore we can count the number of list in the table.\nclaim: 9 of the 20 tallest buildings and structures in london are taller than 100 meters / 328 ft.",
+        "untable\nReasoning: every name has a height and a year, then adding up the heights, the total heights of all the name is what you get. You can use the height of shard london bridge, 306 metres, to work out how many metres tall name is because there is no units given, as a result it's countable.",
+        "untable\nReasoning: as far as i know, shard is the only building that falls under the label of countable (but its still not very clear in the term countable)\nclaim: list of tallest buildings and structures in london consists of countable buildings."
+    ],
+    "2-12209065-5.html.csv": [
+        "countable data points have consistent claims, because the claim indicates a situation that can be expressed in terms of a countable quantity.",
+        "20 of the 28 july games were won.",
+        "the number of the attendance is the highest in the game.",
+        "there were countable number of teams in the 1997 baltimore orioles season.",
+        "there are only 3 box with a label \"smallest\""
+    ],
+    "2-18662679-3.html.csv": [
+        "the rower in rower 1 was Morgan McRae from Australia.",
+        "rower #3 in \"mate\" column is name-year-country.",
+        "The 5:36.42 is the best time.",
+        "The time 5:36.20 (WB) recorded by Morgan, Mcrae, Long, Noonan of Australia is the fastest time in the men's quadruple sculls rowing event in the 2008 Summer Olympics.",
+        "rowing at the 2008 summer olympics - men's quadruple sculls is the last record."
+    ],
+    "2-16570286-3.html.csv": [
+        "alec bedser could have had a better average and keith miller might have had a better bowling.",
+        "norman yardley had the most wickets of all the bowlers in the 1948 ashes series.",
+        "Reasoning: looking at \"best bowling\" column, alec bedser of england's 5 best bowling performance was 4/81. If we use English property, a standard litmus test for comparative is is compare two things in one of them is doing better, alec bedser's best bowling was 4/81, keith miller of australia had the 4th best bowling performance with 5/125. As we have alec bedser's best bowling of 4/81, this means that alec bedser is doing better than keith miller and keith miller is doing better than alec bedser.",
+        "the best bowling average in the ashes series was 36.22 in \"keith miller | australia\" column."
+    ],
+    "2-17599325-1.html.csv": [
+        "there were 7 races and 7 drivers.",
+        "the 1958 australian drivers' championship had two race more than any other championships, only one race in each series was competed.",
+        "no race was the same race that stan jones won twice on the same date.",
+        "There were only 3 races in the 1958 australian drivers' championship so all of the races were unique.",
+        "race on 27 january, 2 february, 3 march, 5 april, 15 june, 23 october and 30 november were the only race that occurred after 29 march, when the race was held, were a unique event in themselves and was the first race that occurred in the month."
+    ],
+    "2-1620397-5.html.csv": [
+        "none",
+        "oning: \"the masters of luxor\" episode was the first doctor who audio play for david tennant. he is the only one who acted in this audio drama.\nclaim: david tennant was the only one who acted in the first audio drama for david tennant, which was the \"the masters of luxor\" episode.",
+        "oning: looking at \"series sorted\" column, it looks like \"series sorted\" column is ordered in descending order, from the top it means that the sixth Doctor story The Masters of Luxor is the second story.",
+        "those audio plays are the only one that features a character who didn't appear in a regular feature.",
+        "oning: the sontarans are appearing in three different series by three different company. While the storyline featuring the sontarans in these series are same, as they are all linked together as part of the continuum continuity, the actual company that made the story is different. Therefore, all of these three sontarans episodes are not unique."
+    ],
+    "2-14841421-2.html.csv": [
+        "Iran(9) have more points than Japan(0).",
+        "iran has more gold medals than any other country in the AVP club volleyball championship.",
+        "Reasoning: looking at the data from the table, sum of gold, silver and bronze medals was 42 which means that total medal counts were highest in china and indonesia. The total medal count of china was the highest out of the three and was followed by indonesia which was the second highest. The lowest total medal count was of qatar which was followed by south korea which was the second lowest. Comparative tables are used to compare the medal counts for a particular sport between the different countries in a particular world championship. There are 4 medals to be awarded for a particular world championship. The number of medals that each country is awarded is dependent on how well they perform during the world championship. The country with the highest number of medals is considered the winner of the world championship. If there is a tie between two countries in the medal count they are given the same number of medals. If no medal is tied between two countries they share the medals in the order of number of golds, silver and bronze medals. Comparative tables are used in the sporting world championships for football, athletics, basketball, ice hockey, tennis and table tennis among other sports. The total medal counts for the 2008 world championship are as follows: china 14, indones",
+        "largest team that played in the 2008 avc club volleyball championship was 42.",
+        "the top row of the table had 42 and the bottom row had 1 and 1, showing that the avc club volleyball championship had the most total medal than any other event."
+    ],
+    "2-13189034-1.html.csv": [
+        "ing: looking at the months, the episode and the budgets, none of the budgets contain numbers as 10, 30, 50 and 150. Since no budget contains a number between 10 and 150, the claim \"100 the best budget\" is inconsistent.",
+        "ing: as there is no logical label. this claim doesn't seem appropriate",
+        "all of the above do not make up the episode numbers in the table above.",
+        "no budget was given for the 2002 africa special, thus the title \"africa special\".",
+        "there were at least one special per series in the top gear (2002 tv series)."
+    ],
+    "2-11902366-4.html.csv": [
+        "ny islanders had the highest home attendance of any team for that day.",
+        "the most home games riks arena played during the 2007 - 08 new jersey devils season was 12.",
+        "best record of the 2007 - 08 new jersey devils season was 13 - 10 - 2.",
+        "montreal had the worst home record in the league.",
+        "the marquee match of the season had the longest time.",
+        "there were 13,665 people who watched the devils' game."
+    ],
+    "1-2417308-3.html.csv": [
+        "the 34th congress did not elect on time and had to start again with a new set of members.",
+        "none of the incumbent congressman was standing for re-election on the specified date.",
+        "Reasoning: in \"state\" colmun, the legislative assembly of new hampshire had failed to elect on time, the predecessor of the john parker hale.\nIn \"vacator\" colmun, the legislative assembly of new hampshire had failed to elect on time, the predecessor of the john parker hale.\nIn \"reason for change\" colmun, the legislative assembly of new hampshire had failed to elect on time, the predecessor of the john parker hale.\nIn \"successor\" colmun, the legislative assembly of new hampshire had failed to elect on time, the predecessor of the john parker hale.\nIn \"date of successors formal installation\" colmun, the legislative assembly of new hampshire had failed to elect on time, the predecessor of the john parker hale.\nThe predecessor of john parker hale is john parker hale.\nTherefore, there is no consistent claim sentence from the table above.",
+        "none of the seats for the 34th united states congress have yet to be filled by a legislative installation.",
+        "none of the successors for the 34th united states congress were installed on time."
+    ],
+    "2-10790651-10.html.csv": [
+        "the north melbourne v north melbourne score of 13.7 (89) was the highest score in the away team's column for the round 29 june 1935.",
+        "Hawthorn scored the most point of any team that played on 29 june 1935.",
+        "hawthorn scored the most point of any team that played on 29 june 1935.",
+        "south melbourne scored the most point of any team that played on 29 june 1935.",
+        "Reasoning: Looking at \"away team\" column and \"venue\" column, having the highest score was corio oval, that venue had the highest score of 7000. This is next to the first venue of brunswick street oval which had the highest score of 11000. So the conclusion of the information provided above is that \"corio oval\" is the highest scoring venue."
+    ],
+    "2-11739153-7.html.csv": [
+        "none of the four team listed in \"home team\" column have a record of at least 36-24-5 or 35-24-5 by any team as of February 26th.",
+        "columbus was the opponent of minnesota in \"visitor\" column on february 2nd, 2007.",
+        "none of the game had any decision."
+    ],
+    "2-10897046-5.html.csv": [
+        "que\nReasoning: if we look at the table again, we see there are 3 rows with 8 teams. Now, we are looking for a sentence that claims there are 4 teams named \"minnesota high school\" in the entire table. Looking at the logical labels of the cells, we see that row #5 has the logical label count(5) and row #7 has the logical label unique(4). Count is different from unique as there could be more than 4 cells with 4 teams named \"minnesota high school\" in the table. But, there is only 3 cells with 8 teams named \"minnesota high school\" in the table. Therefore, the claim that the logical label of the column named \"name\" has the logical label count(5) is inconsistent with the claim that the logical label of the column named \"name\" has the logical label unique(4).",
+        "there are more than one players with a name of \"player name\".",
+        "que, and uncommon\nReasoning: looking at \"pick\" column, picking the most unique player (42nd overall) is gordon hayward.",
+        "sam bertilsson is the only player that holds both canadian citizenship and russian citizenship.",
+        "len hanowski is the only player who is listed by two teams."
+    ],
+    "2-18060467-5.html.csv": [
+        "there were 3 amateurs and 2 professional among the top 5 scorers in the 1997 open championship.",
+        "the player that scored the least number of points in the 1997 open championship was angel cabrera from argentina.",
+        "for all the pair of players, one of them is top 3 player in place and the other is not. Hence, they are unique.",
+        "Reasoning: looking at both \"place\" column and \"country\" column, finding the only two players who are not from the same place (United States)\nclaim: darren clarke is the only player from the United Kingdom or Ireland.",
+        "none of the players tied for 1st place in 1997 have the same score."
+    ],
+    "2-15122771-2.html.csv": [
+        "g: looking at the all of the games played on each week, comparing the home game result to the away game result and giving a comparison of both home and away game on the date that the game was played and comparing with the average attendance that day, the 1962 washington redskins were one of the best teams for that season.\n\nExample 4:\nTitle: 1974 us open men's tennis tournament\nTable: \nround | match | result |\nt1 | rounds 3 | w | win\nt2 | rounds 4 | t | no. 2 seed | win\nt3 | rounds 5 | t | no. 1 seed | t\nt4 | rounds 6 | w | no. 1 seed | t\nt5 | rounds 7 | w | no. 1 seed | t\nt6 | rounds 8 | w | no. 2 seed | t\nt7 | rounds 9 | w | no. 3 seed | t\nt8 | round 10 | t | no. 1 seed | w\n\nTask: Provide a consistent claim sentence from the table above according to the logical label.\nLogical label: progression\nReasoning: looking at each round of the tournament. first round was for seeding and to",
+        "g: looking at \"week | date | opponent | result | attendance\" column, the highest attendance and lowest attendance occurred in week 9, (week 6 was a bye week). By looking at the result column (which showed that week 9 was a loss), there is no evidence to show that week 9's game affected any of the subsequent games in that season.",
+        "g: aggregation could mean number, quantity, extent, or measure, so for this case, we have to find out what this means. Looking at the first column, Dallas cowboys, they played seven regular season games, so we can assume that aggregate is \"number\", \"quantity\", \"extent\", or \"measure\".\n\nThus, this should be a claim in the same order as the table above, since their first game was on September 16, 1962, and then the table shows that there were seven regular season games. That is, the claim should be \"the Dallas cowboys played 7 regular season games in 1962\".\n\nWe do not have the information about St. Louis cardinals or Los Angeles Rams. So, we cannot say that they were \"tied\" because the Dallas cowboys also played seven regular season games.\n\nIt is the same with Pittsburgh steelers and new York Giants. The new York Giants played eight regular season games, so we can say that \"they played 8 regular season games\", but the new York Giants lost their first game, so they could be \"tied\", so we cannot say that \"the Pittsburgh steelers played 8 regular season games in 1962\". So, the claim should be \"",
+        "at least 13 games of the 1962 washington redskins season had more than 10k attendance.",
+        "the 1962 washington redskins had three games that drew more than 6,000 people."
+    ],
+    "2-12449312-2.html.csv": [
+        "most medals in pan american games history is 40.",
+        "chile won the most gold medal at the pan american games.",
+        "most number of silver and bronze medals won in the 1951 edition was 12.",
+        "the gold edition of the pan american games has the highest total of \"gold | silver | bronze\".",
+        "chile scored the highest total of any country that participated in 1951."
+    ],
+    "2-10650028-1.html.csv": [
+        "Reasoning: looking at \"player | position | round | overall | college\" column, \"player | position | round | overall | college\" row, looking at \"round\" column, there are 12 players who were in the 1991 Cleveland Browns.",
+        "Reasoning: Looking at all the numbers at the left, I saw that \"1\" was in the position of the strongest player, where \"2\" was in the position of the second strongest player. Hence, \"2\" is the highest rank.",
+        "\"pio sagapolutele\" is the only player which has last name which are the same as the first name \"pio\".",
+        "all of the defensive tackles for the 1991 cleveland browns season are listed in ordinal order.",
+        "Players that were eligible to be drafted in round 1 or round 12 (last round) of the 1991 draft, would be drafted in round 2 or round 16 (last round) of the 2011 draft."
+    ],
+    "2-150343-3.html.csv": [
+        "argentina is the greatest country in the world.",
+        "the highest rank of miss world in 2008 was 5th.",
+        "united kingdom is the country with the highest rank among the countries listed in the table above, where a difference of 1 was considered the top rank.",
+        "\"miss world\" is better than the rest of the countries that are in the ranking table for \"total\" column.",
+        "since 2010 the United Kingdom had more total runners up than india."
+    ],
+    "2-17747000-1.html.csv": [
+        "2 is the sum of the score in 1st round and 2nd round.",
+        "There were 2 games in 1 round of the 1987 - 88 coupe de france where 2 teams scored exactly the same number of goals, 1 at 1-1, other at 2-2.",
+        "the team that won three point, is the team that had unique point.",
+        "Reasoning: looking at the table above, three teams played 2-2 draw. These three teams were 1. Toulouse fc (d1), 2. OGC Nice (d1), 3. Lille osc (d1). Then looking at the first column, there is one team playing 1-1 draw (Stade quimp\u00e9rois (d2)). Then looking at the second column, there is only one team playing 2-2 draw (FC Metz (d1)). Because three teams that played 2-2 draw (Toulouse fc (d1), OGC Nice (d1), Lille osc (d1)), this situation is a unique situation in the 1987-88 coupe de france season. Therefore the logical label of the claim is \"count, unique\"",
+        "The 2nd round of the 1987 - 88 coupe de france were won by teams on the left column."
+    ],
+    "1-23117208-5.html.csv": [
+        "You give Love a Bad Name was the highest ranked episode of the series which has the lowest number of highest ranked episodes.",
+        "all of the title for the list of royal pains episodes was hurt.",
+        "\"hurt like a mother\" had the most views out of all the episodes.",
+        "7th of June 2012 episode is the most popular episode of all of the royal pains episodes, and it had 3.95 million viewers, which is the most viewers any of the royal pains episodes had.",
+        "there were only 1 season and 1 no in series episode in the list of royal pains episodes."
+    ],
+    "2-11677760-22.html.csv": [
+        "Reasoning: counting the number of players with height of 6-5 or higher for each of the three columns, there are total of 36 players in the table. That was the most number of players with height of 6-5 or higher.\n\nTask: provide a claim sentence that matches the logical label given in the table above.\nLogical label: pleonastic\nReasoning: using this logical label, one must not only list or describe that there were many deeds committed (pleonastic), but one must also clarify (reflexive) which of those deeds were collectively called a deed. In this table, there were many deeds performed that included the following:\n\n1) some college/professional basketball players drafted; and\n\n2) other high school basketball players drafted.\n\nSince we have clear that there are many deeds committed in this table, we can also be clear that some of those deeds are collectively called \"deeds\" and others are collectively called \"players\". But what does that mean? That there are some players who were drafted in this table? That is not clear. So let's start from scratch.\n\nTask: provide a claim sentence that matches the logical label given in the table above.\nLogical label",
+        "able\nReasoning: looking at \"college\" column, usa all-american junior willie warren was taken in 2nd round of 2010 draft by clippers.",
+        "able\nReasoning: from the above table, i'm assuming player scott hopson has height 6 - 5 ( which means there are 5 places he can be found in the list, no more, no less ). Therefore, the countable option is the logical option that corresponds to the player \"scott hopson\".\n\nAs of 1 January 2009, many high schools changed their names from their traditional names. So there are different schools listed in the above table\n\nThese names are essentially the same as the \"original\" names. Some exceptions may occur.\n\nTask: Provide a consistent claim sentence from the table above according to the logical label.\nLogical label: countable\nReasoning: from the above table, i'm assuming player scott hopson has height 6 - 5 ( which means there are 5 places he can be found in the list, no more, no less ). Therefore, the countable option is the logical option that corresponds to the player \"scott hopson\".\n\nAs of 1 January 2009, many high schools changed their names from their traditional names. So there are different schools listed in the above table\n\nThese names are essentially the same as the \"original\" names. Some exceptions may occur.",
+        "able\nReasoning: looking at both \"player | height | school | hometown | college | nba draft\" column, player who played college for the number 1 ranked school, and player who was drafted by number 17 teams were in usa today.",
+        "able/all\nReasoning: looking at both \"player\" column and \"school\" column, finding the first player on the list who played high school basketball in USA was Willie Warren and he was drafted 54th overall by the Oklahoma City Thunder in the 2010 draft and according to the link \"NBA Draft Pick\" link above it is clear that his school was farragut.\nAccording to the table below, the school he plays for and height is the first name on the list.\nName Height School / College Hometown Height School / College Hometown\nWillie warren 6'4\" The first player on the list who played high school basketball in USA is Willie warren, who played for the Oklahoma City thunder, and he was drafted 54th overall in 2010"
+    ],
+    "2-1035855-1.html.csv": [
+        "inal\nReasoning: looking at \"final\" column, the \"1st\" \"2nd\" etc. means final is the 1st best result/highest result. So for example, the first final a team gets is usually best. So the first final Bethlehem Steel ever got is best, followed by the second final.",
+        "Bethlehem steel came in 7th in the nl in the period from 1921-1926.",
+        "Bethlehem Steel won the first title in the American Football League.",
+        "esl champion of 1930 was lower than previous esl champion of 1929",
+        "In 1930 the championship match was played after 7 rounds."
+    ],
+    "2-147235-16.html.csv": [
+        "none of the units were in any other unit or group of units.",
+        "of the above\nReasoning: looking at \"jyutping\" column, none of the characters were related to measurement.",
+        "none of the chinese measurement system were based on the metric system",
+        "none of the jyutping or liz characters are related to metrology.",
+        "\"None\" does not apply to either \"metric value\" or \"imperial value\" column as none of the column explicitly lists \"none\"."
+    ],
+    "2-1612222-2.html.csv": [
+        "comparing the title, the player who plays in \"alexandra stevenson\" is the best player, and the player who plays in \"victoria azarenka\" is the worst player.",
+        "nicole vaidi\u0161ov\u00e1 was the best player to have played in the 2006 season.",
+        "the most recent result of the 2012 london olympics is the 2012 miami open where williams won the tournament.",
+        "any of the following tennis players has a lower score than 7-5 in sets, 7-6 in sets, 7-6 in games.",
+        "there are 2 aces in \"year\" column."
+    ],
+    "2-18781865-4.html.csv": [
+        "wheelchair basketball at the 2000 summer paralympics is unique among the sporting event listed in the table.",
+        "all of the nation that participated in the 2000 summer paralympics had two or less medals in total.",
+        "there was only 2 gold medal wins for the team of canada in the 2000 paralympics wheelchair basketball.",
+        "netherlands and united states are the only 2 nations to have scored 1 gold and 1 bronze at the 2000 summer paralympics.",
+        "at the 2000 paralympics, canada, australia, netherlands, and japan each won at least one medal."
+    ],
+    "2-16653153-30.html.csv": [
+        "town'sville crocodiles have won more games than any team in nbl.",
+        "queensland team has won the fewest amount of matches of the four teams.",
+        "the most even match of the 2008 - 09 nbl season was the clash between the gold coast blaze and the sydney spirit.",
+        "the winning percentage of the south dragons was more than 93%",
+        "team that lost its last 5 were the south dragons, team that won its first 2 games were the south dragons and then team that lost its next 3 games were the south dragons.",
+        "The best team that played in 2008-09 NBL season is the south dragons."
+    ],
+    "2-10809351-8.html.csv": [
+        "3 out of 4 teams that played in the 1949 season were at home ground.",
+        "kardinia park had the highest home team score and had the highest attendance on 4 june 1949.",
+        "footscray scored the most point of any team that played on 4 june 1949.",
+        "\"venue\" column is only used to describe the stadium.",
+        "footscray scored the most point of any team that played on 4 june 1949."
+    ],
+    "2-171666-1.html.csv": [
+        "ive\nReasoning: based on the comparative words (people's republic of china) and the percentage (100), the national share (%) of china is more than united states.",
+        "china is ranked 100 higher than the u.s in terms of area of the administrative division by china.",
+        "the smallest administrative division is also the largest administrative division, the smallest administrative division is also the largest administrative division in the People's Republic of China.",
+        "List of chinese administrative divisions by area",
+        "since \"national share (%)\" is directly below \"area (km square)\", it should be the first thing to mention."
+    ],
+    "2-18715280-4.html.csv": [
+        "hungary won the most gold medals of all the nations that competed in the 1986 icf canoe sprint world championships",
+        "the hungarian team ranked 3rd in 1986 icf canoe sprint world championships. That team scored the most gold medal in 1986 icf canoe sprint world championships.",
+        "hungary has the gold medal and has the most medal for that competition.",
+        "Hungary has the most number of medal at 1986 icf canoe sprint world championships.",
+        "soviet union had the most medal in 1986 icf canoe sprint world championships."
+    ],
+    "2-10809823-14.html.csv": [
+        "hawthorn scored the most point of any team that played on 28 june, 1980.",
+        "the vfl team with the highest home and away score had the largest crowd at the game.",
+        "footscray scored higher than any team in 1980s vfl.",
+        "the number of crowd was greater than or equal to 2 at two games.",
+        "footscray scored the most point of any team that played on 28 june, 1980."
+    ],
+    "2-11312764-4.html.csv": [
+        "the ranking system was using rank numbers to identify the ranking groups of different athletes.",
+        "looking at the 1st to 30th places, carola wei\u00dfenberg was the one who came in the bottom place.",
+        "linda fratianne's 186.92 is higher than anett p\u00f6tzsch's 184.36.",
+        "Astrid Jansen in de Wal scored the highest score of any team that played on 30 june, 1979."
+    ],
+    "2-1762882-13.html.csv": [
+        "The number of games played in 2003 - 04 scottish football competition should be counted.",
+        "none of the match was countable.",
+        "the two games on 20 august were all games of which were all games of scottish football.",
+        "\"2003 - 04 in scottish football\"",
+        "all of the games in the 2003 - 04 scottish football season were friendly games."
+    ],
+    "2-12546630-1.html.csv": [
+        "some of the km column were less than 1km, and also the km column has the range between 1 km and 24km.",
+        "ettore meini (it) was first to the finish line in the 1933 giro d'italia.",
+        "all of the races were stage races for the 1933 giro d'italia.",
+        "the shortest distance was \"bolzano to bolzano\" and the longest distance was \"milan to milan\".",
+        "Reasoning: finding the race leader, alfredo binda, who won a race in foggia on 8 may 1933, the race leader for this race is still guerra, learco guerra."
+    ],
+    "2-18424482-2.html.csv": [
+        "all of the song titles are superlative.",
+        "The longest song is there stands the glass.",
+        "ng: only 2 songs are shorter than 5 minutes, and the average number of minutes per song is 16.3.",
+        "track #1 and track #8 were the longest songs of the album sleepless nights.",
+        "ng: the longest track, 15 minutes, is the only track with more than 20 seconds. This means that \"sleepless nights\" is a track with the shortest length out of the 11 tracks. Hence \"sleepless nights is the shortest song out of all of the songs.\""
+    ],
+    "2-1877416-2.html.csv": [
+        "more countries participated in baseball classic tournament than rank",
+        "melbourne's record in the world baseball classic is one win and one loss.",
+        "team mitsubishi dwc won the most gold medals.",
+        "Reasoning: in second to last column, total of gold medal was only 3 but total of silver medal was only 2, then we found that second to last column is comparing gold and silver medal, that means gold medal is better. So looking at third to last column and finding which team had 3 gold medal, world team had only 2 silver medal, so based on the table above, it can be concluded that world team is better than team number three, so looking at third to last column and find which team had 0 gold medal, USA has 1 silver medal and 0 gold medal, so based on the table above, it can be concluded that USA is better than team number six, so based on the table above, world team is better than team number three.",
+        "the last match (round 3) had more gold medal than any other baseball match, and the last match (round 3) was the most played match."
+    ],
+    "2-14305653-58.html.csv": [
+        "none of the dates were the same.",
+        "one\nReasoning: looking at \"type of game\" column, there are no \"friendly\" or \"friendly,cup\". So there must be game between the yugoslavia national football team and uruguay and one between the yugoslavia national football team and romania, and both of those matches was game of championship. So the yugoslavia national football team have results of four match on march 22, 30, 27 and 15 which were all game of championship.",
+        "there were no friendly matches in the years 1982, 1982, 1982, 1982 and 1982.",
+        "no football team is known to have played on \"march 22\".",
+        "none of the above because it is impossible for any match to be played on a non-national day."
+    ],
+    "2-10753786-4.html.csv": [
+        "Reasoning: we need to take the comparison as fact and go on from there to see what is being compared, which is the weeks number of major championships won. We will be looking at 9 major championships, we will be trying to find out who is the 10th. The only reason that nick faldo isn't the 10th major winner is because he retired in 1993, meaning he didn't play for a year.",
+        "\"x1\" is the same thing as \"14\" because they are the same.",
+        "tiger woods is the world number one male golfer.",
+        "David Duval, Nick Faldo and Martin Kaymer are ranked lower than Tiger Woods.",
+        "lee westwood is ranked 11th in the world."
+    ],
+    "2-16474033-6.html.csv": [
+        "cipolla in the fifth round of the 2005 tournment of italy was spanish tennis player puig, but the table does not have puig as the opponent to cipolla. puig did have an opponent who did lose to cipolla, but it was his partner. the other team member of puig's team was polish tennis player edgardo mortara, who lost to cipolla.",
+        "above, tennis is always at least 2 people on every match.",
+        "all tennis players exist.",
+        "Two teams won 6 matches in a row.",
+        "team named ______ and ______ won the tournament named ______"
+    ],
+    "2-15544826-1.html.csv": [
+        "Reasoning: comparing the numbers of wins in one season and another, we find that Greg Pursley has more wins per season in 2009 and 2010 than he has in 2011, since he has 12 wins in 2009 and 10 wins in 2010, however, he only has 7 wins in 2011. Therefore, Greg Pursley has had more wins per season in years 2009 and 2010 than he has in 2011.",
+        "pursley had a longer career with an average finish of 16th.",
+        "Reasoning: looking at \"number of races\" column, number of races in 1999-2002 were 2. Greg pursley has won 0. Greg pursley has been in 2 top 5's but not top 10's. Greg pursley has completed 1/2 laps 0 times which gives him an average start of 16.0. Greg pursley has completed 4/10 of a lap which gives him an average finish of 29.0.\nGreg pursley had more starts than end the race. He had more runs than end in top 5's and top 10's. He had more number of starts and finish than end in top 5's and top 10's. Greg pursley had more number of races than end in top 5's and top 10's.\n\nTask: Identify Greg pursleys second-best season in terms of results, according to the logical label (For example, first, second, or third best).\nReasoning: looking at Greg pursleys career, there are 12 seasons to compare, from 1999 to 2012. Greg pursleys' first best season was 1999, he did not finish in top 5. His worst season was 2008. His second best season was 2007, he did not complete a lap. Greg pursleys' second",
+        "Greg Pursley is better than his recent stats say he is.",
+        "in the 12 races that greg pursley competed in, more than 66.7% were 1999."
+    ],
+    "2-1421422-10.html.csv": [
+        "none of the grand slam tournaments hosted the least grand slam tournament.",
+        "none of the grand slam tournaments in the section were recorded.",
+        "marcos baghdatis never won a grand slam tournament that he played in.",
+        "all the grand slam tournaments for marcos baghdatis were played in one grand slam tournament.",
+        "All of the grand slam tournaments for marcos baghdatis were played in one grand slam tournament.",
+        "none of the grand slam tournaments had a."
+    ],
+    "2-14895621-2.html.csv": [
+        "unt\nReasoning: counting the total number of events hwang sun - ai has won, he won 9 world championships, 5 asian games, 1 asian open tournament and also he won other open tournaments. This proves that hwang sun - ai has won 9 world championships, 5 asian games, 1 asian open tournament and he won other open tournaments.",
+        "all the events listed in \"other open tournaments\" column are not world championships.",
+        "untable\nReasoning: according to \"outcome\" column and \"event\" column, there are 3 world championships and 1 asian games that hwang sun - ai participated.\nCountable: all of the outcome in \"outcome\" column and all of the event in \"event\" column are 3. Therefore, hwang sun - ai has 3 world championships and 1 asian games result.\n\nReferences\n\nFurther reading\nHumble, A. W. B. \"The Logical Condition\". Logician. Vol. 7, No. 1 (1947), pp.\u00a022\u201330.",
+        "hwang sun - ai was the world champion in 1985.",
+        "3 world championships, asian games and other open tournaments were countable nouns."
+    ],
+    "2-10826385-15.html.csv": [
+        "footscray scored the most point of any team that played on 15 july, 1972.",
+        "Carlton had the most points scored against them, so Carlton has the most points scored against them.",
+        "home team had the highest score on the fixture, while the team with the highest score in the away team table was north melbourne.",
+        "carlton scored the most point of any team that played on 15 july 1972.",
+        "the highest score of all teams that played on 15 july, 1972 was the score of 16.14 (110) in \"footscray score\" column, which is also the highest score of all \"away team\" colmun."
+    ],
+    "2-16620096-1.html.csv": [
+        "there have been only two ministers that have served for the police force for more than one year, eric krieps and marc fischbach.",
+        "the list of ministers for the police force of luxembourg are unique.",
+        "\"jean claude juncker\" is not on the \"list of ministers\"",
+        "the ministers were unique in that they held the office for more than one day.",
+        "only 1 prime minister came up, and in total only 5 ministers were there for a total of 8 ministers for the police force of luxembourg."
+    ],
+    "2-10866507-1.html.csv": [
+        "perth glory scored a unique goal from the away team on 12 august 2007 against adelaide united.",
+        "perth scored the highest number of points among the three teams in the 2007 - 08 perth glory season.",
+        "every game of perth glory's 2007 - 08 season took place on a Saturday.",
+        "unique of all the goals scored of each team was only 3, 4, and 5 goal.",
+        "perth glory played only one game in the entire season, and that game was only in the first round."
+    ],
+    "2-17340355-10.html.csv": [
+        "golden state made an appearance on an april 15, 2009 game, the phoenix suns.",
+        "unique games were played in the 2008 - 09 season, none of the games against golden state were consecutive.",
+        "there were one teams in the 2008 - 09 phoenix suns season that had only one game in that game days.",
+        "the games record is unique and the game attendance is also unique.",
+        "the golden state (3.06.2009) and houston (5.04.2009) were the only two games that phoenix suns played."
+    ],
+    "2-16225902-4.html.csv": [
+        "mark hensby's 66 is the 4th best score of all the players in the 2005 open championship.",
+        "Reasoning: looking at both \"place\" column and \"player\" column, the highest score was in \"player\" column. From the ordinal table above, the highest score was 68, so i can claim that the highest place for \"player\" column is place 4.",
+        "england had the highest score of any country at open championship 2005.",
+        "\"5th place\".",
+        "Tiger Woods ranked the highest among all players at 66, which means that the highest rank among all players is 66."
+    ],
+    "2-10790099-5.html.csv": [
+        "Reasoning: looking at the \"crowd\" column, crowd attendance for home team was highest at 35,000 fans for the match between western oval and western oval. then looking for which home team's crowd attendance was the highest, collingwood and footscray each had 27,000 fans in the home team's crowd.\nThen it was looking at the \"venue\" column, western oval and western oval were the two venues used to play that round of the match. Then it was looking at the \"date\" column, it was clearly evident in the table that the round was played on 28 may 1932.",
+        "richmond scored the most point of any team that played on 28 may 1932.",
+        "the highest away team score is 13.14 (92).",
+        "footscray scored the most point of any team that played on 28 may, 1932.",
+        "the game played at west oval on 28 may 1932 was the game with the highest point total of any game in the 1932 vfl season"
+    ],
+    "2-1226543-6.html.csv": [
+        "the chassis with the highest number, dfx, is the one with the most starts in the 1989 Indianapolis 500, which is the qualifying of menard and treadway.",
+        "\"1985\" and \"1986\" were season year of Raul Boesel. In \"driver\" column, Raul Boesel won in \"R\" column for 3 time.",
+        "Raoul Boesel had the best start in the history of Indycar racing.",
+        "g - force oldsmobile has been the best performing car in the championship so far in the year 2000.",
+        "the oldsmobile (chassis) was the fastest car in the race."
+    ],
+    "2-18078622-1.html.csv": [
+        "out of the 35 album with 93, cd/lp is the only album which release on 31 october, 1979.",
+        "waiting for the rain was the second album released by oc smith.",
+        "all of the albums of the lake records discography is equal to 5 and 1.",
+        "ouch! was made earlier than the other three.",
+        "\"the sports of guessing\" is the next on the left column, and then \"the sports of guessing\" is the next on the right column."
+    ],
+    "2-17486851-1.html.csv": [
+        "at least one of the \"player name\" column and \"team name\" column is unique, therefore, there cannot be any duplicated name.",
+        "Only two clubs had both one and two transfers, which means that the players that were transferred are unique.",
+        "Reasoning: considering the lack of mention of the team, it is reasonable to assume that the claim is about the player. However, the table has mention of transfer fee, which suggests the player is transferring to another team and his transfer fee is being paid to the original team.  Therefore, the claim is that the player is unique in terms of the transfer fee being paid to his team.",
+        "only transfer window in 2008 - 09 apoel f.c. season which had no loan return was \"transfer window\".",
+        "all the transfer window for the 2008 - 09 apoel f.c. season were summer."
+    ],
+    "2-11364514-2.html.csv": [
+        "4 nominees were included in 2008 musical production nominees. and 4 awards were included in 2008 musical production awards.",
+        "one new musical named lord of the rings was created in 2008.",
+        "a unique person is nominated by the title \"lord of the rings (musical)\".",
+        "\"lord of the rings (musical)\" was the most nominated musical in 2008.",
+        "Reasoning: looking at both the \"year\" column and the \"award\" column, one can find the number of years where the title of the musical were nominated and also the number of times a single play has won a particular award.\nclaim: one play has won the best set design award in every year where the play have been nominated for the award, and it is lord of the rings (musical)."
+    ],
+    "2-1570558-1.html.csv": [
+        "Sherdrick bonner's 2008 season was his best season as a wide receiver.",
+        "sherdrick bonner had a better season statistically in 2008 than in 2001.",
+        "sherdrick bonner has the most yards for a running back.",
+        "ive\nReasoning: in the table above the number of passing yards, total yards and touchdown decreased in each of the three seasons and sherdrick bonner was an upgrade from all of those three positions, sherdrick bonner in the 2007 season was an upgrade from the second place quarterback from 2006.",
+        "Bonner's season average of 59.1 is better than Brady's 64.9."
+    ],
+    "2-18096431-7.html.csv": [
+        "mark brooks was the top moneymaker in the 1996 pga championship.",
+        "Mark Brooks scored the lowest, on 277 to par at the claret jug in the 1996 pga championship.",
+        "mark brooks' first round score of 68 in the 1996 pga championship was the best score of the entire tournament that was furthest from par.",
+        "mark brooks was the best player in the 1996 pga championship.",
+        "mark brooks was the best player of the 1996 pga championship.",
+        "mark brooks scored the best score in pga championship."
+    ],
+    "2-18169845-3.html.csv": [
+        "tion\nReasoning: finding the highest-scoring nathan lane for the 2010 drama league award is the highest scoring nathan lane in 2010 drama league awards, and that award is the outstanding achievement in musical theatre award. that is true for any theatre award. thus, nathan lane's 2010 drama league awards award is the highest scoring theatre award of 2010.",
+        "all nominees were best in category for their respective award, and none of the nominees were not best in category for their respective award.",
+        "tion\nReasoning: looking at the first award from above, the one for outstanding musical, it is interesting to note that the winner is also nominated in outstanding score and outstanding performance by a featured actor in a musical award.  That being said,   &nbsp;Kevin chamberlin received an award for outstanding featured actor in a musical.  It appears that   &nbsp;there are 3 winners in outstanding score.  It also appears that  &nbsp;there are 3 winners in outstanding performance by a featured actor in a musical, in which kevin chamberlin received an award for outstanding featured actor in a musical.  It is interesting to note that there are 3 winners in outstanding set design.  It is interesting to note that there are 3 winners in outstanding lighting design.  It is interesting to note that there are 3 winners in outstanding choreography.  All these awards are only in musical category so its interesting to note that this show is a musical which has won the award for outstanding musical production.  This means that the best musical production award was for the musical itself.  Therefore, it can be concluded that this show is an aggregation of the outstanding performance by a featured actor in a musical award, the outstanding set design award, the outstanding",
+        "the 2010 drama league award for outstanding production of a musical was won by the 2010 \"distinguished production of a musical\", and the 2010 \"distinguished performance\" was won by the 2010 \"distinguished performance\"",
+        "tion\nReasoning: the above table contains multiple award categories. For example, there are award categories for best actress, best featured actor and best musical. In all of the awards, the actors from the musical were nominated in all of the award categories. Similarly, the play was also nominated in all of the award categories. The claims from this table are the following:\nall of the nominations for the musical are from the category of outstanding musical\nall of the nominations for the play are from the category of outstanding production\nall of the winners from the categories were from the category of outstanding musical\nthere are multiple categories with the musical (best original score, outstanding musical, outstanding performance, outstanding set design) and the play (outstanding production, outstanding actor/actress, outstanding featured actor/actress)\nall of the winners from the awards were from the category of outstanding musical\nall of the nominees from the awards were from the category of outstanding musical\nthere are multiple awards with the musical (best original score, outstanding musical) and the play (outstanding production, outstanding actor/actress, outstanding featured actor/actress)\nall of the winners from the awards were from the category of outstanding musical\nAll of the winners from the award were from the category"
+    ],
+    "2-13312898-28.html.csv": [
+        "all the names that begin with the letters \"k\" to \"l\" and end with \"i\" and \"e\" were drafted for the indianapolis colts in 2008.",
+        "all of the highest picks for the colts in the 2008 NFL draft were in the 1st round.",
+        "the 2007 indianapolis colts draft history is the best draft history for round 1 picks.",
+        "ray donaldson is the most recent pick to play in the nfl, drafted in 1982, whereas ray butler is the first player drafted in the 2005 nfl draft, he was a wide receiver drafted in the first round.",
+        "the first pick in the 2005 indianapolis colts draft was the fifth overall pick, ray donaldson."
+    ],
+    "2-11513647-4.html.csv": [
+        "the date 20 june is different from the dates 30 june and 31 june and the date 20 june is different from the dates 34 june and 38 june, but 20 june is different from the dates 30 june and 31 june and 20 june is different from the dates 34 june and 38 june.",
+        "the number of spectators dropped by 35 percent when the colorado rockies were playing.",
+        "\"date\" column on the table above shows which games were played on june 27, 2002 and which games were not played on june 27, 2002.",
+        "Reasoning: the \"all\" statement in Example 2 can also be called as comparative statement and since the statement \"all of the transfer window for the 2008 universitario de deportes season were winter\" is a comparative statement, we are required to provide a comparative claim sentence to get the correct answer. So looking at the table, the first three day's attendance number is 41,000 and the last day's attendance number is 5,000, this means the last three day's attendance number is 0,000. By using this information, the most attended day was the last day of the season, thursday. Since this day is not within the table, we are required to provide a comparative claim sentence to conclude that the most attended day was thursday. Therefore, the most attended day was thursday.",
+        "the 2002 colorado rockies season had the largest score of any season in the history of the team."
+    ],
+    "2-18178551-1.html.csv": [
+        "oning: none of the results above had the england national rugby union team beaten.",
+        "ireland (twickenham) and france (stade de france) were the only teams that played at twickenham on 05 / 02 / 2000.",
+        "no team did not participate in any matches in the period 2000-09 except Argentina.",
+        "None of the above games are listed as a result for the england national rugby union team.",
+        "oning: this is very problematic as some of the matches were multiples of three while some others were four or five. I am trying to find the team who played more than four matches in a season so i took the 17th player of the squad as the extra match played by the england national team. The player is looking at is iaaf, which is ian armitage. From the team that he has played for the team which has played more matches is wales. wales has played more matches in a single season than any other team."
+    ],
+    "1-23466021-4.html.csv": [
+        "team having the highest record of \"12 - 5\" in the week \"11\".",
+        "the highest attendance of any team that played a game in week 11 of 1991 season, was 17453 in the game between the stampeders and the eskimos.",
+        "In a week, the top 4 teams were \"ranked\", the top 6 teams were \"advance\" and the top 2 teams were \"ranked 2nd\" and \"ranked 1st\".",
+        "the highest score of all the teams is greater than the highest attendance of all the teams.",
+        "all of the attendance of the 1991 toronto argonauts season had the same number of attendees, 47, 855."
+    ],
+    "2-11173692-2.html.csv": [
+        "only one country can claim each position, for the position of the country that sung only a song of one language.",
+        "song with score of 14 has been performed in the contest twice.",
+        "there were at least two countries that participated in the 2008 eurovision song contest.",
+        "The song \"Casanova\" is the first song sung by a Spanish artist ever.",
+        "only Boaz ma'uda sang 2 songs."
+    ],
+    "1-25551880-2.html.csv": [
+        "only the classification for \"number of classification\" column was not awarded.",
+        "mikel nieve the most time is 4 days",
+        "\"team htc-columbia\" was the only team that claimed the most point of any team that played on 7 june.",
+        "there are no two riders that are placed in the same \"general classification\" row more than once."
+    ],
+    "2-14860855-3.html.csv": [
+        "reinhold roth had the highest number of first place finishes among 250cc motorcycle racers",
+        "yamaha had the most points of any team in 1979.",
+        "yamaha had the most wins from 1980 to 1990.",
+        "the team with most points is team 1 (33), the team with most wins is team 2 (19).",
+        "the most point in 1 season for reinhold roth is 158 points."
+    ]
+}

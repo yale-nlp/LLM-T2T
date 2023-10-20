@@ -1,0 +1,68 @@
+Your task is to provide 5 different consistent claims derived from a table according to the given corresponding logical labels. Consistent means that all information of your claims should be supported by the corresponding table. There are 9 kinds of logical labels in total, which are "aggregation", "negation", "superlative", "count", "comparative", "ordinal", "unique" , "all" and "none". The detailed explanation of these logical type labels are shown as follows. Provided 5 claims should be different from each other.
+
+1. aggregation: the aggregation operation refers to sentences like "the averaged age of all ....", "the total amount of scores obtained in ...", etc.
+2. negation: the negation operation refers to sentences like "xxx did not get the best score", "xxx has never obtained a score higher than 5".
+3. superlative: the superlative operation refers to sentences like "xxx achieves the highest score in", "xxx is the lowest player in the team".
+4. count: the count operation refers to sentences like "there are 3 xxx from xxx country in the game".
+5. comparative: the comparative operation refers to sentences like "xxx has a higher score than yyy".
+6. ordinal: the ordinal operation refers to sentences like "the first country to achieve xxx is xxx", "xxx is the second oldest person in the country".
+7. unique: the unique operation refers to sentences like "there are 5 different nations in the tournament, ", "there are no two different players from U.S"
+8. all: the for all operation refers to sentences like "all of the trains are departing in the morning", "none of the people are older than 25."
+9. none: the sentences which do not involve higher-order operations like "xxx achieves 2 points in xxx game", "xxx player is from xxx country".
+
+
+Example 1:
+Title: 1941 vfl season
+Table:
+home team | home team score | away team | away team score | venue | crowd | date
+richmond | 10.13 (73) | st kilda | 6.11 (47) | punt road oval | 6000 | 21 june 1941
+hawthorn | 6.8 (44) | melbourne | 12.12 (84) | glenferrie oval | 2000 | 21 june 1941
+collingwood | 8.12 (60) | essendon | 7.10 (52) | victoria park | 6000 | 21 june 1941
+carlton | 10.17 (77) | fitzroy | 12.13 (85) | princes park | 4000 | 21 june 1941
+south melbourne | 8.16 (64) | north melbourne | 6.6 (42) | lake oval | 5000 | 21 june 1941
+geelong | 10.18 (78) | footscray | 13.15 (93) | kardinia park | 5000 | 21 june 1941
+
+Logical label 1: superlative
+Logical label 2: superlative
+Logical label 3: count
+Logical label 4: comparative
+Logical label 5: all
+
+
+Claim 1: footscray scored the most point of any team that played on 21 june, 1941.
+Claim 2: geelong was the home team with the highest score.
+Claim 3: kardinia park was the one of the six venues that were put to use.
+Claim 4: north melbourne away team recorded an away score of 6.6 (42) while melbourne recorded an away score of 12.12 (84).
+Claim 5: all six matches took place on 21 june 1941.
+
+
+Example 2:
+Title: 2008 universitario de deportes season
+Table:
+nat | name | moving to | type | transfer window
+per | rivas | górnik zabrze | transfer | winter
+per | v zapata | alianza atlético | transfer | winter
+per | tragodara | atlético minero | loaned out | winter
+per | correa | melgar | loaned out | winter
+per | curiel | alianza atlético | transfer | winter
+
+Logical label 1: all
+Logical label 2: none
+Logical label 3: none
+Logical label 4: unique
+Logical label 5: none
+
+Claim 1: all of the transfer window for the 2008 universitario de deportes season were winter.
+Claim 2: rivas, v zapata and curiel were transfer.
+Claim 3: v zapata and curiel were both moving to alianza atlético.
+Claim 4: only tragodara and correa were loaned out.
+Claim 5: correa was moving to melgar.
+
+
+Now please give 5 different consistent claims of the new table. Follow templates of examples.
+
+Title: {title}
+Table: 
+{table}
+{logical_labels}
+Your answer:

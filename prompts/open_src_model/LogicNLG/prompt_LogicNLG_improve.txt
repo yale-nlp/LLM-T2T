@@ -1,0 +1,55 @@
+Example 1:
+Title: 1941 vfl season
+Table:
+home team | home team score | away team | away team score | venue | crowd | date
+richmond | 10.13 (73) | st kilda | 6.11 (47) | punt road oval | 6000 | 21 june 1941
+hawthorn | 6.8 (44) | melbourne | 12.12 (84) | glenferrie oval | 2000 | 21 june 1941
+collingwood | 8.12 (60) | essendon | 7.10 (52) | victoria park | 6000 | 21 june 1941
+carlton | 10.17 (77) | fitzroy | 12.13 (85) | princes park | 4000 | 21 june 1941
+south melbourne | 8.16 (64) | north melbourne | 6.6 (42) | lake oval | 5000 | 21 june 1941
+geelong | 10.18 (78) | footscray | 13.15 (93) | kardinia park | 5000 | 21 june 1941
+
+Original claim: st kilda scored the most point of any team that played on 21 june, 1941
+Reasoning: footscray scored the most point of any team that played on 21 june, not st kilda. So the claim has instrinsic error. My instruction is to replace st kilda with footscray.
+New claim: footscray scored the most point of any team that played on 21 june, 1941.
+
+Original claim: geelong was the home team with the highest score
+Reasoning: in the home team score column, home team geelong did have the highest score. So the claim has no error. My instruction is to do nothing.
+New claim: geelong was the home team with the highest score.
+
+Original claim: the crowd on 21 june 1941 was larger than the crowd on 2000
+Reasoning: there is no information about crowd on 2000. So the claim has extrinsic error. My instruction is to rewrite the whole claim.
+New claim: the crowd of richmond versus st kilda was larger than the crowd of hawthorn versus melbourne.
+
+#
+
+Example 2:
+Title: 2008 universitario de deportes season
+Table:
+nat | name | moving to | type | transfer window
+per | rivas | górnik zabrze | transfer | winter
+per | v zapata | alianza atlético | transfer | winter
+per | tragodara | atlético minero | loaned out | winter
+per | correa | melgar | loaned out | winter
+per | curiel | alianza atlético | transfer | winter
+
+Original claim: all of the transfer window for the 2008 universitario de deportes season are winter
+Reasoning: in 2008 universitario de deportes season, all of the transfer windows were winter. So the claim has no error. My instruction is to do nothing.
+New claim: all of the transfer window for the 2008 universitario de deportes season are winter.
+
+Original claim: v zapata and v zapata are the only transfer
+Reasoning: v zapata is not the only transfer. So the claim has instrinsic error. My instruction is to remove the redundant v zapata and add rivas and curiel.
+New claim: v zapata, rivas and curiel were transfer.
+
+Original claim: v zapata and curiel were both moving to alianza atlético
+Reasoning: v zapata and curiel were both moving to alianza atlético. So the claim has no error. My instruction is to do nothing.
+New claim: v zapata and curiel were both moving to alianza atlético.
+
+#
+
+Example 3:
+Title: {title}
+Table: 
+{table}
+
+Original claim: {sent}

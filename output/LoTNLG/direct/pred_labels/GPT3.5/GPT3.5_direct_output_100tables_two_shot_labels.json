@@ -1,0 +1,1602 @@
+{
+    "2-1458666-4.html.csv": {
+        "sents": [
+            "The United States has the highest number of total wins in the World Golf Championships.",
+            "South Africa has more team wins than any other nation.",
+            "Japan is the only nation that has never won an individual title in the World Golf Championships.",
+            "There are 6 nations that have never won a team title in the World Golf Championships.",
+            "England has more total wins than Italy."
+        ],
+        "pred_label": [
+            "superlative",
+            "superlative",
+            "negation, unique",
+            "negation, count",
+            "comparative"
+        ]
+    },
+    "2-17814838-6.html.csv": {
+        "sents": [
+            "Everton scored the only goal in the replay match against Liverpool.",
+            "Manchester United had a higher attendance than any other team in the tournament.",
+            "There were 4 matches that ended in a draw in the 2008-09 FA Cup.",
+            "Derby County had the highest attendance out of all the matches played.",
+            "Middlesbrough scored more goals than Wolverhampton Wanderers in their match."
+        ],
+        "pred_label": [
+            "unique",
+            "comparative",
+            "count",
+            "superlative",
+            "comparative"
+        ]
+    },
+    "2-170969-2.html.csv": {
+        "sents": [
+            "Saint George is the parish with the highest population in Charlotte County, New Brunswick.",
+            "Clarendon is the parish with the smallest area in Charlotte County, New Brunswick.",
+            "Saint George has a higher population than Saint Stephen.",
+            "Dumbarton has a smaller population than Grand Manan.",
+            "Clarendon has a larger area than Saint George."
+        ],
+        "pred_label": [
+            "superlative",
+            "none",
+            "comparative",
+            "comparative",
+            "comparative"
+        ]
+    },
+    "2-14255774-8.html.csv": {
+        "sents": [
+            "The Arizona Diamondbacks played a total of 26 games in September.",
+            "The Diamondbacks had a winning record against the Cardinals, winning 4 out of the 6 games they played.",
+            "The attendance for the game against the Dodgers on September 5 was the highest, with 52,270 people in attendance.",
+            "The Diamondbacks lost more games than they won in the month of September.",
+            "The total attendance for all 26 games in September was 1,034,997."
+        ],
+        "pred_label": [
+            "aggregation",
+            "comparative",
+            "superlative",
+            "comparative",
+            "aggregation"
+        ]
+    },
+    "2-17964087-2.html.csv": {
+        "sents": [
+            "There are 8 political appointments in the political appointments system in Hong Kong.",
+            "There is no political appointee with a foreign nationality.",
+            "Victor Lo Yik-kee is the only political appointee with British nationality.",
+            "Raymond Man-to Cheung is the oldest political appointee at the time of appointment.",
+            "Paul Chan Chi-yuen is the first political appointee in terms of age at appointment."
+        ],
+        "pred_label": [
+            "count",
+            "negation, unique",
+            "unique",
+            "ordinal",
+            "ordinal"
+        ]
+    },
+    "2-12582968-1.html.csv": {
+        "sents": [
+            "There are a total of 10 competitions listed in the table.",
+            "Luk\u00e1\u0161 Melich achieved his highest position in the European Championships in 2013.",
+            "Melich participated in 3 Olympic Games throughout his career.",
+            "Luk\u00e1\u0161 Melich finished in the top 5 positions in 4 different competitions.",
+            "The average distance thrown by Melich in all competitions is 72.9 meters."
+        ],
+        "pred_label": [
+            "count",
+            "ordinal",
+            "count",
+            "count, ordinal",
+            "aggregation"
+        ]
+    },
+    "2-14820149-3.html.csv": {
+        "sents": [
+            "In 1988, ducados - yamaha achieved the highest number of points among all the years in the table.",
+            "ducados - yamaha achieved the highest number of wins among all the teams in the table.",
+            "In 1993, cagiva obtained the lowest number of points among all the years in the table.",
+            "The average number of points for ducados - yamaha is higher than the average number of points for cagiva.",
+            "In 1988, ducados - yamaha achieved the highest number of points among all the teams in the table."
+        ],
+        "pred_label": [
+            "aggregation, superlative",
+            "superlative",
+            "superlative",
+            "comparative",
+            "aggregation, superlative"
+        ]
+    },
+    "2-12392766-3.html.csv": {
+        "sents": [
+            "United States won the most gold medals in the 2005-06 ISU Junior Grand Prix.",
+            "Russia won the most total medals in the 2005-06 ISU Junior Grand Prix.",
+            "Japan won the most bronze medals in the 2005-06 ISU Junior Grand Prix.",
+            "Canada was the 4th nation to win a gold medal in the 2005-06 ISU Junior Grand Prix.",
+            "United States won more gold medals than Russia in the 2005-06 ISU Junior Grand Prix."
+        ],
+        "pred_label": [
+            "superlative",
+            "superlative",
+            "superlative",
+            "ordinal",
+            "comparative"
+        ]
+    },
+    "2-1140095-1.html.csv": {
+        "sents": [
+            "Jackie Stewart achieved the fastest lap time in the most number of races in the 1968 Formula One season.",
+            "Jim Clark did not achieve the pole position in any of the races in the 1968 Formula One season.",
+            "The French Grand Prix was the sixth race of the season.",
+            "Graham Hill had the highest number of wins among all the drivers in the 1968 Formula One season.",
+            "There were a total of 12 races in the 1968 Formula One season."
+        ],
+        "pred_label": [
+            "superlative, count",
+            "none",
+            "ordinal",
+            "superlative",
+            "aggregation"
+        ]
+    },
+    "2-1123180-2.html.csv": {
+        "sents": [
+            "There were 4 drivers who retired due to collision or accident in the 1993 Portuguese Grand Prix.",
+            "A total of 9 drivers finished the race with +2 laps.",
+            "3 drivers spun off during the race.",
+            "The race had a total of 26 drivers.",
+            "There were 2 drivers who retired due to engine issues."
+        ],
+        "pred_label": [
+            "count",
+            "count",
+            "count",
+            "count",
+            "count"
+        ]
+    },
+    "1-2419754-1.html.csv": {
+        "sents": [
+            "There were 6 institutions in the Great Midwest Conference.",
+            "The university of cincinnati was the first institution to join the conference.",
+            "Only the university of dayton left the conference.",
+            "The university of memphis had the highest enrollment among all the institutions in the conference.",
+            "The enrollment of depaul university was higher than the enrollment of marquette university."
+        ],
+        "pred_label": [
+            "count, unique",
+            "ordinal",
+            "unique",
+            "superlative",
+            "comparative"
+        ]
+    },
+    "2-17746881-1.html.csv": {
+        "sents": [
+            "Olympique de Marseille scored more goals than Sporting Toulon Var in both the 1st and 2nd rounds of the 1988-89 Coupe de France.",
+            "There were more teams from Division 1 (d1) than Division 2 (d2) in the 1st round of the 1988-89 Coupe de France.",
+            "FC Sochaux - Montb\u00e9liard had the highest score in the 1st round of the 1988-89 Coupe de France.",
+            "Lille OSC had a closer score to FC Mulhouse than OGC Nice did in the 2nd round of the 1988-89 Coupe de France.",
+            "Paris SG scored fewer goals than US Orl\u00e9ans in both the 1st and 2nd rounds of the 1988-89 Coupe de France."
+        ],
+        "pred_label": [
+            "comparative",
+            "count",
+            "superlative",
+            "comparative, ordinal",
+            "comparative"
+        ]
+    },
+    "1-23157997-13.html.csv": {
+        "sents": [
+            "There were 6 stages in the 2009 Nature Valley Grand Prix.",
+            "Phillip Mamos won the 6th stage of the race.",
+            "Tom Zirbel won the general classification in all stages of the race.",
+            "Andrew Crater was the winner of the 5th stage and the only rider from the Bissell team to win a stage.",
+            "Rory Sutherland finished in 2nd place in the general classification."
+        ],
+        "pred_label": [
+            "count",
+            "ordinal",
+            "all",
+            "ordinal, unique",
+            "ordinal"
+        ]
+    },
+    "2-187504-13.html.csv": {
+        "sents": [
+            "Soviet Union (URS) won more gold medals than any other nation in the 1988 Winter Olympics.",
+            "There were 10 nations that won at least one silver medal in the 1988 Winter Olympics.",
+            "East Germany (GDR) did not win any bronze medals in the 1988 Winter Olympics.",
+            "Finland (FIN) won more total medals than Sweden (SWE) in the 1988 Winter Olympics.",
+            "Canada (CAN) did not win any gold medals in the 1988 Winter Olympics."
+        ],
+        "pred_label": [
+            "superlative",
+            "count",
+            "none",
+            "comparative",
+            "none"
+        ]
+    },
+    "2-18855244-2.html.csv": {
+        "sents": [
+            "There are 6 different nations represented in the list of multiple Olympic medalists.",
+            "Michael Phelps has won the most medals out of all the athletes in the table.",
+            "Robert Garrett has won a total of 3 medals in the sport of athletics.",
+            "Larisa Latynina has won more medals than any other gymnast in the table.",
+            "The United States has the highest count of gold medals in the table."
+        ],
+        "pred_label": [
+            "unique",
+            "superlative",
+            "count",
+            "superlative",
+            "superlative"
+        ]
+    },
+    "2-14076898-4.html.csv": {
+        "sents": [
+            "There were 2 teams that lost only 1 game in the 1996 men's world ice hockey championships.",
+            "No team drew more than 1 game in the tournament.",
+            "The team with the highest goal difference lost 2 games.",
+            "None of the teams won all 7 games in the tournament.",
+            "There were 4 teams that had a goal difference of 11 or higher."
+        ],
+        "pred_label": [
+            "count, unique",
+            "negation, count",
+            "superlative, count",
+            "all",
+            "count"
+        ]
+    },
+    "2-16045118-20.html.csv": {
+        "sents": [
+            "There were 6 actresses nominated for the Best Actress - Drama award between the years 1960 and 1973.",
+            "Diana Ross was the first African American actress to win the New Star - Actress award.",
+            "Marianne Jean-Baptiste received a nomination for Best Supporting Actress in the year 1997.",
+            "Angela Bassett won the Best Actress - Musical or Comedy award for her role in \"What's Love Got to Do with It\".",
+            "There were no African American actresses nominated for the Best Supporting Actress award in 2002."
+        ],
+        "pred_label": [
+            "count",
+            "ordinal",
+            "none",
+            "none",
+            "none"
+        ]
+    },
+    "2-10234157-2.html.csv": {
+        "sents": [
+            "danny cipriani scored more tries than any other player in the 2007-08 english premiership.",
+            "andy goode scored more drop goals than charlie hodgson.",
+            "there are 3 players who scored more than 100 points in the season.",
+            "gloucester rugby and harlequins each have 2 players in the top 10 point scorers.",
+            "shane drahm is the only player who scored both a try and a drop goal."
+        ],
+        "pred_label": [
+            "superlative",
+            "comparative",
+            "count",
+            "count",
+            "unique"
+        ]
+    },
+    "2-11963735-4.html.csv": {
+        "sents": [
+            "Allen Iverson had the highest score in the game against the Lakers with 51 points.",
+            "The Nuggets had the highest attendance of 20,155 in the game against the Mavericks.",
+            "Carmelo Anthony was the leading scorer in the game against the Kings with 32 points.",
+            "The Nuggets had a better record than the Trail Blazers with a record of 18-11 compared to 14-10.",
+            "Allen Iverson had a higher score than Carmelo Anthony in the game against the Hornets with 30 points."
+        ],
+        "pred_label": [
+            "superlative",
+            "superlative",
+            "superlative",
+            "comparative",
+            "comparative"
+        ]
+    },
+    "1-25030512-41.html.csv": {
+        "sents": [
+            "There were 12 districts in the United States House of Representatives elections in 2012.",
+            "No incumbent lost the re-election in the United States House of Representatives elections in 2012.",
+            "Mark Critz was the representative elected in the 12th district in 2010.",
+            "Allyson Schwartz achieved the highest percentage of votes in the United States House of Representatives elections in 2012.",
+            "There were 7 Republicans re-elected in the United States House of Representatives elections in 2012."
+        ],
+        "pred_label": [
+            "count",
+            "negation, all",
+            "none",
+            "superlative",
+            "count"
+        ]
+    },
+    "2-15177130-1.html.csv": {
+        "sents": [
+            "Raymond Sommer retired from the brdc international trophy qualifying heat at Silverstone on 26th June 1950.",
+            "Ken Richardson finished ahead of Hans Stuck in the Italian Grand Prix at Monza on 16th September 1951.",
+            "There were 5 different drivers who did not participate in the Swiss Grand Prix at Bremgarten on 27th May 1951.",
+            "Reg Parnell did not finish the Glover Trophy at Goodwood on 6th April 1953.",
+            "Juan Manuel Fangio won the qualifying heat and final of the Grand Prix de l'Albigeois at Albi on 31st May 1953."
+        ],
+        "pred_label": [
+            "none",
+            "none",
+            "none",
+            "negation, ordinal",
+            "none"
+        ]
+    },
+    "2-17337904-12.html.csv": {
+        "sents": [
+            "There is no state leader with the title \"ruler\" in the list of state leaders in the 840s BC.",
+            "The state leader of chu with the name \"xiong yan the elder\" holds the title of viscount.",
+            "The state leader of jin with the name \"jing\" holds the title of marquis.",
+            "The state leader of qi is not named \"wu\".",
+            "The state leader of wey holds the title of marquis."
+        ],
+        "pred_label": [
+            "negation",
+            "none",
+            "none",
+            "negation",
+            "none"
+        ]
+    },
+    "1-25847911-1.html.csv": {
+        "sents": [
+            "The ratings for episode 6 were higher than the ratings for episode 2.",
+            "All of the episode titles were translated into English.",
+            "There were no episodes with a broadcast date in August.",
+            "The episode titled \"\u898b\u8fd4\u3057\u3066\u3084\u308b!\u6771\u5927\u6a21\u8a66\" was the seventh episode of the series.",
+            "There were a total of 8 episodes in the series."
+        ],
+        "pred_label": [
+            "comparative",
+            "all",
+            "negation, all",
+            "ordinal",
+            "aggregation"
+        ]
+    },
+    "2-15029747-1.html.csv": {
+        "sents": [
+            "There were 2 nominations for the AVN Award in 2013.",
+            "Brandi Love was nominated for the Nightmoves Award in 2013.",
+            "There was only one win for Brandi Love in the Nightmoves Award in 2013.",
+            "The total number of nominations for Brandi Love across all ceremonies in 2013 was 4.",
+            "Brandi Love did not win the AVN Award for Most Outrageous Sex Scene in 2013."
+        ],
+        "pred_label": [
+            "count",
+            "none",
+            "unique",
+            "aggregation",
+            "negation"
+        ]
+    },
+    "2-11713403-3.html.csv": {
+        "sents": [
+            "Derek Lee has more receptions than Chris Jackson.",
+            "Jamin Elliott has the highest average yards per reception among all players.",
+            "Chris Johnson has a higher average yards per reception than Jacques Rumph.",
+            "Chris Jackson has more touchdown catches than Robert Thomas.",
+            "There is only one player who has a reception of 7 yards."
+        ],
+        "pred_label": [
+            "comparative",
+            "superlative",
+            "comparative",
+            "comparative",
+            "unique"
+        ]
+    },
+    "2-18025901-1.html.csv": {
+        "sents": [
+            "wolverhampton wanderers had a higher score than arsenal in the 1972-73 fa cup match at highbury.",
+            "there were no two matches played at the same venue.",
+            "burnley achieved the highest attendance in the fa cup third-fourth place matches.",
+            "manchester united won with a higher score than watford in the 1969-70 fa cup match at highbury.",
+            "birmingham city was the first team to win the fa cup third-fourth place match at st andrew's."
+        ],
+        "pred_label": [
+            "comparative",
+            "unique",
+            "superlative",
+            "comparative",
+            "ordinal"
+        ]
+    },
+    "1-24584486-1.html.csv": {
+        "sents": [
+            "James Calado participated in a total of 3 races in the 2008 Formula Renault 2.0 NEC series.",
+            "James Calado won a total of 4 races in the 2008 season.",
+            "James Calado achieved the highest number of podium finishes in the 2008 British Formula Renault 2.0 Winter Series.",
+            "James Calado won 2 races and achieved 3 pole positions in the 2008 British Formula Renault 2.0 Winter Series.",
+            "James Calado scored a total of 457 points in the 2009 British Formula Renault 2.0 series, finishing in 2nd position."
+        ],
+        "pred_label": [
+            "count",
+            "count",
+            "superlative",
+            "count",
+            "ordinal"
+        ]
+    },
+    "2-10750694-19.html.csv": {
+        "sents": [
+            "carlton scored the lowest points of any team that played on 30 august, 1952.",
+            "richmond was the home team with the highest score.",
+            "kardinia park was the venue with the highest crowd and it was one of the six venues that were put to use.",
+            "hawthorn recorded the highest home team score, while melbourne recorded the highest away team score.",
+            "essendon had a lower score than fitzroy."
+        ],
+        "pred_label": [
+            "superlative",
+            "superlative",
+            "superlative, count",
+            "superlative",
+            "comparative"
+        ]
+    },
+    "2-17832085-4.html.csv": {
+        "sents": [
+            "Hercules CF had the highest goal difference in the 1965-66 Segunda Divisi\u00f3n season.",
+            "Granada CF had more points than Algeciras CF.",
+            "Real Valladolid had fewer goals against than Levante UD.",
+            "There were more clubs with a goal difference of +11 than with a goal difference of -6.",
+            "The club with the highest number of goals scored in the season had a higher goal difference than the club with the lowest number of goals scored."
+        ],
+        "pred_label": [
+            "superlative",
+            "comparative",
+            "comparative",
+            "comparative",
+            "superlative, comparative"
+        ]
+    },
+    "2-10774891-18.html.csv": {
+        "sents": [
+            "All matches in the 1957 VFL season took place on August 24th.",
+            "There were 6 different venues used in the 1957 VFL season.",
+            "Essendon scored the highest number of points with 17.21 (123) against Carlton, while Hawthorn scored the lowest number of points with 7.15 (57) against Footscray.",
+            "There were no two different teams from the same city in the 1957 VFL season.",
+            "The crowd attendance for the Melbourne vs Richmond game at the MCG was 35,751, which was the highest attendance among all matches."
+        ],
+        "pred_label": [
+            "all",
+            "unique",
+            "superlative",
+            "unique",
+            "superlative"
+        ]
+    },
+    "2-1825661-2.html.csv": {
+        "sents": [
+            "The 300sel 6.3 model had the highest number built compared to other models in the table.",
+            "The production time for the 300sel 3.5 model was the longest among all the models listed.",
+            "There is only one model with the chassis code \"w109.057\" in the table.",
+            "The 300sel 4.5 model is the only model with the engine type \"4.5l m117 v8\".",
+            "The number built for the 300sel 6.3 model is greater than the number built for the 300sel 3.5 model."
+        ],
+        "pred_label": [
+            "superlative",
+            "superlative",
+            "unique",
+            "unique",
+            "comparative"
+        ]
+    },
+    "2-10361861-2.html.csv": {
+        "sents": [
+            "The Minnesota Vikings had a higher attendance in their game against the Chicago Bears than their game against the Philadelphia Eagles.",
+            "The total number of points scored by the Minnesota Vikings in their wins is higher than the total number of points scored in their losses.",
+            "The game against the Cleveland Browns had the highest attendance of all the games in the 1980 Minnesota Vikings season.",
+            "The Minnesota Vikings had a higher score in their win against the Washington Redskins than in their win against the Tampa Bay Buccaneers.",
+            "The Minnesota Vikings had a higher score in their loss against the Atlanta Falcons than in their loss against the Philadelphia Eagles."
+        ],
+        "pred_label": [
+            "comparative",
+            "comparative",
+            "aggregation, superlative",
+            "comparative",
+            "comparative"
+        ]
+    },
+    "2-10773616-16.html.csv": {
+        "sents": [
+            "Geelong had the lowest home team score compared to all other teams.",
+            "The crowd at Victoria Park was the highest among all the venues.",
+            "No team achieved a score higher than 15.4 (94) in the away team score column.",
+            "There were no matches played on a date other than 14 august 1954.",
+            "Carlton was the third team to play on 14 august 1954."
+        ],
+        "pred_label": [
+            "superlative, comparative",
+            "superlative",
+            "negation, comparative",
+            "negation, all",
+            "ordinal"
+        ]
+    },
+    "2-1100124-1.html.csv": {
+        "sents": [
+            "The game with the longest duration in the 1964 world series was game 5, which lasted for 2 hours and 37 minutes.",
+            "The attendance for game 3 at Yankee Stadium (i) was higher than the attendance for game 7 at Busch Stadium (i).",
+            "The total number of games played at Busch Stadium (i) was higher than the total number of games played at Yankee Stadium (i).",
+            "Game 7 had the latest date among all the games in the 1964 world series.",
+            "There were 3 games played at Busch Stadium (i) in the 1964 world series."
+        ],
+        "pred_label": [
+            "none",
+            "comparative",
+            "",
+            "superlative",
+            "count"
+        ]
+    },
+    "2-11048203-1.html.csv": {
+        "sents": [
+            "The result of the match on 18 february 2004 was a win with a score of 5-0, which is the highest margin of victory in the table.",
+            "hatem aqel's team won more matches than they lost in the 2004 fifa world cup qualification.",
+            "The match on 28 january 2009 was the only loss in the 2011 afc asian cup qualification.",
+            "The match on 14 february 2006 was a win with a score of 2-0, which is the only friendly match in the table that hatem aqel's team won.",
+            "There are 2 friendly matches in the table."
+        ],
+        "pred_label": [
+            "superlative",
+            "comparative",
+            "unique",
+            "unique",
+            "count"
+        ]
+    },
+    "2-17324893-3.html.csv": {
+        "sents": [
+            "The New York Rangers had a better record than the Vancouver Canucks in the 1972-73 season.",
+            "The New York Rangers had the second best record after the Philadelphia Flyers in the 1972-73 season.",
+            "The New York Rangers won more games than they lost in the 1972-73 season.",
+            "There were 4 games in which the New York Rangers scored 5 goals.",
+            "The New York Rangers had a better record than the Pittsburgh Penguins in the 1972-73 season."
+        ],
+        "pred_label": [
+            "comparative",
+            "ordinal",
+            "comparative",
+            "count",
+            "comparative"
+        ]
+    },
+    "2-1520959-1.html.csv": {
+        "sents": [
+            "There are 5 rollercoasters in Drayton Manor Theme Park.",
+            "The Shock Wave is the only standing up rollercoaster in the park.",
+            "There are 3 steel sit down rollercoasters in the park.",
+            "The Buffalo Mountain Coaster is the oldest rollercoaster in the park.",
+            "Ben 10 - Ultimate Mission is the newest rollercoaster in Aerial Park."
+        ],
+        "pred_label": [
+            "count",
+            "unique",
+            "count",
+            "ordinal",
+            "superlative"
+        ]
+    },
+    "2-1235883-1.html.csv": {
+        "sents": [
+            "The entrant \"scuderia guastalla\" used a maserati 250f chassis with a maserati straight-6 engine in the year 1956.",
+            "The chassis \"ferrari 555\" was used by the entrant \"scuderia ferrari\" in the year 1955.",
+            "The engine with the most points earned was the \"porsche flat-4\" used by the entrant \"dr ing f porsche kg\" in the year 1957.",
+            "The entrant \"scuderia ferrari\" earned a total of 4 1/3 points in the years 1954 and 1955 combined.",
+            "There are 2 different chassis used by the entrant \"scuderia ferrari\" in the year 1954."
+        ],
+        "pred_label": [
+            "none",
+            "none",
+            "superlative",
+            "aggregation, count",
+            "count, unique"
+        ]
+    },
+    "2-18813729-2.html.csv": {
+        "sents": [
+            "Joel Edwards did not release any song in 2003.",
+            "The song \"locking down\" is unique to the album \"the best of chicane : 19962008\".",
+            "Pixie Lott released the song \"turn it up\" in 2010.",
+            "There are no remixes for the album \"red book\" by Texas.",
+            "All of the songs in the table have a remix version."
+        ],
+        "pred_label": [
+            "negation",
+            "unique",
+            "none",
+            "none",
+            "all"
+        ]
+    },
+    "2-180342-8.html.csv": {
+        "sents": [
+            "There are 9 buildings and structures listed in the table.",
+            "The Shard London Bridge is the tallest building in London with a height of 306 meters (1004 ft).",
+            "The White Tower was the tallest building in London from 1098 to 1310.",
+            "All of the buildings and structures listed have a height greater than 50 meters (163 ft).",
+            "St Paul's Cathedral is the second tallest building in London after the Shard London Bridge."
+        ],
+        "pred_label": [
+            "count",
+            "superlative",
+            "ordinal",
+            "all",
+            "ordinal"
+        ]
+    },
+    "2-12209065-5.html.csv": {
+        "sents": [
+            "There were 20 games played in the 1997 Baltimore Orioles season.",
+            "No player in the Orioles team had a loss record of 0-4.",
+            "There were 3 games played against the Tigers in the season, which was the most games played against any opponent.",
+            "The Orioles had a total of 12 wins against the Tigers throughout the season.",
+            "The game on July 1 against the Phillies had the highest attendance of 47,610."
+        ],
+        "pred_label": [
+            "count",
+            "negation, count",
+            "superlative",
+            "aggregation",
+            "superlative"
+        ]
+    },
+    "2-18662679-3.html.csv": {
+        "sents": [
+            "Australia's rowers, Morgan, McRae, Long, and Noonan, achieved the first rank in the men's quadruple sculls event at the 2008 Summer Olympics with a time of 5:36.20 (wb).",
+            "Italy's rowers, Agamennoni, Venier, Galtarossa, and Raineri, had a faster time than Russia's rowers in the men's quadruple sculls event at the 2008 Summer Olympics.",
+            "There were a total of 5 countries participating in the men's quadruple sculls event at the 2008 Summer Olympics.",
+            "The average time of all the rowers in the men's quadruple sculls event at the 2008 Summer Olympics was 5:43.40.",
+            "Estonia's rowers, Taimsoo, Latin, Kuzmin, and Raja, achieved a slower time than Czech Republic's rowers in the men's quadruple sculls event at the 2008 Summer Olympics."
+        ],
+        "pred_label": [
+            "ordinal",
+            "comparative",
+            "count",
+            "aggregation",
+            "comparative"
+        ]
+    },
+    "2-16570286-3.html.csv": {
+        "sents": [
+            "Ray Lindwall and Bill Johnston took the same number of wickets in the 1948 Ashes series.",
+            "Keith Miller had a lower average than Alec Bedser.",
+            "Ernie Toshack had a higher average than Jim Laker and Norman Yardley.",
+            "Bill Johnston had the best bowling figures in the series.",
+            "Alec Bedser took the least number of wickets among all the players in the series."
+        ],
+        "pred_label": [
+            "unique",
+            "comparative",
+            "comparative",
+            "superlative",
+            "superlative"
+        ]
+    },
+    "2-17599325-1.html.csv": {
+        "sents": [
+            "There were 9 races in the 1958 Australian Drivers' Championship.",
+            "Stan Jones won the most races in the championship.",
+            "The Mount Panorama Circuit in Bathurst, New South Wales was the location for the Australian Grand Prix.",
+            "There were no races won by Jack Brabham in the championship.",
+            "There were 4 different circuits used in the championship."
+        ],
+        "pred_label": [
+            "count",
+            "superlative",
+            "none",
+            "none",
+            "count, unique"
+        ]
+    },
+    "2-1620397-5.html.csv": {
+        "sents": [
+            "There were 8 doctor who audio plays released in 2012.",
+            "\"the elite\" is the first doctor who audio play featuring the daleks.",
+            "There were 3 doctor who audio plays featuring Tegan and Nyssa.",
+            "There were 2 doctor who audio plays featuring the 6th doctor and Peri.",
+            "The total number of doctor who audio plays featuring Peri is 3."
+        ],
+        "pred_label": [
+            "count",
+            "ordinal",
+            "count",
+            "count, unique",
+            "count"
+        ]
+    },
+    "2-14841421-2.html.csv": {
+        "sents": [
+            "Iran has won more gold medals than any other nation in the AVC Club Volleyball Championship.",
+            "There are a total of 42 medals awarded in the AVC Club Volleyball Championship.",
+            "South Korea has won fewer medals than Kazakhstan but more medals than China.",
+            "Qatar has won more bronze medals than China.",
+            "Iran has won the most medals overall, with a total of 15."
+        ],
+        "pred_label": [
+            "superlative",
+            "count",
+            "comparative",
+            "comparative",
+            "superlative"
+        ]
+    },
+    "2-13189034-1.html.csv": {
+        "sents": [
+            "The episode titled \"us special\" had the highest budget of all episodes in the table.",
+            "The winter olympics episode did not feature any vehicles for Hammond, Clarkson, and May.",
+            "The polar special episode featured the Toyota Hilux as the race winner vehicle twice.",
+            "The episode titled \"botswana special\" had the third highest budget among all episodes in the table.",
+            "The India special episode had a joint winner vehicle, which was the 2000 Mini Cooper and the 1995 Jaguar XJS."
+        ],
+        "pred_label": [
+            "aggregation, superlative",
+            "none",
+            "count, ordinal",
+            "ordinal",
+            "unique"
+        ]
+    },
+    "2-11902366-4.html.csv": {
+        "sents": [
+            "new jersey had the highest attendance of 19,621 on November 17.",
+            "brodeur was the starting goalie for all 15 games in the season.",
+            "new jersey had the highest number of wins with a record of 13-10-2.",
+            "there were 3 games where new jersey scored 3 goals.",
+            "new jersey did not win the game against toronto on November 2."
+        ],
+        "pred_label": [
+            "superlative",
+            "all",
+            "superlative",
+            "count",
+            "negation"
+        ]
+    },
+    "1-2417308-3.html.csv": {
+        "sents": [
+            "The state with the latest date of successor's formal installation is Indiana.",
+            "There are a total of 5 vacancies in the 34th United States Congress.",
+            "California is the 4th state to have a vacancy due to the legislature failing to elect on time.",
+            "New Hampshire is the state with the 2nd class to have a vacancy.",
+            "William Bigler (D) was the successor of the Pennsylvania vacancy."
+        ],
+        "pred_label": [
+            "superlative",
+            "aggregation, count",
+            "ordinal",
+            "ordinal",
+            "none"
+        ]
+    },
+    "2-10790651-10.html.csv": {
+        "sents": [
+            "carlton achieved the highest score in the 1935 vfl season.",
+            "brunswick street oval had the highest crowd attendance among all venues.",
+            "essendon's score of 22.8 (140) was higher than carlton's score of 11.12 (78).",
+            "richmond had the lowest score among all home teams in the season.",
+            "There were a total of 6 matches played on 29 June 1935."
+        ],
+        "pred_label": [
+            "superlative",
+            "superlative",
+            "comparative",
+            "superlative",
+            "aggregation"
+        ]
+    },
+    "2-11739153-7.html.csv": {
+        "sents": [
+            "The decision in the game against vancouver was made by backstrom.",
+            "The attendance for the game against st louis was 16477.",
+            "The record after the game against florida was 36 - 24 - 5.",
+            "The game against washington took place on february 26.",
+            "The visitor in the game against dallas scored 1 goal."
+        ],
+        "pred_label": [
+            "none",
+            "none",
+            "none",
+            "none",
+            "none"
+        ]
+    },
+    "2-10897046-5.html.csv": {
+        "sents": [
+            "There are 30 players from Canada in the 2009 NHL entry draft.",
+            "Ryan Howse was the 74th pick in the draft.",
+            "Tyson Barrie was the first defenseman to be drafted in the Western Hockey League.",
+            "Joonas Nattinen was drafted before Brayden McNabb.",
+            "Michael Lee was the last goaltender to be drafted in the United States Hockey League."
+        ],
+        "pred_label": [
+            "count",
+            "ordinal",
+            "ordinal",
+            "ordinal",
+            "ordinal"
+        ]
+    },
+    "2-18060467-5.html.csv": {
+        "sents": [
+            "There were 4 players from the United States who finished in the top 10 in the 1997 Open Championship.",
+            "Darren Clarke from Northern Ireland was the player with the lowest score in the tournament.",
+            "The third player to finish in the tournament was Jesper Parnevik from Sweden.",
+            "There were a total of 12 players who finished with a score of -1 in the tournament.",
+            "Justin Leonard from the United States achieved the highest score in the first round of the tournament."
+        ],
+        "pred_label": [
+            "count, ordinal",
+            "superlative",
+            "ordinal",
+            "aggregation, count",
+            "superlative"
+        ]
+    },
+    "2-15122771-2.html.csv": {
+        "sents": [
+            "The total attendance for all the games in the 1962 Washington Redskins season was 547,279.",
+            "The average score of the games that the Washington Redskins played was 26.4.",
+            "The opponent that the Washington Redskins played only once in the season was the Baltimore Colts.",
+            "The game with the highest total score was the one against the New York Giants, with a result of 49-34.",
+            "The game with the highest attendance was the one against the Philadelphia Eagles, with 62,844 spectators."
+        ],
+        "pred_label": [
+            "aggregation",
+            "aggregation",
+            "ordinal",
+            "superlative",
+            "superlative"
+        ]
+    },
+    "2-12449312-2.html.csv": {
+        "sents": [
+            "chile won the most gold medals in the history of the pan american games.",
+            "in the 2011 pan american games, chile achieved the highest total medal count.",
+            "chile won more gold medals in the 2003 pan american games than in the 1951 pan american games.",
+            "there are more silver medals than bronze medals in the history of the pan american games.",
+            "chile won the 11th highest total medal count in the pan american games."
+        ],
+        "pred_label": [
+            "superlative",
+            "superlative",
+            "comparative",
+            "comparative",
+            "superlative, ordinal"
+        ]
+    },
+    "2-10650028-1.html.csv": {
+        "sents": [
+            "ucla was the college that produced the player with the highest overall pick.",
+            "the player selected in the 2nd round, 29th overall, was from auburn.",
+            "the player drafted in the 9th round, 225th overall, attended central florida.",
+            "the defensive tackle chosen in the 4th round, 85th overall, had a higher pick than the wide receiver selected in the 6th round, 141st overall.",
+            "the offensive tackle taken in the 11th round, 280th overall, was from henderson state."
+        ],
+        "pred_label": [
+            "superlative",
+            "ordinal",
+            "ordinal",
+            "comparative, ordinal",
+            "ordinal"
+        ]
+    },
+    "2-150343-3.html.csv": {
+        "sents": [
+            "Venezuela has won more Miss World titles than any other country.",
+            "United Kingdom has the highest number of runner-up placements in Miss World.",
+            "India has the lowest number of semifinalists in Miss World.",
+            "There are 20 different countries/territories represented in the Miss World competition.",
+            "United States has the highest total number of participants in Miss World."
+        ],
+        "pred_label": [
+            "superlative",
+            "superlative",
+            "superlative",
+            "unique",
+            "aggregation, superlative"
+        ]
+    },
+    "2-17747000-1.html.csv": {
+        "sents": [
+            "There are 8 different teams participating in the 1987-88 Coupe de France.",
+            "No team won both the 1st and 2nd rounds.",
+            "FC S\u00e8te and US Cr\u00e9teil are the only teams that drew 0-0 in both rounds.",
+            "FC Metz scored the most goals in the tournament with a total of 3 goals.",
+            "Stade Quimp\u00e9rois achieved the highest aggregate score of 5 goals in the tournament."
+        ],
+        "pred_label": [
+            "unique",
+            "negation, ordinal",
+            "unique",
+            "superlative",
+            "aggregation, superlative"
+        ]
+    },
+    "1-23117208-5.html.csv": {
+        "sents": [
+            "\"manimal\" had the lowest viewership among all episodes in the series.",
+            "\"about face\" was directed by matthew penn.",
+            "there were a total of 12 episodes in the season.",
+            "the highest viewership among all episodes was 4.25 million.",
+            "\"imperfect storm\" and \"you give love a bad name\" were both written by michael rauch."
+        ],
+        "pred_label": [
+            "superlative",
+            "none",
+            "aggregation",
+            "superlative",
+            "none"
+        ]
+    },
+    "2-11677760-22.html.csv": {
+        "sents": [
+            "There are 5 players in the USA Today All-USA High School Basketball Team.",
+            "Michael Dunigan did not get drafted in the 2011 NBA draft.",
+            "Fort Worth, TX is the hometown of the player from North Crawley High School.",
+            "Greg Monroe achieved the highest draft pick among all the players in the table.",
+            "Scotty Hopson is the first player listed in the table."
+        ],
+        "pred_label": [
+            "count",
+            "negation",
+            "none",
+            "superlative",
+            "ordinal"
+        ]
+    },
+    "2-1035855-1.html.csv": {
+        "sents": [
+            "The Bethlehem Steel F.C. won the championship in the 1914/15 season, but did not enter the playoffs in the 1923/24 season.",
+            "The Bethlehem Steel F.C. finished in the first place in the 1919/20 season, which is higher than their 2nd place finish in the 1917/18 season.",
+            "There are 3 seasons where the Bethlehem Steel F.C. were champions (no playoff).",
+            "The Bethlehem Steel F.C. reached the semifinals in the 1926/27 season, but did not enter the playoffs in the 1925/26 season.",
+            "There are 2 seasons where the Bethlehem Steel F.C. reached the quarterfinals."
+        ],
+        "pred_label": [
+            "none",
+            "comparative, ordinal",
+            "count",
+            "none",
+            "count"
+        ]
+    },
+    "2-147235-16.html.csv": {
+        "sents": [
+            "The jyutping \"lei4\" and the character \"\u5398\" both represent the same unit of measurement.",
+            "The metric value of the unit represented by the character \"\u5206\" is 10 times greater than the metric value of the unit represented by the character \"\u5398\".",
+            "The imperial value of the unit represented by the character \"\u9322\" is approximately 10 times greater than the imperial value of the unit represented by the character \"\u5206\".",
+            "There are no two units of measurement in the table that have the same portuguese translation.",
+            "The unit represented by the character \"\u62c5 / \u64d4\" is the only unit with a relative value of 100."
+        ],
+        "pred_label": [
+            "unique",
+            "comparative",
+            "comparative",
+            "unique",
+            "unique"
+        ]
+    },
+    "2-1612222-2.html.csv": {
+        "sents": [
+            "alexandra mueller had the fewest aces in the match against alexandra stevenson.",
+            "serena williams recorded more aces than victoria azarenka in their match at Wimbledon in 2012.",
+            "the match between serena williams and zheng jie had the highest number of sets played.",
+            "alicia molik had fewer aces than venus williams in their match in Tokyo in 2007.",
+            "brenda schultz had more aces than iva majoli in their match in Birmingham in 1994."
+        ],
+        "pred_label": [
+            "superlative",
+            "comparative",
+            "superlative",
+            "comparative",
+            "comparative"
+        ]
+    },
+    "2-18781865-4.html.csv": {
+        "sents": [
+            "Canada won the most gold medals in wheelchair basketball at the 2000 summer paralympics.",
+            "Australia and Netherlands both won a silver medal in wheelchair basketball at the 2000 summer paralympics.",
+            "There were no nations that won multiple bronze medals in wheelchair basketball at the 2000 summer paralympics.",
+            "Japan and United States both ranked fourth in wheelchair basketball at the 2000 summer paralympics.",
+            "The total number of medals won by all nations in wheelchair basketball at the 2000 summer paralympics is 5."
+        ],
+        "pred_label": [
+            "superlative",
+            "unique",
+            "negation, unique",
+            "ordinal, unique",
+            "aggregation"
+        ]
+    },
+    "2-16653153-30.html.csv": {
+        "sents": [
+            "south dragons had the highest percentage of points in the 2008-09 nbl season.",
+            "melbourne tigers lost fewer games than new zealand breakers.",
+            "perth wildcats had a higher percentage of home wins than townsville crocodiles.",
+            "wollongong hawks had the longest losing streak in the season.",
+            "sydney spirit had a lower percentage of points than gold coast blaze."
+        ],
+        "pred_label": [
+            "superlative",
+            "comparative",
+            "comparative",
+            "superlative",
+            "comparative"
+        ]
+    },
+    "2-10809351-8.html.csv": {
+        "sents": [
+            "st kilda had the lowest score of any away team in the 1949 vfl season.",
+            "the total crowd attendance for all matches in the 1949 vfl season was 87,500.",
+            "there were 6 different venues used in the 1949 vfl season.",
+            "geelong was the home team with the highest crowd attendance.",
+            "fitzroy scored more points than south melbourne in their match on 4 june 1949."
+        ],
+        "pred_label": [
+            "superlative",
+            "aggregation",
+            "unique",
+            "superlative",
+            "comparative"
+        ]
+    },
+    "2-171666-1.html.csv": {
+        "sents": [
+            "Xinjiang has a larger area (km square) than Tibet.",
+            "Sichuan has a smaller area (sq mi) than Xinjiang.",
+            "Qinghai has a higher national share (%) than Gansu.",
+            "Heilongjiang has a smaller area (km square) than Yunnan.",
+            "Guangxi has a lower national share (%) than Hunan."
+        ],
+        "pred_label": [
+            "comparative",
+            "comparative",
+            "comparative",
+            "comparative",
+            "comparative"
+        ]
+    },
+    "2-18715280-4.html.csv": {
+        "sents": [
+            "Hungary won the most gold medals in the 1986 icf canoe sprint world championships.",
+            "The Soviet Union won the most silver medals in the 1986 icf canoe sprint world championships.",
+            "Romania won the most bronze medals in the 1986 icf canoe sprint world championships.",
+            "Hungary won more gold medals than Romania in the 1986 icf canoe sprint world championships.",
+            "The Soviet Union won more silver medals than East Germany in the 1986 icf canoe sprint world championships."
+        ],
+        "pred_label": [
+            "superlative",
+            "superlative",
+            "superlative",
+            "comparative",
+            "comparative"
+        ]
+    },
+    "2-10809823-14.html.csv": {
+        "sents": [
+            "Kardinia Park was the first venue to host a match on 28 June 1980.",
+            "Hawthorn scored the highest number of points in a single match, with a total of 143.",
+            "No team recorded a score higher than 10.18 (78) in any match on 28 June 1980.",
+            "Richmond had the highest attendance with 64,054 spectators at the MCG.",
+            "South Melbourne scored fewer points than Carlton in their match on 28 June 1980."
+        ],
+        "pred_label": [
+            "ordinal",
+            "superlative",
+            "none",
+            "superlative",
+            "comparative"
+        ]
+    },
+    "2-11312764-4.html.csv": {
+        "sents": [
+            "Linda Fratianne from the United States ranked first in the 1979 world figure skating championships.",
+            "Anett P\u00f6tzsch from East Germany achieved the highest score in the sp + fs category.",
+            "Emi Watanabe from Japan ranked third in the competition.",
+            "Dagmar Lurz from West Germany achieved a higher rank than Denise Biellmann from Switzerland.",
+            "None of the skaters from Spain placed in the top 10."
+        ],
+        "pred_label": [
+            "ordinal",
+            "superlative",
+            "ordinal",
+            "comparative",
+            "negation, ordinal"
+        ]
+    },
+    "2-1762882-13.html.csv": {
+        "sents": [
+            "There were 4 friendly matches played in the 2003-04 in Scottish football season.",
+            "Hampden Park hosted the most number of matches in the season.",
+            "There were 2 matches played at Hampden Park in the ECQG5 competition.",
+            "The match on 19th November ended with the highest goal difference in the ECQPO competition.",
+            "There were more away wins than home wins in the season."
+        ],
+        "pred_label": [
+            "count",
+            "superlative",
+            "count",
+            "superlative",
+            "comparative"
+        ]
+    },
+    "2-12546630-1.html.csv": {
+        "sents": [
+            "The first stage of the 1933 Giro d'Italia was from Milan to Turin.",
+            "There were a total of 9 stages in the 1933 Giro d'Italia.",
+            "The winner of the third stage, from Genoa to Pisa, was Learco Guerra.",
+            "The race leader after the fourth stage, from Pisa to Florence, was Alfredo Binda.",
+            "Learco Guerra did not win the final stage from Bolzano to Milan."
+        ],
+        "pred_label": [
+            "ordinal",
+            "aggregation",
+            "ordinal",
+            "ordinal",
+            "negation"
+        ]
+    },
+    "2-18424482-2.html.csv": {
+        "sents": [
+            "\"why baby why\" is the shortest song on the album, with a length of 2:18.",
+            "\"sleepless nights (featuring vince gill)\" is the longest song on the album, with a length of 4:21.",
+            "\"he thinks i still care\" is the third oldest song on the album, released in 1962.",
+            "\"the pain of loving you\" is the only song on the album written by Dolly Parton and Porter Wagoner.",
+            "\"next in line\" is the eleventh track on the album."
+        ],
+        "pred_label": [
+            "superlative",
+            "superlative",
+            "ordinal",
+            "unique",
+            "ordinal"
+        ]
+    },
+    "2-1877416-2.html.csv": {
+        "sents": [
+            "The team ranked 1st in the world baseball classic won a total of 3 medals.",
+            "There are 4 teams that won at least one medal in the world baseball classic.",
+            "The team with the most gold medals in the world baseball classic has a total of 2 gold medals.",
+            "None of the teams ranked 5th in the world baseball classic won a medal.",
+            "The total number of medals won by all the teams in the world baseball classic is 7."
+        ],
+        "pred_label": [
+            "count, ordinal",
+            "count",
+            "superlative, count",
+            "none",
+            "aggregation"
+        ]
+    },
+    "2-14305653-58.html.csv": {
+        "sents": [
+            "The yugoslavia national football team won the friendly match against uruguay with a score of 2:1.",
+            "Romania was the opponent against whom yugoslavia achieved the highest score in the balkan cup.",
+            "The total number of goals scored by yugoslavia in the 1982 wcq matches was 9.",
+            "yugoslavia did not win the match against italy in the 1982 wcq.",
+            "There were 2 friendly matches played by yugoslavia in the given table."
+        ],
+        "pred_label": [
+            "none",
+            "superlative",
+            "aggregation",
+            "negation",
+            "count"
+        ]
+    },
+    "2-10753786-4.html.csv": {
+        "sents": [
+            "tiger woods spent the most weeks as the world number one male golfer.",
+            "greg norman had more weeks as the world number one male golfer than nick faldo.",
+            "there were 11 male golfers who never achieved the world number one ranking.",
+            "bernhard langer was the first player to achieve the world number one ranking.",
+            "rory mcilroy had a higher ranking order than lee westwood."
+        ],
+        "pred_label": [
+            "superlative",
+            "comparative",
+            "negation, count",
+            "ordinal",
+            "comparative"
+        ]
+    },
+    "2-16474033-6.html.csv": {
+        "sents": [
+            "There are 17 matches listed in the table.",
+            "Marcel Granollers has the most partnering appearances in the table.",
+            "The surface for all of the matches in the table is clay.",
+            "Flavio Cipolla played with Alessandro Motti as his partnering in the match on 4 July 2005.",
+            "The score in the match on 3 April 2011 was 6-3, 6-4."
+        ],
+        "pred_label": [
+            "count",
+            "superlative",
+            "all",
+            "none",
+            "none"
+        ]
+    },
+    "2-15544826-1.html.csv": {
+        "sents": [
+            "Greg Pursley had a higher average finish in 2009 compared to 2008.",
+            "Greg Pursley never won a race in the 2007 season.",
+            "Greg Pursley had more top 5 finishes in 2011 compared to 2012.",
+            "Greg Pursley achieved the highest season rank in 2011.",
+            "Greg Pursley was the second ranked driver in the 2012 season."
+        ],
+        "pred_label": [
+            "comparative",
+            "negation",
+            "comparative",
+            "superlative",
+            "ordinal"
+        ]
+    },
+    "2-1421422-10.html.csv": {
+        "sents": [
+            "Marcos Baghdatis reached the third round of the Australian Open in 2013.",
+            "Baghdatis had his best performance in the French Open in 2007, reaching the second round.",
+            "Baghdatis participated in all four grand slam tournaments in 2008-12.",
+            "Baghdatis never advanced past the second round in Wimbledon.",
+            "Baghdatis did not compete in the US Open in 2006 and 2007."
+        ],
+        "pred_label": [
+            "ordinal",
+            "ordinal",
+            "all",
+            "negation, ordinal",
+            "negation"
+        ]
+    },
+    "2-14895621-2.html.csv": {
+        "sents": [
+            "There were a total of 3 world championships events in which Hwang Sun-ai participated.",
+            "Hwang Sun-ai achieved the first place in the women's doubles event at the 1982 Asian Games.",
+            "The world championships event in 1985 was held in Calgary, Canada.",
+            "Hwang Sun-ai's partner in the Asian Games event was Kang Haeng-suk.",
+            "Hwang Sun-ai won the women's doubles event in the India Open tournament in 1985."
+        ],
+        "pred_label": [
+            "count",
+            "ordinal",
+            "none",
+            "none",
+            "none"
+        ]
+    },
+    "2-10826385-15.html.csv": {
+        "sents": [
+            "Richmond scored the highest number of points in the away team in the 1972 VFL season.",
+            "Carlton had the highest score among all the home teams on 15 July 1972.",
+            "The crowd attendance at VFL Park was higher than at any other venue on 15 July 1972.",
+            "The total number of points scored by all home teams on 15 July 1972 was 94.",
+            "There were more people in attendance at Windy Hill than at Princes Park on 15 July 1972."
+        ],
+        "pred_label": [
+            "superlative",
+            "superlative",
+            "superlative",
+            "aggregation",
+            "comparative"
+        ]
+    },
+    "2-16620096-1.html.csv": {
+        "sents": [
+            "There were a total of 5 different ministers for the police force of Luxembourg.",
+            "All of the ministers for the police force of Luxembourg were members of political parties.",
+            "Pierre Werner served as the prime minister during two different terms of Emile Krieps as the minister for the police force.",
+            "Marc Fischbach was the only minister for the police force from the CSV party.",
+            "Jacques Poos served as the minister for the police force for the longest duration among all ministers."
+        ],
+        "pred_label": [
+            "count, unique",
+            "all",
+            "ordinal",
+            "unique",
+            "superlative"
+        ]
+    },
+    "2-10866507-1.html.csv": {
+        "sents": [
+            "There were only two matches played at Hindmarsh Stadium in the 2007-08 Perth Glory season.",
+            "The crowd at the grand final match between Adelaide United and Perth Glory was the highest of all matches in the season.",
+            "Perth Glory scored more goals than Melbourne Victory in their match.",
+            "The round 3 match between Perth Glory and Melbourne Victory took place at Darwin Football Stadium.",
+            "Central Coast Mariners scored fewer goals than Perth Glory in their semifinal match."
+        ],
+        "pred_label": [
+            "count",
+            "superlative",
+            "comparative",
+            "none",
+            "comparative"
+        ]
+    },
+    "2-17340355-10.html.csv": {
+        "sents": [
+            "There were 8 games played in the 2008-09 phoenix suns season.",
+            "The game with the highest attendance was the one against Dallas at the American Airlines Center with 20,301 attendees.",
+            "The team with the best record in the season was Phoenix Suns with a record of 46-36.",
+            "The attendance at the game against Golden State was higher than the attendance at the game against Sacramento.",
+            "The game against New Orleans had the lowest attendance in the season with 17,781 attendees."
+        ],
+        "pred_label": [
+            "count",
+            "superlative",
+            "superlative",
+            "comparative",
+            "superlative"
+        ]
+    },
+    "2-16225902-4.html.csv": {
+        "sents": [
+            "Tiger Woods achieved the best score in the 2005 Open Championship.",
+            "Mark Hensby had a higher score than Luke Donald.",
+            "There were 12 different players from 12 different countries in the tournament.",
+            "Luke Donald is the only player from England in the tournament.",
+            "There were 12 players who achieved a score of 68."
+        ],
+        "pred_label": [
+            "superlative",
+            "comparative",
+            "unique",
+            "unique",
+            "count"
+        ]
+    },
+    "2-10790099-5.html.csv": {
+        "sents": [
+            "geelong had the highest away team score of any team that played on 28 may, 1932.",
+            "south melbourne scored the highest home team score.",
+            "princes park had the highest crowd attendance of all the venues.",
+            "north melbourne had a higher home team score than melbourne.",
+            "arden street oval was the second venue to host a match in the season and had the second highest crowd attendance."
+        ],
+        "pred_label": [
+            "superlative",
+            "superlative",
+            "superlative",
+            "comparative",
+            "ordinal"
+        ]
+    },
+    "2-1226543-6.html.csv": {
+        "sents": [
+            "Raul Boesel achieved his highest finish in the year 1989.",
+            "There were more races in which Raul Boesel finished outside the top 10 than races in which he finished inside the top 10.",
+            "Raul Boesel had a better finish in the year 1992 compared to the year 1993.",
+            "The average number of starts for Raul Boesel was higher when he raced for Simon compared to when he raced for Shierson.",
+            "Raul Boesel had a better finish in the year 1993 compared to the year 2002."
+        ],
+        "pred_label": [
+            "ordinal",
+            "comparative",
+            "comparative",
+            "comparative",
+            "comparative"
+        ]
+    },
+    "2-18078622-1.html.csv": {
+        "sents": [
+            "\"the beach boys\" released their self-titled album in 1985 in both LP and CD formats.",
+            "\"dennis wilson\" released \"pacific ocean blue\" in three different years: 1977, 1991, and 2008.",
+            "\"the beach boys\" released their album \"la (light album)\" in 1979 on LP format and in 1989 on CD format.",
+            "There are a total of 6 albums released by \"the beach boys\" in the table.",
+            "\"james vincent\" released \"waiting for the rain\" in 1978."
+        ],
+        "pred_label": [
+            "none",
+            "none",
+            "none",
+            "aggregation",
+            "none"
+        ]
+    },
+    "2-17486851-1.html.csv": {
+        "sents": [
+            "There are 3 players who returned from loan in the 2008-09 apoel f.c. season.",
+            "Elia had the highest transfer fee among all the players.",
+            "The transfer window for all players in the table was summer.",
+            "Poursaitides was the player with the longest contract, which ends in 2010.",
+            "There are 4 players who moved from Cypriot clubs in the table."
+        ],
+        "pred_label": [
+            "count",
+            "superlative",
+            "all",
+            "superlative",
+            "count"
+        ]
+    },
+    "2-11364514-2.html.csv": {
+        "sents": [
+            "There was only one nominee for the category of \"best new musical\" in the 2008 Laurence Olivier Awards.",
+            "The total number of nominations for \"best set design\", \"best costume design\", \"best lighting design\", and \"best sound design\" in the 2008 Laurence Olivier Awards was 4.",
+            "The musical \"Lord of the Rings\" was nominated for the most awards in the 2008 Laurence Olivier Awards.",
+            "None of the nominees for the 2008 Laurence Olivier Awards won in their respective categories.",
+            "There were no awards won by \"Lord of the Rings\" in the 2008 Laurence Olivier Awards."
+        ],
+        "pred_label": [
+            "unique",
+            "aggregation",
+            "superlative",
+            "negation, all",
+            "negation, unique"
+        ]
+    },
+    "2-1570558-1.html.csv": {
+        "sents": [
+            "Sherdrick Bonner had a higher completion percentage in 2003 than in 1997.",
+            "Sherdrick Bonner's career completion percentage of 61.8% is the highest among all the years in the table.",
+            "In 2008, Sherdrick Bonner had the highest passer rating of his career.",
+            "Sherdrick Bonner threw more touchdowns in 2004 than in 2005.",
+            "Sherdrick Bonner had a higher completion percentage in 2006 than in 2002."
+        ],
+        "pred_label": [
+            "comparative",
+            "aggregation, superlative",
+            "superlative",
+            "comparative",
+            "comparative"
+        ]
+    },
+    "2-18096431-7.html.csv": {
+        "sents": [
+            "mark brooks had the lowest score of any player in the 1996 pga championship.",
+            "kenny perry tied with mark brooks for the lowest score in the championship.",
+            "vijay singh was the only player from Fiji in the tournament.",
+            "justin leonard and jesper parnevik both finished with a score of 279.",
+            "mark brooks had a higher score than tommy tolles in the championship."
+        ],
+        "pred_label": [
+            "superlative",
+            "superlative",
+            "unique",
+            "none",
+            "comparative"
+        ]
+    },
+    "2-18169845-3.html.csv": {
+        "sents": [
+            "The addams family (musical) was nominated for the best original score in the 2010 Tony Awards.",
+            "Andrew Lippa was nominated for the outstanding music in the 2010 Drama Desk Awards.",
+            "No nominee from the addams family (musical) won the outstanding set design in the 2010 Drama Desk Awards.",
+            "There were more nominees for the outstanding featured actor in a musical in the 2010 Drama Desk Awards than in the 2010 Outer Critics Circle Awards.",
+            "Nathan Lane had the most nominations in the 2010 awards, being nominated for both outstanding actor in a musical and distinguished achievement in musical theatre."
+        ],
+        "pred_label": [
+            "superlative",
+            "ordinal",
+            "negation, unique",
+            "comparative",
+            "superlative, count"
+        ]
+    },
+    "2-13312898-28.html.csv": {
+        "sents": [
+            "tim foley was the second offensive tackle to be picked in the draft.",
+            "marvin sims was the last player to be picked in the draft.",
+            "curtis dickey was picked higher overall than derrick hatchett.",
+            "there were no tight ends picked before ed whitley.",
+            "ray donaldson was the fourth player to be picked in the second round."
+        ],
+        "pred_label": [
+            "ordinal",
+            "ordinal",
+            "comparative",
+            "none",
+            "ordinal"
+        ]
+    },
+    "2-11513647-4.html.csv": {
+        "sents": [
+            "The attendance for the game against the Yankees was higher than the attendance for the game against the Blue Jays.",
+            "The Rockies had a better win-loss record on June 10th compared to June 4th.",
+            "The loss by hern\u00e1ndez against the Giants on June 1st was closer than the loss by jim\u00e9nez against the Dodgers on June 3rd.",
+            "The Rockies scored more runs in the game against the Mariners on June 29th compared to the game against the Devil Rays on June 21st.",
+            "The Rockies had a better win-loss record on June 16th compared to June 2nd."
+        ],
+        "pred_label": [
+            "comparative",
+            "comparative",
+            "comparative",
+            "comparative",
+            "comparative"
+        ]
+    },
+    "2-18178551-1.html.csv": {
+        "sents": [
+            "The England national rugby union team won the first test against South Africa.",
+            "The match against Argentina ended with a score of 0.",
+            "The second test against South Africa took place in Vodacom Park, Bloemfontein.",
+            "Twickenham, London was the venue for the test match against Australia.",
+            "The England national rugby union team did not play against New Zealand during the 2000-09 period."
+        ],
+        "pred_label": [
+            "ordinal",
+            "none",
+            "ordinal",
+            "none",
+            "negation"
+        ]
+    },
+    "1-23466021-4.html.csv": {
+        "sents": [
+            "The highest attendance recorded during the 1991 Toronto Argonauts season was 53,527, which occurred in the fourth week when they played against the Lions at BC Place Stadium.",
+            "The Argonauts had the best record after 16 weeks, with a record of 12-5.",
+            "The Argonauts won their first three games of the season.",
+            "The game on September 21 against the Eskimos was the eighth game of the season for the Argonauts.",
+            "The game on October 27 against the Tiger-Cats was the last game of the regular season for the Argonauts."
+        ],
+        "pred_label": [
+            "superlative",
+            "superlative",
+            "ordinal",
+            "ordinal",
+            "ordinal"
+        ]
+    },
+    "2-11173692-2.html.csv": {
+        "sents": [
+            "There were 19 songs performed in the Eurovision Song Contest 2008.",
+            "kalomira's song \"secret combination\" received more points than any other song in the contest.",
+            "dima bilan achieved the third highest score in the contest.",
+            "The average score of all songs in the contest was 57.68 points.",
+            "There were 3 songs performed in English in the contest."
+        ],
+        "pred_label": [
+            "count",
+            "superlative",
+            "ordinal",
+            "aggregation",
+            "count"
+        ]
+    },
+    "1-25551880-2.html.csv": {
+        "sents": [
+            "Ezequiel Mosquera did not win stage 20.",
+            "Mark Cavendish achieved the highest score in the points classification.",
+            "Team HTC - Columbia was the only team to win multiple stages.",
+            "Carlos Barredo won stage 15.",
+            "Joaquim Rodr\u00edguez won the general classification."
+        ],
+        "pred_label": [
+            "negation",
+            "superlative",
+            "unique",
+            "none",
+            "none"
+        ]
+    },
+    "2-14860855-3.html.csv": {
+        "sents": [
+            "reinhold roth achieved the highest number of points in the 1989 season.",
+            "romer - juchem was the team with the most wins in the 1985 season.",
+            "there is only one year where reinhold roth competed in the 350cc class.",
+            "reinhold roth had the highest number of points among all the riders in the 1989 season.",
+            "hb - honda was the team that reinhold roth achieved his first win with."
+        ],
+        "pred_label": [
+            "superlative",
+            "superlative",
+            "count",
+            "superlative",
+            "ordinal"
+        ]
+    }
+}

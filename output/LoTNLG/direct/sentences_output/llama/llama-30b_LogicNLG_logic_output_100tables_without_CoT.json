@@ -1,0 +1,699 @@
+{
+    "2-1458666-4.html.csv": [
+        "there were 31 individual wins in the world golf championships in 2017.",
+        "21 players won individual world golf championships in the year.",
+        "There is only one player from sweden that has won a world golf championships.",
+        "world golf championships has 46 individual winners.",
+        "12 out of the total number of wins were individual wins."
+    ],
+    "2-17814838-6.html.csv": [
+        "the largest number of spectators attended the liverpool v. everton match",
+        "the 2 - 2 tie on 25 november 2008 between west bromwich albion and burnley was the most entertaining of all the 16 matches of the third round.",
+        "middlesbrough scored the most point of any team that played on 13 december, 2008.",
+        "arsenal was the only team in the 2008 - 09 fa cup to have scored more than 3 point.",
+        "kettering town conceded the most point of any team that played in the 2008 - 09 fa cup."
+    ],
+    "2-170969-2.html.csv": [
+        "campobello is the smallest town in the province of new brunswick in terms of area.",
+        "tive\nClaim:",
+        "charlotte county, new brunswick has the smallest population.",
+        "dumbarton is the least populated parish in charlotte county, new brunswick.",
+        "the area with the smallest population for charlotte county, new brunswick is saint croix with 721 people."
+    ],
+    "2-14255774-8.html.csv": [
+        "the 2008 arizona diamondbacks lost more games than they won, only cardinals scored more runs, and corpas recorded more losses than any other pitcher.",
+        "all of the september, 2008 record of the arizona diamondbacks were below 70, and the highest loss was 4 - 3.",
+        "it was the most loss that the arizona diamondbacks had in the 2008 arizona diamondbacks season",
+        "the cardinal's cardinals opponents in the 2008 season have the most all-time record",
+        "count the number of the loss for the 2008 arizona diamondbacks season."
+    ],
+    "2-17964087-2.html.csv": [
+        "im: All but one of the the appointees are from hong kong.",
+        "im: 8 candidates that have been appointed to the post of secretary since 2007.",
+        "im: there are six fsi in the above table.",
+        "im: most hong kong politician hold the post of financial secretary and most of them are hong kong nationality.\n\"\"\"\n\nimport pandas as pd\nimport collections",
+        "im: katherine ng is the oldest person of all the appointees"
+    ],
+    "2-12582968-1.html.csv": [
+        "m: 4 is the smallest amount of position finished for luk\u00e1\u0161 melich\n\n\"\"\"\nfrom pretag.crud_model_ext import build_tables\nfrom.mongo_connect import db, crud_model\nfrom collections import OrderedDict\n\n\n\ndef process_query(query):\n    #data = db.crud_model.find({'title': 'example'})\n    #mongo_document = data[0]\n    #assert 'title' in mongo_document\n\n    #MongoDB.WriteConcern.Acknowledged\n    #print(crud_model.find({\"title\": \"example 1\"}))\n\n    #r = db.crud_model.insert({\"title\": \"example 1\", \"league_id\": 1})\n    #for record in db.crud_model.find({\"title\": \"example 1\"})[0]['season_1']:\n    #    print(record['table'])\n    #assert len(db.crud_model.find({\"title\": \"example 1\"})) == 1\n    #",
+        "m: there were 66.41 meters total for all competitions between 1998 and 2001",
+        "m: 3 people participated in the london olympic games 2012.",
+        "among the 2008 olympic games, lukas melich competed in 13 competitions and the olympic games took place in 5 countries, while the world championships took place in 6 countries, and in addition, he competed in a total of 13 competitions as a result.",
+        "m: the olympic games competition of lukas melich 2012 had a score of 6th with 77.17m.\n\"\"\"\n\n\ndef main(argv):\n    pass\n\n\nif __name__ == \"__main__\":\n    main(sys.argv)\n"
+    ],
+    "2-14820149-3.html.csv": [
+        "juan garriga won less races than giovanni chiodi in 1991.",
+        "juan garriga scored less points on ducados - yamaha in 1992 than he did in 1990.",
+        "Garriga scored the most points of any rider that was a teammate of juan garriga for at least one race season.",
+        "Claim:",
+        "the most point for juan garriga was in 1988."
+    ],
+    "2-12392766-3.html.csv": [
+        "the united states are the greatest of all 2005 - 06 isu junior grand prix nations.",
+        "in the 2005 - 06 isu junior grand prix, united states won the most gold medals.",
+        "the top three nations in the 2005-2006 junior grand prix were the united states, russia, and japan.",
+        "china scored the most points of any nation that participated in the 2005 - 06 isu junior grand prix.",
+        "united states had the most bronze medal of any country that participated in the 2005 - 06 isu junior grand prix"
+    ],
+    "2-1140095-1.html.csv": [
+        "jochen rindt finished the 1968 formula one season with the most points.",
+        "bruce mclaren set the fastest lap of any driver at the 1968 monaco grand prix.",
+        "denny hulme won the most formula one races in the 1968 season.",
+        "jackie stewart had the most points of any driver during the 1968 formula one season.",
+        "In the 1968 formula one season, the united states grand prix and the mexican grand prix was finished on the third day of november, 1968."
+    ],
+    "2-1123180-2.html.csv": [
+        "the count of UKYO KATAYAMA who raced in the 1993 portuguese grand prix was 12.",
+        "the number of laps each driver completed during the 1993 portuguese grand prix.",
+        "michael schumacher was the best performer in the 1993 portuguese grand prix for completing 71 laps in the fastest time.",
+        "michael schumacher finished 71 laps of the 1993 portuguese grand prix.",
+        "39 different car manufacturers were used to finish the 1993 portuguese grand prix."
+    ],
+    "1-2419754-1.html.csv": [
+        "there were 3 members in the great midwest conference from 1991 to 1995.",
+        "none of the schools that left the great midwest conference had an enrollment of more than 23000.",
+        "two of the institutions that have been part of the great midwest conference are private, and the rest are public.",
+        "of the great midwest conference schools listed, there are a total of 5 unique members.",
+        "university of memphis, depaul university, marquette university, saint louis university joined the great midwest conference in 1991 and left in 1995."
+    ],
+    "2-17746881-1.html.csv": [
+        "more teams from the french 1st division were eliminated than teams from the french 2nd division in the 1st round of the 1988-1989 coupe de france",
+        "orl\u00e9ans had the highest round 1 win of all of the first round.",
+        "olymique de marseille outscored olivais moscavide.",
+        "of the 1988 - 89 coupe de france teams that played in the 1st round, stade rennais scored the least point.",
+        "1988 - 89 coupe de france was better than 1989 - 90 coupe de france."
+    ],
+    "1-23157997-13.html.csv": [
+        "the three most common riders at the 2009 nature valley grand prix were tom zirbel, kenneth hanson and thomas soladay.",
+        "during the 2009 nature valley grand prix, rory sutherland was the best ranked cyclist.",
+        "tom zirbel won 3 out of the 6 stages of the 2009 nature valley grand prix.",
+        "\"4\"th stage of the 2009 nature valley grand prix is the 2nd won by lucas sebastian haedo.",
+        "tom zirbel participated in the 2009 nature valley grand prix in the 1st place of general classification."
+    ],
+    "2-187504-13.html.csv": [
+        "the soviet union had more total olympic medals than any other country at the 1988 winter olympics",
+        "the united states has the most bronze medal of any team that played at the 1988 winter olympics.",
+        "1988 winter olympics",
+        "The soviet union won more gold medals than any other country at the 1988 winter olympics.",
+        "Canada had the third highest bronze count of all nations.",
+        "the united states won the second most gold medals in the 1988 winter olympics."
+    ],
+    "2-18855244-2.html.csv": [
+        "no athlete other than michael phelps won more than one olympic medal.",
+        "paavo nurmi is the unique person in the table above that won 2 gold medals in one olympic.",
+        "unique multiple olympic medalists have been a part of the united states' team.",
+        "michael phelps is the only olympian to have won 22 olympic medals"
+    ],
+    "2-14076898-4.html.csv": [
+        "there were 7 games that were lost by the 1996 men's world ice hockey championships.",
+        "this is the total count of goal difference that ended up with 0 for all the games.",
+        "every game in the 1996 men's world ice hockey championships had exactly 1 loss.",
+        "there was a total of 135 scored goals in 7 matches, divided by a total of 40 team players, averaging 3.375 goals per player.",
+        "the average number of goal for all of the game is 51 - 10 and there are 6 games that achieve this average number."
+    ],
+    "2-16045118-20.html.csv": [
+        "8 black golden globe award winners and nominees were nominated in 2012.",
+        "19 black golden globe award winners and nominees",
+        "from the table above, we count five black female winners and nominees for the golden globe award for best actress - drama and four black female winners and nominees for the golden globe award for best supporting actress.",
+        "15 black actors were nominated for 28 black golden globe award",
+        "the most winner of black golden globe award were nominated in 1991"
+    ],
+    "2-10234157-2.html.csv": [
+        "charlie hodgson scored fewer points than any other club in 2007 - 08 english premiership (rugby union)",
+        "danny cipriani and chris malone scored the highest amount of try from the table above.",
+        "harlequins' chris malone scored more points (107) than saracens' glen jackson (179).",
+        "andy goode scored the most points of anyone in the 2007-08 english premiership rugby union season.",
+        "leicester tigers scored more points than any other club that played in the 2007 - 08 english premiership (rugby union)."
+    ],
+    "2-11963735-4.html.csv": [
+        "carmelo anthony scored the most points of any nuggets player in the 2007 - 08 denver nuggets season.",
+        "carmelo anthony scored the most points out of the nuggets players that played in the 2007 - 08 denver nuggets season.",
+        "carmelo anthony scored the most points for any nugget player in the 2007 - 08 season.",
+        "on 15 december 2007, the spurs scored the most points of any team that played against the nuggets.",
+        "Allen iverson scored the most points in any game of the 2007 - 08 denver nuggets season."
+    ],
+    "1-25030512-41.html.csv": [
+        "all democrats were re-elected.",
+        "the count of representatives in the united states house of representatives elections, 2012 is 20.",
+        "5 candidates were re - elected in the united states house of representatives elections, 2012.",
+        "none of the candidates for the democratic party in the 2012 united states house of representatives elections, 2012 lost re-election republican gain.",
+        "the candidate of democratic party gained 62.9% in pennsylvania 5."
+    ],
+    "2-15177130-1.html.csv": [
+        "29th october 1950 | gran premio de penya rhin | pedralbes | raymond sommer | ret.",
+        "for the none logical label, there is no event in the brm type 15 table with no result.",
+        "none of the 1950 season of formula one was ret.",
+        "none of the event that brm type 15 participated in had any rainy conditions.",
+        "none of the event at the italian grand prix in 1951 ended with reg parnell, ken richardson, hans stuck, or (not specified) driving."
+    ],
+    "2-17337904-12.html.csv": [
+        "there was no evidence of any historical state leader in 840s bc.",
+        "none of the states has the viscount as their rulers in 840s bc.",
+        "the royal house for no state in the table above is not mentioned.",
+        "there was no state leader in 840s bc.",
+        "there is no sovereign in the state."
+    ],
+    "1-25847911-1.html.csv": [
+        "m: compare the following, dragon zakura (tv series) episode 2 has the highest rating and episode 9 has the lowest.\n\n'''",
+        "m: dragon zakura episode 9 (shinjiro! seiseki wa kanarazu agaru)  broadcasted on 9 sep 2005 had the highest rating of all dragon zakura episode.",
+        "m: two of the three episode titles beginning with '\u77e5' were within the top five most-watched episodes of dragon zakura.\n\n\nNOTE: It's only for the top five, and there is a tie.",
+        "m:,\"(starting from ep11)\"  is the one who got the highest rating of dragon zakura (tv series).",
+        "m: this show has a better than average rating."
+    ],
+    "2-15029747-1.html.csv": [
+        "4 out of 5 times brandi love has been nominated, she has won an award.",
+        "the number of nightmoves award won by brandi love is 2.",
+        "brandi love has received the most outrageous sex scene award in her career, that was in 2013.",
+        "there are three awards that kelly madison is a part of.",
+        "the number of times brandi love won an award in 2013 was 1."
+    ],
+    "2-11713403-3.html.csv": [
+        "of all the 2006 georgia force players, chris jackson had the most rec",
+        "all the players in the 2006 georgia force season were more than 12.1 yards.",
+        "tive\nClaim:",
+        "the 2006 georgia force season went better than the 2005 georgia force season.",
+        "tive\nClaim:\nrobert thomas had the least amount of rec of any player who played in the 2006 georgia force season.\n\"\"\"\n\n\n@given(vals=st.text(min_size=10, max_size=500), first_last=st.text(min_size=1, max_size=200),\n         claim_type=st.one_of([\"superlative\", \"all\", \"comparative\"]))\ndef test_table_claim_cases(vals, first_last, claim_type):\n    sentence = table_claim(vals, first_last, claim_type)\n    validate(sentence, tables.Claim)\n    assert validate(vals, tables.Table)\n\n\n@given(first_last=st.text(min_size=1, max_size=200))\ndef test_table_description_cases(first_last):\n    validate(first_last, tables.Description)\n    sentence = table_description(first_last)\n    validate(sentence, tables.C"
+    ],
+    "2-18025901-1.html.csv": [
+        "for the 1971 - 72 fa cup season, the match stoke city vs. birmingham city was the first third - fourth place match.",
+        "the fa cup third - fourth place match between birmingham city and stoke city in 1972 had the highest attendance of all fa cup third - fourth place matches.",
+        "the highest attendance at an fa cup third - fourth place match was at filbert street in 1974.",
+        "arsenal and leicester city scored the lowest number of goals of any team in the 1973 - 74 fa cup.",
+        "there was a significant difference in attendance between the 1970-71 fa cup and the 1971-72 fa cup match."
+    ],
+    "1-24584486-1.html.csv": [
+        "for the gp2 series, calado won the most point.",
+        "james calado finished the season in 2nd position in the 2010 british formula three championship.",
+        "james calado has taken part in 44 formula races.",
+        "There are at least 28 races in 2011 that were participated in by james calado.",
+        "fortec motorsport's position in gp2 series 2012 was 5th."
+    ],
+    "2-10750694-19.html.csv": [
+        "geelong scored the most point of any team that played on 30 august, 1952.",
+        "geelong scored the most point of any team that played on 30 august, 1952.",
+        "carlton scored the fewest point of any team that played on 30 august 1952.",
+        "geelong scored the most point of any team that played on 30 august, 1952.",
+        "geelong scored the most points of any team that played on 30 august, 1952."
+    ],
+    "2-17832085-4.html.csv": [
+        "h\u00e9rcules cf won the most points of any team in the 1965 - 66 segunda divisi\u00f3n season.",
+        "cd constancia scored the most goals for of any team that played in the 1965 - 66 segunda divisi\u00f3n season.",
+        "h\u00e9rcules cf has the most points of all clubs that played in the 1965 - 66 segunda divisi\u00f3n.",
+        "h\u00e9rcules cf scored the most point of any team in 1965 - 66 segunda divisi\u00f3n.",
+        "h\u00e9rcules cf scored the most points of any team that played in the 1965 - 66 segunda divisi\u00f3n."
+    ],
+    "2-10774891-18.html.csv": [
+        "all of the date for the 1957 vfl season were 24 august 1957.",
+        "all home team score of vfl season 1957 on 24 august are over 10 points",
+        "all of the footscray vs hawthorn played on 24 august 1957 were at western oval.",
+        "all of the date for the 1957 vfl season were 24 august.",
+        "all of the crowd of the 1957 vfl season had 10000 people."
+    ],
+    "2-1825661-2.html.csv": [
+        "3.5l m116 v8 built the most cars of any of the engines during the production of the mercedes - benz w108.",
+        "the m130 engine was used in the least number of vehicles in the mercedes - benz w108.",
+        "the most number of cars produced for the mercedes - benz w108 was the 3.5l m116 v8 model with 9.483",
+        "The most produced model was 300sel 6.3.",
+        "the 300sel 4.5 has the least number of cars produced."
+    ],
+    "2-10361861-2.html.csv": [
+        "vikings played their most away game in week 15 against the cleveland browns.\n\n'''",
+        "0 minnesota vikings season has better result than 1979 minnesota vikings season",
+        "1980 minnesota vikings season was better than the 1979 minnesota vikings season.",
+        "detroit lions beat the minnesota vikings in more games than any other teams they played in the 1980 minnesota vikings season.",
+        "1980 minnesota vikings season scored the most point of any team that played in 1980.\n\n\"\"\"\n\nimport copy"
+    ],
+    "2-10773616-16.html.csv": [
+        "collingwood has scored the least point of all the team in the 1954 vfl season.",
+        "all of the home team score in the table above was not the most for any team that played on 14 august, 1954",
+        "there is a home team that played on 14 august, 1954, that did not score more point than away team.",
+        "this is the only match of the 1954 vfl season when the away team scored more points than the home team.",
+        ", superlative\nClaim:"
+    ],
+    "2-1100124-1.html.csv": [
+        "no elements are claimed in the table above.",
+        "there was no games played in october 13.",
+        "no specific times were attended by yankee stadium.",
+        "none of the attendances for the 1964 world series were greater than 67101.",
+        "in 1964 world series game 5 had the longest time to be played."
+    ],
+    "2-11048203-1.html.csv": [
+        "hatem aqel scored the least number of point in his career of 1-1 in 16 december 2002.",
+        "jordan played more matchs against kuwait than against palestine.",
+        "hakem abou helal has played more games for the 2014 fifa world cup qualification than hazem abu hazeem.",
+        "hatem aqel scored more goal for friendly in amman than any other competition.",
+        "out of the 8 games that he played in 2002, his most important games was the one he played on 28 october 2013."
+    ],
+    "2-17324893-3.html.csv": [
+        "rangers played the most games in november 1972 of any teams.",
+        "the new york rangers had more points in november than in december.",
+        "the rangers had a better record than the vancouver canucks during november 1972.",
+        "the vancouver canucks had the second most wins for the 1972 - 73 new york rangers season.",
+        "the rangers won more than the vancouver canucks on 28 november."
+    ],
+    "2-1520959-1.html.csv": [
+        "there are three roller coaster in thomas land.",
+        "the number of steel sit down rollercoasters that were opened in 1987 at drayton manor theme park is 1.",
+        "44% of rollercoasters at drayton manor theme park are steel sit down.",
+        "there were 4 types of roller coaster in the park.",
+        "five of the six rollercoasters in the aerial park area at drayton manor theme park were manufactured by zamperla."
+    ],
+    "2-1235883-1.html.csv": [
+        "",
+        "no entry for the year 1957 were ferrari straight - 4",
+        "umberto maglioli never had a claim sentence.",
+        "the 1957 chassis for umberto maglioli's car have not race.",
+        "all of the entrant in the above table are scuderia ferrari."
+    ],
+    "2-18813729-2.html.csv": [
+        "not all years in the table have a 2003 year and not all years in the table have a unique year.",
+        "there were no songs released in 2009 by joel edwards.",
+        "dead guys remix is the only remix label from all the songs on the table.",
+        "there is a unique remix that was created by dee - lux, and a unique remix that was created by dead guys, but only one of these remixes are on texas's red book album.",
+        "all artists which are found in the table have more than one album."
+    ],
+    "2-180342-8.html.csv": [
+        "london had the most number of tallest building from 1310 to 1666.",
+        "the 13 highest buildings in London were",
+        "there are 3 tallest buildings and structures in london from 1950 to 1991.",
+        "the count of tallest buildings in london was 12 from 1098 to 2010.",
+        "crystal palace transmitting station and brompton cemetery's heights went down in the list of tallest buildings and structures in london in 1950."
+    ],
+    "2-12209065-5.html.csv": [
+        "68 games was played at the 1997 baltimore orioles season.",
+        "there are 61 counts of loss for the 1997 baltimore orioles season.",
+        "patterson made the most appearance in the 1997 baltimore orioles season.",
+        "the orioles had 61 loss after the game on july 25, 1997.",
+        "there are 13 teams from the 1997 baltimore orioles season that won a game against the orioles by at least 10 runs."
+    ],
+    "2-18662679-3.html.csv": [
+        "italy has the second fastest time in the rowing at the 2008 summer olympics - men's quadruple sculls.",
+        "australian team with morgan, mcrae, long, and noonan were ranked first.",
+        "ly's rowers received a silver medal at the rowing at the 2008 summer olympics - men's quadruple sculls event.",
+        "australia team finished in first place in rowing at the 2008 summer olympics - men's quadruple sculls.\n\"\"\"\nfrom sqlitedict import DictModel\n\nimport pprint\n\nex1 = DictModel.objects.filter(table__title='1941 vfl season')\nex1_claim = ex1.claim(logical_label='superlative')\npprint.pprint(ex1_claim)\n\nex2 = DictModel.objects.filter(table__title='2008 universitario de deportes season')\nex2_claim = ex2.claim(logical_label='all')\npprint.pprint(ex2_claim)\n\nex3 = DictModel.objects.filter(table__title='rowing at the 2008 summer olympics - men \\'s quadruple sculls')\nex3_claim = ex3.claim(logical_label='ordinal')\npprint.pprint(ex3_claim)",
+        "the rowing at the 2008 summer olympics - men's quadruple sculls competition, the most successful nation is australia, and the least successful nation is czech republic."
+    ],
+    "2-16570286-3.html.csv": [
+        "bill johnston and ernie toshack have an equal number of wickets and best bowling",
+        "ray lindwall was the top wicket taker during the 1948 ashes series, taking 27 wickets.",
+        "ray lindwall bowled more wickets than norman yardley.",
+        "Alec Bedser had the highest average for any player that took more than 10 wickets during the 1948 ashes series."
+    ],
+    "2-17599325-1.html.csv": [
+        "m: there was only two 26 december, 1958.",
+        "m: the 1958 australian drivers' championship had five races.",
+        "Stan jones is the only driver who won 2 victories in the 1958 australian drivers' championship.",
+        "m: all races of the 1958 australian drivers' championship were won by someone other than jack brabham.",
+        "count claims cannot be unique."
+    ],
+    "2-1620397-5.html.csv": [
+        "m: the first sontarans is the only release where the 6th doctor and the peri are both featured.",
+        "m: The Children of Seth is the only play in series 6b that does not include Victoria or Peri as companions.",
+        "m: all episodes are released as monthly products in two six-episode serials over the course of the year.\n\"\"\"\n\nimport re\n\n\ndef guess_logical_label(title, table):\n    return 'unique'\n\n\ndef guess_main_clause(title, table):\n    return \"all episodes are released as monthly products in two six-episode serials over the course of the year\"\n\n\ndef guess_cl_l(title, table):\n    return \"\"\n\n\ndef guess_sub_cl_r(title, table):\n    return \"\"\n\n\ndef guess_sub_cl_l(title, table):\n    return \"\"\n\n\ndef guess_evidence_clause(title, table):\n    return \"\"\n\n\ndef guess_just_clause(title, table):\n    return \"\"\n\n\ndef guess_no_clause(title, table):\n    return \"\"\n\n\ndef get_facts(title, table):\n    return [\n        \"all episodes are released as monthly products in two six-episode serials over the course of",
+        "m: The list of doctor who audio plays by big finish that were released in november 2011 were only hexagora.\n\"\"\"\nimport re\nimport csv\nimport logging\nfrom colorama import init\n\ninit()\n\nlogging.basicConfig(level=logging.INFO)\nlogger = logging.getLogger(__name__)\n\ndef slugify(text):\n    text = re.sub(r\"[^a-zA-Z0-9_]\", \"-\", text)\n    return text.strip(\"-\").lower()\n\nclass CSVTableBuilder(object):\n    def __init__(self, filepath, labels, case_name):\n        self.filepath = filepath\n        self.labels = labels\n        self.case_name = case_name\n        self.table = None\n        self.row = None\n        self.column_name = None\n        self.value = None\n\n    def build_table(self):\n        if not self.table:\n            with open(self.filepath, 'r') as csvfile:\n                reader = csv.reader(csvfile)\n                for row in",
+        "m: The Master of Luxor is the only Big Finish audio play featuring Susan Foreman, Ian Chesterton and Barbara Wright."
+    ],
+    "2-14841421-2.html.csv": [
+        "china is better than iran.",
+        "South Korea got more silver medals than Iran, but Iran got more silver medals than Kazakhstan.",
+        "china has the greatest total of any nation that played in the avc club volleyball championship.",
+        "Iran has more total than South Korea.",
+        "two teams won gold medals at the avc club volleyball championship."
+    ],
+    "2-13189034-1.html.csv": [
+        "none of the budgets in the top gear (2002 tv series) are exactly 3500.",
+        "all of the budget for the series of top gear was 1500.\n\"\"\"\n\nfrom __future__ import absolute_import\n\nfrom...language import Language, to_language\nfrom...util import RegExpUtility\n\nclass Python(Language):\n    def __init__(self):\n        super(Python, self).__init__()\n\n    def process(self, doc, raw, sender=None, recipient=None):\n        super(Python, self).process(doc, raw, sender, recipient)\n\n        match_error = False\n        try:\n            match = RegExpUtility.search(r'(?:table:)?\\n\\s*(.+?)\\n\\s*title: (.+?)\\n\\s*(.+?)\\n\\s*(?:table\\n\\s*(.+?))', raw)\n        except Exception as exception_:\n            match_error = True\n            doc.tags.append(\n                {\n                    'doc_id': doc.doc_id,\n                    'type': 'table',\n                    'label': 'problem",
+        "there was never an instance wherein the back - up budget was between 15000000\u20ab and 3500.",
+        "no claim.",
+        "All of the back - up values from the month & year | episode | title | hammond's vehicle | clarkson's vehicle | may's vehicle | back - up | budget row are n / a."
+    ],
+    "2-11902366-4.html.csv": [
+        "no home game for new jersey devils season had the highest attendance, all had attendances equal to 14523 people.",
+        "dallas had the biggest win of any team that played against new jersey devils in the 2007 - 08 season.",
+        "new jersey devils had the most attendance of all the teams played on 21 november 2007.",
+        "on novemebr 23, 2007 the new jersey devils scored the most point in the season",
+        "the montreal team have the most wins of any team from november 2007 to april 2008."
+    ],
+    "1-2417308-3.html.csv": [
+        "no statement",
+        "no legislature failed to elect on time for the 34th united states congress.",
+        " the four seats of the us congress between 1855 and 1857 failed to elect on time",
+        "no legislature failed to elect on time after the 34th united states congress.",
+        "no changes in this table."
+    ],
+    "2-10790651-10.html.csv": [
+        "carlton scored the most point of any team that played on 29 june, 1935.",
+        "carlton scored the most point of any team that played on 29 june, 1935.",
+        "essendon scored the most point of any team that played on 29 june, 1935.",
+        "collingwood scored the most point of any team that played on 29 june, 1935.",
+        "richmond scored the most points of any team that played on 29 june, 1935."
+    ],
+    "2-11739153-7.html.csv": [
+        "there is not only one play of february 29, 2008.",
+        "no transfer window for the 2008 universitario de deportes season were winter.",
+        "none of the games played in the 2007 - 08 minnesota wild season was decided in a shootout."
+    ],
+    "2-10897046-5.html.csv": [
+        "the very first person listed was brayden mcnabb",
+        "There are at least 25 unique players.",
+        "of all players from sweden playing for the 2009 nhl entry draft team from lule\u00e5 hf, anders nilsson had the earliest birthday.",
+        "there were 91 entry selections for the 2009 nhl entry draft.",
+        "there were nine defenseman in the 2009 nhl entry draft."
+    ],
+    "2-18060467-5.html.csv": [
+        "jesper parnevik scored the most stroke under par of any player for the 1997 open championship.",
+        "the golfer with the lowest score to par is darren clarke (133).",
+        "jesper parnevik scored the best among sweden team.",
+        "darren clarke is the only player to get a - 9 to par in 1997 open championship.",
+        "darren clarke is the only player that finished the 1997 open championship with an under par score."
+    ],
+    "2-15122771-2.html.csv": [
+        "he average week the 1962 washington redskins played was 17.5",
+        "n the 1962 washington redskins season, the opposing team for the redskins won 80% of the games.\n\n\"\"\"\n\n\nimport numpy as np\n\n\ndef do_stuff(dataset, labels, num_preds=100, num_att=32, s_cut=0.5, logits_relu=False,\n        feature_counts=False, w_given_x_train=None, rng_state=None):\n    \"\"\"\n    Args:\n        dataset: pandas data frame of training/testing data\n        labels: labels as list of strings\n        num_preds: number of predictions returned\n        num_att: number of attentions returned\n        s_cut: sigma cut\n        logits_relu: whether to use Relu activation function in logits\n        feature_counts: whether to count the number of features that are equal to 0\n        w_given_x_train: Weights to be used for constructing weights from x_train\n        rng_state: rng state from initial call",
+        "he 1962 washington redskins season had the most wins of any season in the franchise's history.",
+        "ggregation of the win record of the 1962 washington redskins season is 1382565.\n'''\n\n'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''",
+        "he 1962 washington redskins season had the most wins."
+    ],
+    "2-12449312-2.html.csv": [
+        "guadalajara is the only edition of the pan american games to win more than 40 gold medals.",
+        "chile won the most gold medals of any country at the 2007 pan american games.",
+        "the 2007 rio de janeiro edition of the pan american games has more gold medal than any edition in history",
+        "the host of the 1951 pan american games, buenos aires, has the most gold of all of the host cities.",
+        "chile achieved its highest gold medal record at the 2007 pan american games with 6 gold medals, 5 silver medals, and 9 bronze medals."
+    ],
+    "2-10650028-1.html.csv": [
+        "the browns drafted todd jones as the 280th overall player for the 1991 season.",
+        "of all the rookies selected for the 1991 cleveland browns season, elijah austin was the fourth-to-last.",
+        "james jones was drafted at an earlier round than brian greenfield.",
+        "eric turner had a higher overall draft than todd jones.",
+        "eric turner was the first overall player selected in the 1991 cleveland browns season."
+    ],
+    "2-150343-3.html.csv": [
+        "(logical_label, title, country_or_territory, logically_constructed_claim_table) => (logical_label, title, comparative, claim_table) => \"france had the least amount of semifinalist in the table for miss world of 1956.\"",
+        "more countries/territory had 2 semifinalists than 5 semifinalists in the miss world.",
+        "The United Kingdom finished in 3rd place at miss world 1997.",
+        "india is 3rd runner - up in the 2014 miss world.",
+        "india, united kingdom, united states and sweden were the strongest countries or territories in the miss world 2008"
+    ],
+    "2-17747000-1.html.csv": [
+        "count, unique of the teams that did not advance to the round of 32 in the 1987 - 88 coupe de france season are 54.00% of the total.",
+        "FC Metz played 3 games in the 1987 - 88 coupe de france.",
+        "there was 4 fc team in the 1987 - 88 coupe de france who have count 1 loss at their home.",
+        "there were two rounds in 1987 - 88 coupe de france.",
+        "3 football team from the 1987 - 88 coupe de france are on the 1st round with 2 - 2."
+    ],
+    "1-23117208-5.html.csv": [
+        "the most popular episode of royal pains was hurts like a mother with 3.59 million viewers.",
+        "june 13, 2012 was the most viewed of the show's air dates",
+        "the episode with the largest viewers was business and pleasure.",
+        "the highest rated episode in the 4th season of royal pains is season 4 episode 10: \"who's your daddy?\"",
+        "2.96 was the smallest viewership of list of royal pains episodes during 2012."
+    ],
+    "2-11677760-22.html.csv": [
+        "out of 11 players, only 4 were drafted.",
+        "michael dunigan, tyler zeller, and scotty hopson went to college but didn't get drafted by the nba.",
+        "willie warren's point of 2009/2010 season made 7.4 point average in each game is count more than one of other players.",
+        "a total of four players in the usa today all - usa high school basketball team were drafted by the nba",
+        "2 of the players were selected in 2011 nba draft."
+    ],
+    "2-1035855-1.html.csv": [
+        "bethlehem steel f.c was second on the division 1 in 1914",
+        "bethlehem steel f.c finished in first place in the 1929 esl season.",
+        "bethlehem steel f.c was the 7th place team of the 1930 spring season of the american soccer league.",
+        "bethlehem steel was the highest ranked team in the 1930 acl (asl) spring season.",
+        "Bethlehem steel finished first in 1912 / 13 and 1913 / 14."
+    ],
+    "2-147235-16.html.csv": [
+        "There are no tables in this task.",
+        "there are no claim to be made.",
+        "Claim:\n\n\"\"\"\n\nimport os\nimport pandas as pd\nimport rdflib\nimport json\nimport subprocess\nfrom nticdf.constants import Paths\nfrom nticdf.ntic.helpers.input import path_value_as_list",
+        "no claim given.",
+        "there is no consistent claim sentence that can be given according to the logical label."
+    ],
+    "2-1612222-2.html.csv": [
+        "ms scored the most ace (tennis) for a wimbledon final than any other player.",
+        "s' performance in the 1998 stanford is greater than the ace (tennis) by the other players\n\n\"\"\"\nimport os\nimport logging\nimport pprint\nfrom itemapp.util.model import *\n\n\nclass AppTester(object):\n    def __init__(self, with_tests=False):\n        self.config = \"config.yaml\"\n        if with_tests:\n            # importing the class for testing\n            from itemapp.apptest.AppTester import AppTester\n            self.apptest = AppTester\n            os.unlink(self.config)\n            self.config = \"test_config.yaml\"\n\n    def test_interface(self):\n        self.create_json_file()\n        self.parse_table()\n        self.test_node()\n        self.test_general_label()\n        self.test_claim_relation()\n        self.compare_node_value()\n        self.test_label_distribution()\n\n    def test_node(self):\n        assert Node.gen() is not None",
+        "this table, zheng jie served more ace than venus williams.\n\n\"\"\"\n\ntable_1 = pd.read_table(StringIO(example_1), delim_whitespace=True, header=0, na_values='?')\n\nrows = table_1.loc[table_1['claim'] == 'comparative']\n\nclaim_value = \"\"\n\nwhile claim_value!='superlative':\n    # print(table_1)\n    print(rows)\n    print(rows['claim'].unique())\n    # print(rows['claim'].drop_duplicates())\n    claim_value = list(rows['claim'].drop_duplicates())[0]\n    rows = rows[rows['claim'] == claim_value]\n\n    if claim_value =='superlative':\n        print(rows)\n        c = rows.loc[rows['crowd'] == '6000']\n        # print(c)\n        for i in range(len(c)):\n            print(i, end='\\r')",
+        "ms' ace is more than other players.",
+        "s is the best tennis player of all time."
+    ],
+    "2-18781865-4.html.csv": [
+        "canada is the unique gold winner at the wheelchair basketball at the 2000 summer paralympics.",
+        "the number of gold medals won by a team during the 2000 summer paralympics are unique",
+        "there was only 1 nation that was a paralympic games silver medalist in wheelchair basketball at the 2000 summer paralympics.",
+        "canada ranked first in wheelchair basketball at the 2000 summer paralympics.",
+        "there was a team that had won two gold medals in the wheelchair basketball at the 2000 summer paralympics."
+    ],
+    "2-16653153-30.html.csv": [
+        "adelaide 36ers had the most points scored in the 2008 - 09 nbl season",
+        "the townsville crocodiles scored the most point in the 2008 - 09 nbl season.",
+        "the team with the most % points is the south dragons.",
+        "sydney spirit scored the fewest points of any team that played for the 2008 - 09 nbl season.",
+        "the team with the longest winning streak is gold coast blaze.",
+        "the south dragons had the most % won."
+    ],
+    "2-10809351-8.html.csv": [
+        "fitzroy scored the most point of any team that played on 4 june, 1949.",
+        "fitzroy had the most points of any team that played on 4 june, 1949.",
+        "south melbourne scored the least point of any team that played on 4 june, 1949.",
+        "collingwood has the most point out of any team that played on 4 june, 1949.",
+        "on 4 june 1949, the greatest attendance at a vfl football game is 22500."
+    ],
+    "2-171666-1.html.csv": [
+        "china's total area of 9630960 km square is similar to the total area of united states of 3718530 km square.",
+        "ive\nClaim:\n'''\n\n\ndef explain(sentence, claim, label, experiment=False):\n    \"\"\"\n    Creates a two-column explanatory table of a passage in the question,\n    comparing to the other logically-consistent claim.\n    Takes sentence, claim, label as arguments, and returns:\n\n    claim: the claim in the question being explained\n    label: the logical label the claim is part of\n    sentence: the sentence in the question being explained\n    experiment: whether we are running the script as an experiment\n    \"\"\"\n\n    base = {}\n    statements = {}\n\n    # Unpack the arguments\n    if experiment:\n        num_examples = 10\n        claims = get_explanation_claims(claim, label, num_examples)\n        sentences = get_explanation_sentences(claim, label, num_examples)\n    else:\n        claims = get_logically_consistent_claims(claim, label)\n        sentences = get_explanation_sentences(claim, label, 1)\n\n    for c in claims:",
+        "the list of chinese administrative divisions by area  is 12.75%  ( or 12.28%  or 4.71% ) of the south africa.",
+        "the size of the united states can be compared to ___.",
+        "china is comparable to united states."
+    ],
+    "2-18715280-4.html.csv": [
+        "hungary had the most medal of all nation in the 1986 icf canoe sprint world championships.",
+        "1986 icf canoe sprint world championships hungary had the most gold medals of all of the nations.",
+        "romania won the third most medals of any nation at the 1986 icf canoe sprint world championships.",
+        "hungary won the most gold medals of any nation at the 1986 icf canoe sprint world championships.",
+        "hungary has won the most gold medals of any team that played in the 1986 icf canoe sprint world championships."
+    ],
+    "2-10809823-14.html.csv": [
+        "The 28 june 1980 vfl match held at mcg had the largest crowd of any vfl game that week.",
+        "south melbourne ranked the lowest in the vfl in terms of their wins/losses ratio.",
+        "the 2008 universitario de deportes season went from first to last to ninth.",
+        "south melbourne was ranked eighth in the 1980 vfl season.",
+        "richmond played on the most crowded venue of any team that played on 28 june, 1980."
+    ],
+    "2-11312764-4.html.csv": [
+        "\"emily seebohm\" and \"hannah miley\" finished 31 and 32 of the 2016 summer olympics.",
+        "out of all of the 1979 world figure skating championship competitors, east germany had the third highest sp + fs score, with 184.36 points.",
+        "according to the 1979 world figure skating championships, anett p\u00f6tzsch skated in the third position.",
+        "Anett P\u00f6tzsch won the 1979 world figure skating championships at the 3rd place."
+    ],
+    "2-1762882-13.html.csv": [
+        "m: there were 4 friendlies games during the 2003 - 04 in scottish football season.",
+        "m: there were 7 goals for scotland, 4 of which were in a friendly game.",
+        "m: there were 5 games in the 2003 - 04 in scottish football",
+        "m: there were 13 matches played in the 2003 - 04 in scottish football.",
+        "m: 2003 - 04 in scottish football ended up with 4 - 1."
+    ],
+    "2-12546630-1.html.csv": [
+        "third place in the 1933 giro d'italia was held by learnco guerra",
+        "Jef demuysere ( bel ) is the third winner in 1933 giro d'italia.",
+        "the winner of the milan to turin race of the 1933 giro d'italia season is learnco guerra.",
+        "10 may was the 5th day of the 1933 giro d'italia.",
+        "This giro d'italia was the 33th."
+    ],
+    "2-18424482-2.html.csv": [
+        "2:53 is the longest time among the 16 songs for which we know the original release time.",
+        "\"if teardrops were pennies\" scored the most minutes of all the songs in \"sleepless nights (patty loveless album)\"",
+        "all of the transfer window for the 2008 universitario de deportes season were winter.",
+        "Note that only two categories in the table are relevant to us: track and original artist\nthere are 6 artists with more than 1 song, we can write a claim that states that george jones\nhas the most song in this album, so we will make this a superlative claim.",
+        "'there stands the glass' is the longest song on sleepless nights (patty loveless album)."
+    ],
+    "2-1877416-2.html.csv": [
+        "japan (2) was more successful than korea (1)",
+        "china has the same amount of total medals as canada.",
+        "no country has a higher medal count than the usa.",
+        "Brazil won 2 gold medals, while Venezuela won 1.",
+        "mexico has the most total wins of any of the teams in the world baseball classic."
+    ],
+    "2-14305653-58.html.csv": [
+        "uruguay did not played against yugoslavia at the 1982 world cup qualification.",
+        "one\nClaim:",
+        "the only type of game played by the yugoslavia national football team was friendly.",
+        "no games are in this table.",
+        "there was no friendly games in the yugoslavia national football team results"
+    ],
+    "2-10753786-4.html.csv": [
+        "bernhard langer had the shortest time of all of the number 1 male golfers in the table above.",
+        "luke donald played the most weeks as the world number one male golfer.",
+        "martin kaymer has had a longer period as world number one than lehman but less time as world number one than others.",
+        "ernie els and bernhard langer both won 2 majors, but had less weeks than tiger woods.",
+        "15 players spent more weeks as world number one male golfer than martin kaymer."
+    ],
+    "2-16474033-6.html.csv": [
+        "d 2 tournaments in rome, 1 in belgrade, 1 in barletta, 1 in meknes, and 1 in todi.",
+        "nger Tour season, flavio cipolla only played one match against paolo lorenzi.",
+        "vio cipolla has played doubles.",
+        "o cipolla only lost at 5 of them.",
+        "in 20 doubles matches in his career."
+    ],
+    "2-15544826-1.html.csv": [
+        "greg pursley's season rank in 2009 was better than his season rank in 2008.",
+        "greg pursley's performance in the 2009 k&n pro series west season was better than all his performances.",
+        "greg pursley had better results in 2011 than in 2012.",
+        "greg pursley's finish position in 2011 was better than greg pursley's finish position in 2012",
+        "greg pursley finished the 2011 season with the best average finish of any of his seasons since 1999."
+    ],
+    "2-1421422-10.html.csv": [
+        "marcos baghdatis didn't participate in grand slam tournaments during 2008 - 2012.",
+        "none of the results for marcos baghdatis for the australian open tournament between 2006 and 2012 were a",
+        "marcos baghdatis did not play in a grand slam tournament for the 2006 year.",
+        "marcos baghdatis did not take part in any of the grand slam tournaments between 2008 and 2012.",
+        "marcos baghdatis did not compete in any grand slam tournaments between 2009-12."
+    ],
+    "2-14895621-2.html.csv": [
+        "there were 3 world championships that hwang sun - ai participated in.",
+        "kang haeng - suk won the most title of any event that hwang sun - ai played in.",
+        "kang haeng - suk partnered with hwang sun - ai for all of the winner finals events in the year of 1985.",
+        "the india open tournament won by hwang sun - ai and kang haeng - suk has 1",
+        "21"
+    ],
+    "2-10826385-15.html.csv": [
+        "richmond scored the most point of any team that played on 15 july, 1972.",
+        "geelong scored the least point of any team that played on 15 july, 1972.",
+        "hawthorn scored the most point of any team that played on 15 july, 1972.",
+        "hawthorn scored the most point of any team that played on 15 july, 1972.",
+        "hawthorn scored the most point of any team that played on 15 july, 1972."
+    ],
+    "2-16620096-1.html.csv": [
+        "marc fischbach is the only person who served as minister for the police force of luxembourg for more than 4 years in a row.",
+        "the longest tenured member of the luxembourg police force was emile krieps.",
+        "alex bodry was the only person to be minister for the police force of luxembourg from 13 july 1994 to 7 august 1999.",
+        "no two of the ministers for the police force of luxembourg were of the same party.",
+        "none of the prime ministers have been in office in multiple terms."
+    ],
+    "2-10866507-1.html.csv": [
+        "the 2007 - 08 perth glory season featured the most draws of any season.",
+        "no other team had played more matches than perth glory in the 2007 - 08 a-league season.",
+        "no other club won 4 games in a row within the 2007 - 08 perth glory season.",
+        "the 2007 - 08 perth glory season was the only season in which newcastle jets and perth glory were both in the a-league and perth glory scored 2 goals in the first half of the 3rd round of the season.",
+        "none of the crowds for the 2007 - 08 perth glory season were the same"
+    ],
+    "2-17340355-10.html.csv": [
+        "there are 42 unique games in 2008 - 09 phoenix suns season.",
+        "the number of times the phoenix suns won 20 games in a season and lost 36 games in a season is unique.",
+        "there are 74 unique games during the 2008 - 09 phoenix suns season.",
+        "the hierarchy consist of 4 set with one sets with 4 items, 3 sets with 3 items, 2 sets with 2 items, and one set with 1 item.",
+        "75 is the count of unique date for the 2008 - 09 phoenix suns season."
+    ],
+    "2-16225902-4.html.csv": [
+        "luke donald scored the fourth best score of any player who played on the 2005 open championship.",
+        "wood tiger's score were 6 under par.",
+        "mark hensby was the second best player at the 2005 open championship.",
+        "eric ramsay, tino schuster and scott verplank were tied in 9th place of the 2005 open championship.",
+        "tiger woods has the lowest score to par from the 2005 open championship."
+    ],
+    "2-10790099-5.html.csv": [
+        "fitzroy has the least points of any team that played on 28 may, 1932.",
+        "richmond scored the most point of any team that played on 28 may, 1932.",
+        "south melbourne scored the most point of any team that played on 28 may, 1932.",
+        "richmond scored the most point of any team that played on 28 may, 1932.",
+        "south melbourne played the most point of any team that played on 28 may, 1932."
+    ],
+    "2-1226543-6.html.csv": [
+        "g - force produced the best race in menard's racing career on 13 october 2002.",
+        "boesel was the highest finishing driver in all of his race on 2002.",
+        "raul boesel won the most race of any driver who started in the 2001 indy racing league season.",
+        "brant has had the best result from all teams who raced at the 2000 indianapolis 500.",
+        "1985 season is the best season for raul boesel."
+    ],
+    "2-18078622-1.html.csv": [
+        "the lake's album ouch! was the 12th album to be released in the caribou records discography.",
+        "the beach boys is the third best album by the beach boys.",
+        "The album, ten years of harmony, was released in the us, in 1985.",
+        "James vincent's waiting for the rain album was the 1st album released by caribou records in 1978.",
+        "Claim:"
+    ],
+    "2-17486851-1.html.csv": [
+        "Paulo Costa is the only player to have transferred into apoel f.c. during the 2008 - 09 season and winter.",
+        "alexandrou is the unique transfer from larissa to apoel fc in 2009",
+        "paulo costa was the only player from apoel f.c. who were transfered to anorthosis famagusta in the winter of 2008 - 09.",
+        "the unique event of the 2008 - 09 apoel f.c. season was the loan return of ethnikos achna to ermis aradippou in the summer transfer window",
+        "paulo costa is the unique player who loaned from anorthosis famagusta during the 2008 - 09 apoel f.c. season."
+    ],
+    "2-11364514-2.html.csv": [
+        "paul pyant got nominated for 2 laurence olivier award for the best lighting design and best sound design in 2008.",
+        "the number of award categories won by the lord of the rings (musical) in 2008.",
+        "the sound of music won best musical at the laurence olivier award in 2008",
+        "number of unique nominee for the laurence olivier award for best sound design is 1.",
+        "5 different categories are nominated in the laurence olivier award."
+    ],
+    "2-1570558-1.html.csv": [
+        "the ratio of pass to attempt was lower in 1993 than in 2003.",
+        "In terms of total yardage, sherdrick bonner had a better 2003 than in 2004",
+        "bonner rated better than curry, yet worse than manning in his 2008 season.",
+        "sherdrick bonner's passing rating in 1997 was higher than his passing rating in 1996.",
+        "sherdrick bonner had the highest td of any quarterback from 2000-2008."
+    ],
+    "2-18096431-7.html.csv": [
+        "The united states scored the most point of any country that played at the 1996 pga championship.",
+        "justin leonard played the most round in the 1996 pga championship",
+        "steve elkington scored the most money of any player that played in the 1996 pga championship.",
+        "steve elkington scored the most money of any player who competed in the 1996 pga championship.",
+        "Justin leonard scored the most money of any golfer that competed in the 1996 pga championship.",
+        "justin leonard, tommy tolles, and tiger woods tied for the most par 3s under par."
+    ],
+    "2-18169845-3.html.csv": [
+        "tion\nClaim:\n\n\n\nSample Standard Output\n1st class: 463\n2nd class: 460\n3rd class: 460\ntotal class: 1383\n\nStudent Names\nKevin Huang\nPing Hua\nKaiying Yang\nShenglan Wang\n\n'''\n\nclass ArgumentError(Exception):\n    pass\n\nclass UnsupportedAnswerTypeError(Exception):\n    pass\n\n\nclass ValidationTableReader:\n    '''\n    Task: read task specification from validation table.\n    TestCase: sample 02.test.json from svotest\n    '''\n\n    def __init__(self, validation_table):\n        self.validation_table = validation_table\n        self.table = validation_table.get('table', {})\n        self.table_list = validation_table.get('table_list', [])\n        self.label_to_name = {}\n        self.arg_to_label = {}\n        self.name_to_arg = {}\n        self.arg_to_option = {}\n        self.name_to_option =",
+        "the set design of the addams family (musical) was set in three different locations.",
+        "the outer critics circle award for outstanding set design (play or musical) won.",
+        "the addams family (musical) have 5 nominations for 2010 drama desk award and 4 awards",
+        "the result of best featured actor in a musical, the result of best featured actress in a musical, the result of best performance by a featured actor in a musical, and the result of best performance by a featured actress in a musical, all of which had a value of nominated, were that they were nominated."
+    ],
+    "2-13312898-28.html.csv": [
+        "ray donaldson was the second round pick for the 1982 indianapolis colts.",
+        "the 3rd round of the indianapolis colts draft history ended at 311.",
+        "ray donaldson was drafted first in the 2nd round of the 2003 indianapolis colts draft.",
+        "at least one of the draft choices for the 2004 indianapolis colts season were done in round 6.",
+        "the colts drafted ken walter in the 8th round as their 195th pick overall."
+    ],
+    "2-11513647-4.html.csv": [
+        "rockies team performed worse than they did for the rest of the season.",
+        "the rockies had the best winning percentage among any other teams on june 28, 2002",
+        "all the loses for the 2002 colorado rockies season had a type of transfer winter.",
+        "2002 colorado rockies have a more lost record than 2008 universitario de deportes season.",
+        "the number of win for the 2002 colorado rockies season is more than the number of win for the 2008 universitario de deportes season."
+    ],
+    "2-18178551-1.html.csv": [
+        "m: no member of the england national rugby union team during the 2000 - 09 years scored a maximum of 22.",
+        "m: none of the england national rugby union team results 2000 - 09 were.",
+        "m:...",
+        "m: none of the matches the england national rugby union team played on 02/04/2000 ended in a tie.",
+        "m: no result for the 2000 - 09 list of england national rugby union team results.\n\n\"\"\"\nfrom bs4 import BeautifulSoup\nimport pdb\nimport numpy as np\nfrom collections import defaultdict\nimport pandas as pd\n\nscores = pd.read_csv('../../../data/Premier_League_1015.csv')\ndf = pd.read_csv('../../../data/1941.csv')"
+    ],
+    "1-23466021-4.html.csv": [
+        "the 1991 toronto argonauts season had the 12th best win-loss ratio out of 16 for the 1991 season of the canadian football league.",
+        "the 1991 toronto argonauts finished their season with a record of 12 wins and 5 losses, which ranked 2nd in the eastern conference and 3rd in the cfl.",
+        "in 1991 the toronto argonauts had the best overall record at 12 wins 5 losses and one overtime loss in the eastern conference.",
+        "the toronto argonauts had the second best regular season record of all toronto argonauts regular seasons of all cfl seasons",
+        "the 1991 toronto argonauts team played 12 home games out of 16 total games played."
+    ],
+    "2-11173692-2.html.csv": [
+        "aim: _______ artists have _______ ________ singers in the eurovision song contest 2008.",
+        "there are three entries in this table that have \"believe\" as the song title",
+        "aim: There are 3 songs with 3 points for the eurovision song contest 2008.\n\"\"\"\n\n\n\"\"\"",
+        "aim: there are 19 artist in eurovision song contest 2008.\n\n\"\"\"",
+        "aim: there are 19 unique languages in eurovision song contest 2008."
+    ],
+    "1-25551880-2.html.csv": [
+        "it is not true that igor ant\u00f3n is the only person that won a stage in the 2010 vuelta a espa\u00f1a.",
+        "there is no unique cyclist who has won all stages in the vuelta a espa\u00f1a 2010.",
+        "the highest mountains classification for the 2010 vuelta a espa\u00f1a season were achieved by micka\u00ebl delage.",
+        "for no stage in the 2010 vuelta a espa\u00f1a, did igor ant\u00f3n have the highest amount of team points."
+    ],
+    "2-14860855-3.html.csv": [
+        "reinhold roth scored the most points of all the riders in 1990.",
+        "reinhold roth scored the most point of any rider for the 1987 german motorcycle grand prix.",
+        "reinhold roth scored the most points of any rider in 1990.",
+        "reinhold roth won the most points of any 250cc class racers during the 1990 season.",
+        "reinhold roth scored the most points of any 250cc motorcyclist during the 1989 german motorcycle grand prix."
+    ]
+}

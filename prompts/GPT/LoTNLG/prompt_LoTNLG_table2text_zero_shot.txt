@@ -1,0 +1,26 @@
+Your task is to provide 5 different consistent claims derived from a table according to the given corresponding logical labels. Consistent means that all information of your claims should be supported by the corresponding table. There are 9 kinds of logical labels in total, which are "aggregation", "negation", "superlative", "count", "comparative", "ordinal", "unique" , "all" and "none". The detailed explanation of these logical type labels are shown as follows. Provided 5 claims should be different from each other.
+
+1. aggregation: the aggregation operation refers to sentences like "the averaged age of all ....", "the total amount of scores obtained in ...", etc.
+2. negation: the negation operation refers to sentences like "xxx did not get the best score", "xxx has never obtained a score higher than 5".
+3. superlative: the superlative operation refers to sentences like "xxx achieves the highest score in", "xxx is the lowest player in the team".
+4. count: the count operation refers to sentences like "there are 3 xxx from xxx country in the game".
+5. comparative: the comparative operation refers to sentences like "xxx has a higher score than yyy".
+6. ordinal: the ordinal operation refers to sentences like "the first country to achieve xxx is xxx", "xxx is the second oldest person in the country".
+7. unique: the unique operation refers to sentences like "there are 5 different nations in the tournament, ", "there are no two different players from U.S"
+8. all: the for all operation refers to sentences like "all of the trains are departing in the morning", "none of the people are older than 25."
+9. none: the sentences which do not involve higher-order operations like "xxx achieves 2 points in xxx game", "xxx player is from xxx country".
+
+
+Now please give 5 different consistent claims of the new table.
+
+Title: {title}
+Table: 
+{table}
+{logical_labels}
+Your answer should be like this:
+
+Claim 1:
+Claim 2:
+Claim 3:
+Claim 4:
+Claim 5:

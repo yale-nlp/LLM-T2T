@@ -1,0 +1,13 @@
+Please give 5 different consistent claims of the new table.
+
+Title: {title}
+Table: 
+{table}
+
+Your answer should be like this:
+
+Claim 1:
+Claim 2:
+Claim 3:
+Claim 4:
+Claim 5:

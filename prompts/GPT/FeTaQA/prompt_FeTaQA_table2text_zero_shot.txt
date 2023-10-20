@@ -1,0 +1,10 @@
+Please give your answer of the given question according to the table.
+
+Title: {page_title}
+Subtitle: {section_title}
+Table: 
+{table}
+
+Question: {question}
+
+Your answer:

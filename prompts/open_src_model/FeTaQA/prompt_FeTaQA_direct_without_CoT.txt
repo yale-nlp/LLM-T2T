@@ -1,0 +1,53 @@
+Example 1:
+Title: Gerhard Bigalk
+Subtitle: Ships attacked
+Table:
+Date | Name | Nationality | Tonnage (GRT) | Fate
+14 June 1941 | St. Lindsay | United Kingdom | 5,370 | Sunk
+21 December 1941 | HMS Audacity | Royal Navy | 11,000 | Sunk
+2 February 1942 | Corilla | Netherlands | 8,096 | Damaged
+4 February 1942 | Silveray | United Kingdom | 4,535 | Sunk
+7 February 1942 | Empire Sun | United Kingdom | 6,952 | Sunk
+16 May 1942 | Nicarao | United States | 1,445 | Sunk
+19 May 1942 | Isabela | United States | 3,110 | Sunk
+
+Question: What happened to the two heaviest ships Gerhard Bigalk attacked? Answer this question in a natural language sentence.
+Answer: Gerhard Bigalk damaged one ship of 8,096 GRT, and sunk one warship of 11,000 tons.
+
+#
+
+Example 2:
+Title: Kelli Maroney
+Subtitle: Filmography
+Table:
+Year | Title | Role | Notes
+1982 | Fast Times at Ridgemont High | Cindy | -
+1983 | Slayground | Jolene | -
+1984 | Night of the Comet | Samantha | -
+1986 | Chopping Mall | Alison Parks | -
+1986 | The Zero Boys | Jamie | -
+1987 | Big Bad Mama II | Willie McClatchie | -
+1988 | Not of This Earth | Nurse Oxford | -
+1989 | Jaded | Jennifer | -
+1989 | Transylvania Twist | Hannah | -
+1990 | Hard to Die | Porno Wife | -
+1991 | Servants of Twilight | Sherry Ordway | -
+1991 | Scream Queen Hot Tub Party | Herself | Video
+1993 | Midnight Witness | Devon | -
+1999 | Sam and Mike | - | Short film
+2004 | Audition | Brett | Short film
+2011 | Lip Service | Janice | -
+2012 | Dark Star Hollow | Sarah Rose Barteaux | Post-production
+
+Question: Aside from Jolene in Slayground, what were Kelli Maroney's first four other roles? Answer this question in a natural language sentence.
+Answer: Kelli Maroney's film roles were Cindy Carr in Fast Times at Ridgemont High (1982), Samantha in Night of the Comet (1984), Jamie in The Zero Boys, and Allison in Chopping Mall (1986).
+
+#
+
+Example 3:
+Title: {page_title}
+Subtitle: {section_title}
+Table: 
+{table}
+
+Question: {question}

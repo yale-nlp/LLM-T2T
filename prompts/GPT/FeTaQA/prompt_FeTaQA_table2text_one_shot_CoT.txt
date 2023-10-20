@@ -1,0 +1,33 @@
+Your task is to provide the answer to the given question about a table.
+To guide your responses, we have provided an example table with one question. Use the template to structure your answer, provide reasoning for your answer and give the final answer. We encourage you to think through each step of the process carefully.
+
+
+Example 1:
+Title: Gerhard Bigalk
+Subtitle: Ships attacked
+Table:
+Date | Name | Nationality | Tonnage (GRT) | Fate
+14 June 1941 | St. Lindsay | United Kingdom | 5,370 | Sunk
+21 December 1941 | HMS Audacity | Royal Navy | 11,000 | Sunk
+2 February 1942 | Corilla | Netherlands | 8,096 | Damaged
+4 February 1942 | Silveray | United Kingdom | 4,535 | Sunk
+7 February 1942 | Empire Sun | United Kingdom | 6,952 | Sunk
+16 May 1942 | Nicarao | United States | 1,445 | Sunk
+19 May 1942 | Isabela | United States | 3,110 | Sunk
+
+Question: What happened to the two heaviest ships Gerhard Bigalk attacked?
+
+Reasoning: First looking at "Tonnage (GRT)" column, 11,000 and 8,096 were the two largest GRT. Then looking at their corresponding "Fate" cells, one was sunk and the other was damaged.
+Answer: Gerhard Bigalk damaged one ship of 8,096 GRT, and sunk one warship of 11,000 tons.
+
+
+Now please give your reasoning and answer of the given question according to the table. Let's think step by step and follow the template of the example.
+
+Title: {page_title}
+Subtitle: {section_title}
+Table: 
+{table}
+
+Question: {question}
+
+Your answer:

@@ -1,0 +1,66 @@
+Your task is to provide feedback on the original answer of the given question about a table. Your feedback should consist of identifying errors, providing explanations for your reasoning, offering evidence for the presence or absence of errors and finally, presenting a new improved answer. There are two types of errors: intrinsic and extrinsic. Intrinsic errors refer to mistakes that arise from within the answer itself, while extrinsic errors are caused by factors external to the answer. To help you provide accurate feedback, we have provided instruction templates for your use. These templates include "remove," "add," "replace," "modify," "rewrite," and "do nothing". It is important to note that you should be capable of identifying logical operations when reviewing the answer. Examples of such operations include superlatives, exclusives (such as "only"), temporal relationships (such as "before/after"), quantitative terms (such as "count" or "comparison"), inclusive/exclusive terms (such as "both/neither"), and arithmetic operations (such as "sum/difference" or "average").
+To guide your responses, we have provided two example templates with one question each. Use these templates to structure your answer, provide reasoning for your feedback, and suggest an improved answer. We encourage you to think through each step of the process carefully.
+Remember, your final output should always include a “New answer” no matter if there is error or not! It is the most important part of your response.
+
+
+Example 1:
+Title: Gerhard Bigalk
+Subtitle: Ships attacked
+Table:
+Date | Name | Nationality | Tonnage (GRT) | Fate
+14 June 1941 | St. Lindsay | United Kingdom | 5,370 | Sunk
+21 December 1941 | HMS Audacity | Royal Navy | 11,000 | Sunk
+2 February 1942 | Corilla | Netherlands | 8,096 | Damaged
+4 February 1942 | Silveray | United Kingdom | 4,535 | Sunk
+7 February 1942 | Empire Sun | United Kingdom | 6,952 | Sunk
+16 May 1942 | Nicarao | United States | 1,445 | Sunk
+19 May 1942 | Isabela | United States | 3,110 | Sunk
+
+Question: What happened to the two heaviest ships Gerhard Bigalk attacked?
+Original answer: Gerhard Bigalk attacked Corilla of 8,096 GRT, and St. Lindsay of 5,370 GRT.
+
+Reasoning: Two heaviest ships attacked by Gerhard Bigalk were HMS Audacity (11,000 GRT) and Corilla (8,096 GRT), St. Lindsay (5,370 GRT) not included. In addition, what happened to the two heaviest ships are not mentioned. So the claim has instrinsic error. My instruction is first to replace St. Lindsay with Corilla and then to add the fate of these two ships.
+New answer: Gerhard Bigalk damaged Corilla of 8,096 GRT, and sunk HMS Audacity of 11,000 GRT.
+
+
+Example 2:
+Title: Kelli Maroney
+Subtitle: Filmography
+Table:
+Year | Title | Role | Notes
+1982 | Fast Times at Ridgemont High | Cindy | -
+1983 | Slayground | Jolene | -
+1984 | Night of the Comet | Samantha | -
+1986 | Chopping Mall | Alison Parks | -
+1986 | The Zero Boys | Jamie | -
+1987 | Big Bad Mama II | Willie McClatchie | -
+1988 | Not of This Earth | Nurse Oxford | -
+1989 | Jaded | Jennifer | -
+1989 | Transylvania Twist | Hannah | -
+1990 | Hard to Die | Porno Wife | -
+1991 | Servants of Twilight | Sherry Ordway | -
+1991 | Scream Queen Hot Tub Party | Herself | Video
+1993 | Midnight Witness | Devon | -
+1999 | Sam and Mike | - | Short film
+2004 | Audition | Brett | Short film
+2011 | Lip Service | Janice | -
+2012 | Dark Star Hollow | Sarah Rose Barteaux | Post-production
+
+Question: Aside from Jolene in Slayground, what were Kelli Maroney's first four other roles?
+Original answer: Kelli Maroney's film roles were Cindy in Fast Times at Ridgemont High (1982), Samantha in Night of the Comet (1984), Jamie in The Zero Boys, and Allison Parks in Chopping Mall (1986).
+
+Reasoning: Kelli Maroney's first four other roles aside from Jolene in Slayground were Cindy in Fast Times at Ridgemont High (1982), Samantha in Night of the Comet (1984), Jamie in The Zero Boys, and Allison Parks in Chopping Mall (1986). So the claim has no error. My instruction is to do nothing.
+New answer: Kelli Maroney's film roles were Cindy in Fast Times at Ridgemont High (1982), Samantha in Night of the Comet (1984), Jamie in The Zero Boys, and Allison Parks in Chopping Mall (1986).
+
+
+Now please give feedback to the original answer of the given question about the new table and give the edited answer. Let's think step by step and follow templates of examples. But you cannot miss the new answer part.
+
+Title: {page_title}
+Subtitle: {section_title}
+Table: 
+{table}
+
+Question: {question}
+Original answer: {answer}
+
+Your answer:
