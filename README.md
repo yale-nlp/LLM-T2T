@@ -2,7 +2,7 @@
 The data and code for the EMNLP 2023 industry-track paper [Investigating Table-to-Text Generation Capabilities of LLMs in Real-World Information Seeking Scenarios](https://arxiv.org/abs/2305.14987). This research investigates the table-to-text capabilities of different LLMs using four datasets within two real-world information seeking scenarios. It demonstrates that high-performing LLMs, such as GPT-4, can effectively serve as table-to-text generators, evaluators, and feedback generators.
 
 ## Data and Model Output
-The dataset we used can be found in the data folder, and the model outputs are in the output folder.
+The dataset we used can be found in the `data` folder, and the model outputs are in the `output` folder.
 
 ## Table-to-Text Generation by GPT-series Models:
 At first, modify the bash script [GPT_T2T_generation.sh](scripts/GPT_T2T_generation.sh). The description of all the arguments used in the script can be found in [GPT_T2T_generation.py](src/GPT_T2T_generation.py).
