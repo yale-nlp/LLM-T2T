@@ -1,5 +1,8 @@
-# LLM_T2T
-Logical Table-to-Text Generation by Large Language Models
+# LLM-T2T
+The data and code for the EMNLP 2023 industry-track paper [Investigating Table-to-Text Generation Capabilities of LLMs in Real-World Information Seeking Scenarios](https://arxiv.org/abs/2305.14987). This research investigates the table-to-text capabilities of different LLMs using four datasets within two real-world information seeking scenarios. It demonstrates that high-performing LLMs, such as GPT-4, can effectively serve as table-to-text generators, evaluators, and feedback generators.
+
+## Data and Model Output
+The dataset we used can be found in the data folder, and the model outputs are in the output folder.
 
 ## Table-to-Text Generation by GPT-series Models:
 At first, modify the bash script [GPT_T2T_generation.sh](scripts/GPT_T2T_generation.sh). The description of all the arguments used in the script can be found in [GPT_T2T_generation.py](src/GPT_T2T_generation.py).
@@ -78,4 +81,20 @@ Then run the bash script:
 
 ```
 sh open_src_model_T2T_generation.sh
+```
+
+
+## Contact
+For any issues or questions, kindly email us at: Yilun Zhao (yilun.zhao@yale.edu), Haowei Zhang (haowei.zhang@tum.de) or Shengyun Si (shengyun.si@tum.de).
+
+## Citation
+```
+@misc{zhao2023investing,
+      title={Investigating Table-to-Text Generation Capabilities of LLMs in Real-World Information Seeking Scenarios}, 
+      author={Yilun Zhao and Haowei Zhang and Shengyun Si and Linyong Nan and Xiangru Tang and Arman Cohan},
+      year={2023},
+      eprint={2305.14987},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
