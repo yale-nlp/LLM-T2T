@@ -89,7 +89,7 @@ For any issues or questions, kindly email us at: Yilun Zhao (yilun.zhao@yale.edu
 
 ## Citation
 ```
-@misc{zhao2023investing,
+@misc{zhao2023investigating,
       title={Investigating Table-to-Text Generation Capabilities of LLMs in Real-World Information Seeking Scenarios}, 
       author={Yilun Zhao and Haowei Zhang and Shengyun Si and Linyong Nan and Xiangru Tang and Arman Cohan},
       year={2023},
