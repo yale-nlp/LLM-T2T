@@ -283,6 +283,8 @@ def main():
     if args.direct_mode == 'CoT' and (args.dataset == 'FeTaQA' or args.dataset == 'F2WTQ'):
         output_data = FeTaQA_F2WTQ_CoT_clean(output_data)
     output_path = get_exact_output_path(output_path=args.output_path, engine=args.model_type, dataset=args.dataset, mode=args.mode, direct_mode=args.direct_mode, finetuned_model=finetuned_model)
+    
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
     json.dump(output_data, open(output_path, "w"), indent=4)
 
 

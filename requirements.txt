@@ -33,6 +33,7 @@ regex==2023.12.25
 requests==2.31.0
 safetensors==0.4.1
 scipy==1.11.4
+sentencepiece==0.1.99
 sympy==1.12
 tiktoken==0.5.2
 tokenizers==0.15.0

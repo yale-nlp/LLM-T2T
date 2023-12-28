@@ -16,6 +16,8 @@ At first, modify the bash script [GPT_T2T_generation.sh](scripts/GPT_T2T_generat
 Commands to generate text directly by the LLM (RQ1):
 
 ```
+export CUDA_VISIBLE_DEVICES=0,1; 
+export PYTHONPATH=`pwd`;
 python src/GPT_T2T_generation.py \
     --api_org  \
     --api_key  \
@@ -25,13 +27,14 @@ python src/GPT_T2T_generation.py \
     --mode direct \
     --direct_mode two_shot_CoT \
     --dataset FeTaQA \
-    --num_limit 3 \
-    --output_path output/test_path/
+    --output_path output/FeTaQA/
 ```
 
 Commands to improve the output of the finetuned small models by the LLM (RQ3):
 
 ```
+export CUDA_VISIBLE_DEVICES=0,1; 
+export PYTHONPATH=`pwd`;
 python src/GPT_T2T_generation.py \
     --api_org  \
     --api_key  \
@@ -41,14 +44,8 @@ python src/GPT_T2T_generation.py \
     --mode improve \
     --dataset LogicNLG \
     --finetuned_model_path output/LogicNLG/original/100tables/GPT2_100tables.json \
-    --num_limit 3 \
     --num_paths 3 \
-    --output_path output/test_path/
-```
-Then run the bash script:
-
-```
-sh GPT_T2T_generation.sh
+    --output_path output/LogicNLG/
 ```
 
 ## Table-to-Text Generation by Open-Source Models:
@@ -58,37 +55,29 @@ Commands to generate text directly by the LLM (RQ1):
 
 ```
 export CUDA_VISIBLE_DEVICES=0,1; 
-
+export PYTHONPATH=`pwd`;
 python src/open_src_model_T2T_generation.py \
     --model_type llama-7b \
     --model_name_or_path huggyllama/llama-7b \
     --mode direct \
     --direct CoT \
     --dataset FeTaQA \
-    --output_path output/test_path \
-    --num_limit 3
+    --output_path output/FeTaQA \
 ```
 
 Commands to improve the output of the finetuned small models by the LLM (RQ3):
 
 ```
-export CUDA_VISIBLE_DEVICES=0,1;
-
+export CUDA_VISIBLE_DEVICES=0,1; 
+export PYTHONPATH=`pwd`;
 python src/open_src_model_T2T_generation.py \
     --model_type llama-7b \
     --model_name_or_path huggyllama/llama-7b \
     --mode improve \
     --dataset LogicNLG \
     --finetuned_model_path data/LogicNLG/original/100tables/GPT2_100tables.json \
-    --output_path output/test_path \
-    --num_limit 3
+    --output_path output/LogicNLG \
 ```
-Then run the bash script:
-
-```
-sh open_src_model_T2T_generation.sh
-```
-
 
 ## Contact
 For any issues or questions, kindly email us at: Yilun Zhao (yilun.zhao@yale.edu), Haowei Zhang (haowei.zhang@tum.de) or Shengyun Si (shengyun.si@tum.de).
