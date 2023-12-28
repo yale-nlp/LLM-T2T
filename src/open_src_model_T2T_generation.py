@@ -8,7 +8,7 @@ from transformers import (
     AutoModelForCausalLM,
 )
 
-sys.path.append('../')
+sys.path.append('')
 from utils import *
 
 MAX_LENGTH = int(10000)  # Hardcoded max length to avoid infinite loop
@@ -89,7 +89,7 @@ def main():
                         help="k for top-k sampling")
     parser.add_argument("--p", type=float, default=0.9,
                         help="p for top-p sampling")
-    parser.add_argument("--output_path", type=str, default="../output/test_path",
+    parser.add_argument("--output_path", type=str, default="output/test_path",
                         help='output path for the generated data')
     parser.add_argument("--num_limit", type=int, default=10,
                         help='number of tables used to generate')
@@ -120,9 +120,9 @@ def main():
     prompt_path = args.prompt_path    
     if prompt_path == None:
         if args.mode == 'direct':
-            prompt_path = f'../prompts/open_src_model/{args.dataset}/prompt_{args.dataset}_{args.mode}_{args.direct_mode}.txt'
+            prompt_path = f'prompts/open_src_model/{args.dataset}/prompt_{args.dataset}_{args.mode}_{args.direct_mode}.txt'
         else:
-            prompt_path = f'../prompts/open_src_model/{args.dataset}/prompt_{args.dataset}_{args.mode}.txt'
+            prompt_path = f'prompts/open_src_model/{args.dataset}/prompt_{args.dataset}_{args.mode}.txt'
 
     prompt_template = open(prompt_path, 'r', encoding='utf-8').read().strip()
 

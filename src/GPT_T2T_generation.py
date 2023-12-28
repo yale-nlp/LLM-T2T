@@ -7,7 +7,7 @@ import argparse
 import platform
 from tenacity import retry, stop_after_attempt, wait_random_exponential
 
-sys.path.append('../')
+sys.path.append('')
 from utils import *
 
 
@@ -98,7 +98,7 @@ def LogicNLG_direct(engine, direct_mode, data_path, prompt_path, num_limit, outp
 
     count = 0
     if prompt_path == None:
-        prompt_path = '../prompts/GPT/LogicNLG/prompt_LogicNLG_table2text_%s.txt' %direct_mode
+        prompt_path = 'prompts/GPT/LogicNLG/prompt_LogicNLG_table2text_%s.txt' %direct_mode
     with open(prompt_path, 'r', encoding='utf-8') as load_file:
         prompt_template = load_file.read()
 
@@ -131,7 +131,7 @@ def LogicNLG_improve(engine, finetuned_model_path, prompt_path, num_limit, outpu
     output_data = {}
     count = 0
     if prompt_path == None:
-        prompt_path = '../prompts/GPT/LogicNLG/prompt_LogicNLG_improve.txt'
+        prompt_path = 'prompts/GPT/LogicNLG/prompt_LogicNLG_improve.txt'
     with open(prompt_path, 'r', encoding='utf-8') as load_file:
         prompt_template = load_file.read()
     for cur_id, current in data.items():
@@ -185,7 +185,7 @@ def FeTaQA_direct(engine, direct_mode, data_path, prompt_path, num_limit, output
 
     count = 0
     if prompt_path == None:
-        prompt_path = '../prompts/GPT/FeTaQA/prompt_FeTaQA_table2text_%s.txt' %direct_mode
+        prompt_path = 'prompts/GPT/FeTaQA/prompt_FeTaQA_table2text_%s.txt' %direct_mode
     with open(prompt_path, 'r', encoding='utf-8') as load_file:
         prompt_template = load_file.read()
 
@@ -237,7 +237,7 @@ def FeTaQA_improve(engine, finetuned_model_path, prompt_path, num_limit, output_
         feta_id = str(current['feta_id'])
         answer = answer_data[feta_id]
         if prompt_path == None:
-            prompt_path = '../prompts/GPT/FeTaQA/prompt_FeTaQA_improve.txt'
+            prompt_path = 'prompts/GPT/FeTaQA/prompt_FeTaQA_improve.txt'
         with open(prompt_path, 'r', encoding='utf-8') as load_file:
             prompt_template = load_file.read()
 
@@ -280,7 +280,7 @@ def F2WTQ_direct(engine, direct_mode, data_path, prompt_path, num_limit, output_
 
     count = 0
     if prompt_path == None:
-        prompt_path = '../prompts/GPT/F2WTQ/prompt_F2WTQ_table2text_%s.txt' %direct_mode
+        prompt_path = 'prompts/GPT/F2WTQ/prompt_F2WTQ_table2text_%s.txt' %direct_mode
     with open(prompt_path, 'r', encoding='utf-8') as load_file:
         prompt_template = load_file.read()
 
@@ -320,7 +320,7 @@ def LoTNLG_direct(engine, direct_mode, data_path, prompt_path, num_limit, output
 
     count = 0
     if prompt_path == None:
-        prompt_path = '../prompts/GPT/LoTNLG/prompt_LoTNLG_table2text_%s.txt' %direct_mode
+        prompt_path = 'prompts/GPT/LoTNLG/prompt_LoTNLG_table2text_%s.txt' %direct_mode
     with open(prompt_path, 'r', encoding='utf-8') as load_file:
         prompt_template = load_file.read()
 
@@ -377,7 +377,7 @@ if __name__ == '__main__':
                         help='original data path for the dataset. If not specified, we will use the default path for each dataset')
     parser.add_argument("--finetuned_model_path", type=str,
                         help='output path of finetuned small model for the dataset, only valid when you choose "improve" as mode')
-    parser.add_argument("--output_path", type=str, default="../outputs",
+    parser.add_argument("--output_path", type=str, default="outputs",
                         help='output path for the generated data')
     parser.add_argument("--num_limit", type=int, default=10,
                         help='number of tables used to generate')
