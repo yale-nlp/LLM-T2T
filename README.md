@@ -1,5 +1,8 @@
 # LLM-T2T
 The data and code for the EMNLP 2023 industry-track paper [Investigating Table-to-Text Generation Capabilities of LLMs in Real-World Information Seeking Scenarios](https://arxiv.org/abs/2305.14987). This research investigates the table-to-text capabilities of different LLMs using four datasets within two real-world information seeking scenarios. It demonstrates that high-performing LLMs, such as GPT-4, can effectively serve as table-to-text generators, evaluators, and feedback generators.
+<p align="center">
+<img src="figures/overview.png" width="80%">
+</p>
 
 ## Environment Setup
 The code is tested on the following environment:
