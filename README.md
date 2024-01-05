@@ -30,7 +30,8 @@ python src/GPT_T2T_generation.py \
     --mode direct \
     --direct_mode two_shot_CoT \
     --dataset FeTaQA \
-    --output_path output/FeTaQA/
+    --output_path output/FeTaQA/ \
+    --num_limit 500 # number of tables used for generation
 ```
 
 Commands to improve the output of the finetuned small models by the LLM (RQ3):
@@ -48,7 +49,8 @@ python src/GPT_T2T_generation.py \
     --dataset LogicNLG \
     --finetuned_model_path output/LogicNLG/original/100tables/GPT2_100tables.json \
     --num_paths 3 \
-    --output_path output/LogicNLG/
+    --output_path output/LogicNLG/ \
+    --num_limit 500 # number of tables used for generation
 ```
 
 ## Table-to-Text Generation by Open-Source Models:
@@ -66,6 +68,7 @@ python src/open_src_model_T2T_generation.py \
     --direct CoT \
     --dataset FeTaQA \
     --output_path output/FeTaQA \
+    --num_limit 500 # number of tables used for generation
 ```
 
 Commands to improve the output of the finetuned small models by the LLM (RQ3):
@@ -80,6 +83,7 @@ python src/open_src_model_T2T_generation.py \
     --dataset LogicNLG \
     --finetuned_model_path data/LogicNLG/original/100tables/GPT2_100tables.json \
     --output_path output/LogicNLG \
+    --num_limit 500 # number of tables used for generation
 ```
 
 ## Contact
